@@ -180,15 +180,12 @@ def choose_news(config: dict, target_date: datetime) -> list[NewsItem]:
             item.score = score_item(item, settings["keywords"], target_date)
         candidates.sort(key=lambda item: item.score, reverse=True)
         selected = candidates[0]
-        extractable = []
         for candidate in candidates[:8]:
             source_article = extract_source_article(candidate)
             if len(source_article) >= 200:
                 candidate._source_article = source_article
-                content_score = candidate.score + min(10, len(source_article) / 100)
-                extractable.append((content_score, candidate))
-        if extractable:
-            selected = max(extractable, key=lambda pair: pair[0])[1]
+                selected = candidate
+                break
         chosen.append(selected)
     return chosen
 
