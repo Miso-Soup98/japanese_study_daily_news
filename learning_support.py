@@ -178,7 +178,7 @@ def build_detailed_japanese(item, source_article: str, github_token: str = "") -
                 )
                 raw_output = _github_model_rewrite(prompt + retry_note, github_token)
                 rewritten = _validated_rewrite(raw_output, source_article)
-                if len(rewritten) >= 250:
+                if len(rewritten) >= 120:
                     return rewritten
         except Exception as exc:
             print(f"GitHub Models 改写失败：{item.category} - {exc}")
