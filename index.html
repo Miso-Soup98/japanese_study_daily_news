@@ -8,7 +8,6 @@
     :root { color-scheme: light; --ink:#172033; --muted:#677085; --blue:#225bc7; }
     * { box-sizing: border-box; }
     body { margin:0; background:#f2f5fa; color:var(--ink); font-family:"Microsoft YaHei UI","Yu Gothic UI",sans-serif; }
-    html { scroll-behavior:smooth; scroll-padding-top:86px; }
     header { padding:38px 22px 28px; color:white; background:linear-gradient(125deg,#12284f,#2962c7); }
     header .inner, main { width:min(1420px,calc(100% - 30px)); margin:auto; }
     h1 { margin:0 0 9px; font-size:clamp(26px,4vw,42px); }
@@ -17,9 +16,10 @@
     .category-nav { position:sticky; top:0; z-index:20; background:rgba(255,255,255,.96); backdrop-filter:blur(12px); border-bottom:1px solid #dfe5ef; box-shadow:0 4px 18px rgba(27,42,72,.08); }
     .category-nav .nav-inner { width:min(1420px,calc(100% - 30px)); margin:auto; display:grid; grid-template-columns:repeat(8,1fr); gap:7px; padding:10px 0; }
     .category-nav a { color:#28426f; text-decoration:none; text-align:center; padding:9px 6px; border-radius:10px; font-weight:750; white-space:nowrap; }
-    .category-nav a:hover { color:white; background:var(--blue); }
+    .category-nav a:hover, .category-nav a.active { color:white; background:var(--blue); }
     .notice { background:#fff7d9; border:1px solid #ecd98d; border-radius:12px; padding:13px 16px; font-size:14px; }
     .card { background:white; border-radius:18px; padding:0; box-shadow:0 8px 28px rgba(31,45,75,.08); display:grid; grid-template-columns:minmax(0,1fr) 360px; overflow:hidden; }
+    .news-section[hidden] { display:none; }
     .article-main { padding:26px 30px 30px; min-width:0; }
     .study-panel { background:#f7f9fd; border-left:1px solid #e3e8f2; padding:24px 22px; }
     .study-title { color:var(--blue); font-weight:800; font-size:18px; margin-bottom:12px; }
@@ -53,11 +53,11 @@
     <h1>每日新闻 · 日语学习简报</h1>
     <p>2026年06月25日　日文摘要 / 中文翻译 / 汉字振假名</p>
   </div></header>
-  <nav class="category-nav" aria-label="新闻栏目"><div class="nav-inner"><a href="#headline">📰 新闻</a><a href="#politics">🏛️ 政治</a><a href="#economy">📈 经济</a><a href="#entertainment">🎬 娱乐</a><a href="#sports">⚽ 体育</a><a href="#society">🏙️ 社会</a><a href="#technology">💻 数码科技</a><a href="#defense">🛡️ 军事</a></div></nav>
+  <nav class="category-nav" aria-label="新闻栏目"><div class="nav-inner"><a href="#headline" data-section="headline" role="tab" aria-controls="headline">📰 新闻</a><a href="#politics" data-section="politics" role="tab" aria-controls="politics">🏛️ 政治</a><a href="#economy" data-section="economy" role="tab" aria-controls="economy">📈 经济</a><a href="#entertainment" data-section="entertainment" role="tab" aria-controls="entertainment">🎬 娱乐</a><a href="#sports" data-section="sports" role="tab" aria-controls="sports">⚽ 体育</a><a href="#society" data-section="society" role="tab" aria-controls="society">🏙️ 社会</a><a href="#technology" data-section="technology" role="tab" aria-controls="technology">💻 数码科技</a><a href="#defense" data-section="defense" role="tab" aria-controls="defense">🛡️ 军事</a></div></nav>
   <main>
     <div class="notice">内容为学习用途的自动摘要，不是新闻正文转载。关键新闻由时效、来源权威度、影响范围和栏目关键词综合筛选。</div>
     
-            <article class="card" id="headline">
+            <article class="card news-section" id="headline" role="tabpanel">
               <div class="article-main">
                 <div class="category">📰 新闻</div>
                 <h3>日文原文标题</h3>
@@ -169,7 +169,7 @@
               </aside>
             </article>
             
-            <article class="card" id="politics">
+            <article class="card news-section" id="politics" role="tabpanel">
               <div class="article-main">
                 <div class="category">🏛️ 政治</div>
                 <h3>日文原文标题</h3>
@@ -281,7 +281,7 @@
               </aside>
             </article>
             
-            <article class="card" id="economy">
+            <article class="card news-section" id="economy" role="tabpanel">
               <div class="article-main">
                 <div class="category">📈 经济</div>
                 <h3>日文原文标题</h3>
@@ -393,7 +393,7 @@
               </aside>
             </article>
             
-            <article class="card" id="entertainment">
+            <article class="card news-section" id="entertainment" role="tabpanel">
               <div class="article-main">
                 <div class="category">🎬 娱乐</div>
                 <h3>日文原文标题</h3>
@@ -505,7 +505,7 @@
               </aside>
             </article>
             
-            <article class="card" id="sports">
+            <article class="card news-section" id="sports" role="tabpanel">
               <div class="article-main">
                 <div class="category">⚽ 体育</div>
                 <h3>日文原文标题</h3>
@@ -617,7 +617,7 @@
               </aside>
             </article>
             
-            <article class="card" id="society">
+            <article class="card news-section" id="society" role="tabpanel">
               <div class="article-main">
                 <div class="category">🏙️ 社会</div>
                 <h3>日文原文标题</h3>
@@ -729,7 +729,7 @@
               </aside>
             </article>
             
-            <article class="card" id="technology">
+            <article class="card news-section" id="technology" role="tabpanel">
               <div class="article-main">
                 <div class="category">💻 数码科技</div>
                 <h3>日文原文标题</h3>
@@ -841,7 +841,7 @@
               </aside>
             </article>
             
-            <article class="card" id="defense">
+            <article class="card news-section" id="defense" role="tabpanel">
               <div class="article-main">
                 <div class="category">🛡️ 军事</div>
                 <h3>日文原文标题</h3>
@@ -954,6 +954,39 @@
             </article>
             
   </main>
-  <footer>生成时间：2026-06-25 13:16 JST</footer>
+  <footer>生成时间：2026-06-25 13:26 JST</footer>
+  <script>
+    (() => {
+      const tabs = [...document.querySelectorAll('.category-nav a[data-section]')];
+      const sections = [...document.querySelectorAll('.news-section')];
+      const validIds = new Set(sections.map(section => section.id));
+
+      function showSection(id, updateHistory = false) {
+        const targetId = validIds.has(id) ? id : sections[0]?.id;
+        if (!targetId) return;
+        sections.forEach(section => {
+          const active = section.id === targetId;
+          section.hidden = !active;
+          section.setAttribute('aria-hidden', String(!active));
+        });
+        tabs.forEach(tab => {
+          const active = tab.dataset.section === targetId;
+          tab.classList.toggle('active', active);
+          tab.setAttribute('aria-selected', String(active));
+          tab.tabIndex = active ? 0 : -1;
+        });
+        if (updateHistory) history.pushState({ section: targetId }, '', `#${targetId}`);
+        document.title = `${tabs.find(tab => tab.dataset.section === targetId)?.textContent.trim() || ''} · 2026年06月25日 每日新闻日语学习简报`;
+        window.scrollTo({ top: 0, behavior: 'instant' });
+      }
+
+      tabs.forEach(tab => tab.addEventListener('click', event => {
+        event.preventDefault();
+        showSection(tab.dataset.section, true);
+      }));
+      window.addEventListener('popstate', () => showSection(location.hash.slice(1), false));
+      showSection(location.hash.slice(1), false);
+    })();
+  </script>
 </body>
 </html>

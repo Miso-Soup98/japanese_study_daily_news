@@ -281,7 +281,9 @@ def render_report(items: list[NewsItem], config: dict, target_date: datetime) ->
         "军事": "defense",
     }
     navigation = "".join(
-        f'<a href="#{section_ids.get(item.category, f"section-{index}")}">'
+        f'<a href="#{section_ids.get(item.category, f"section-{index}")}" '
+        f'data-section="{section_ids.get(item.category, f"section-{index}")}" '
+        f'role="tab" aria-controls="{section_ids.get(item.category, f"section-{index}")}">'
         f'{icons.get(item.category, "📰")} {html.escape(item.category)}</a>'
         for index, item in enumerate(items, 1)
     )
@@ -313,7 +315,7 @@ def render_report(items: list[NewsItem], config: dict, target_date: datetime) ->
         )
         cards.append(
             f"""
-            <article class="card" id="{section_ids.get(item.category, f"section-{index}")}">
+            <article class="card news-section" id="{section_ids.get(item.category, f"section-{index}")}" role="tabpanel">
               <div class="article-main">
                 <div class="category">{icons.get(item.category, "📰")} {html.escape(item.category)}</div>
                 <h3>日文原文标题</h3>
@@ -353,7 +355,6 @@ def render_report(items: list[NewsItem], config: dict, target_date: datetime) ->
     :root {{ color-scheme: light; --ink:#172033; --muted:#677085; --blue:#225bc7; }}
     * {{ box-sizing: border-box; }}
     body {{ margin:0; background:#f2f5fa; color:var(--ink); font-family:"Microsoft YaHei UI","Yu Gothic UI",sans-serif; }}
-    html {{ scroll-behavior:smooth; scroll-padding-top:86px; }}
     header {{ padding:38px 22px 28px; color:white; background:linear-gradient(125deg,#12284f,#2962c7); }}
     header .inner, main {{ width:min(1420px,calc(100% - 30px)); margin:auto; }}
     h1 {{ margin:0 0 9px; font-size:clamp(26px,4vw,42px); }}
@@ -362,9 +363,10 @@ def render_report(items: list[NewsItem], config: dict, target_date: datetime) ->
     .category-nav {{ position:sticky; top:0; z-index:20; background:rgba(255,255,255,.96); backdrop-filter:blur(12px); border-bottom:1px solid #dfe5ef; box-shadow:0 4px 18px rgba(27,42,72,.08); }}
     .category-nav .nav-inner {{ width:min(1420px,calc(100% - 30px)); margin:auto; display:grid; grid-template-columns:repeat(8,1fr); gap:7px; padding:10px 0; }}
     .category-nav a {{ color:#28426f; text-decoration:none; text-align:center; padding:9px 6px; border-radius:10px; font-weight:750; white-space:nowrap; }}
-    .category-nav a:hover {{ color:white; background:var(--blue); }}
+    .category-nav a:hover, .category-nav a.active {{ color:white; background:var(--blue); }}
     .notice {{ background:#fff7d9; border:1px solid #ecd98d; border-radius:12px; padding:13px 16px; font-size:14px; }}
     .card {{ background:white; border-radius:18px; padding:0; box-shadow:0 8px 28px rgba(31,45,75,.08); display:grid; grid-template-columns:minmax(0,1fr) 360px; overflow:hidden; }}
+    .news-section[hidden] {{ display:none; }}
     .article-main {{ padding:26px 30px 30px; min-width:0; }}
     .study-panel {{ background:#f7f9fd; border-left:1px solid #e3e8f2; padding:24px 22px; }}
     .study-title {{ color:var(--blue); font-weight:800; font-size:18px; margin-bottom:12px; }}
@@ -404,6 +406,39 @@ def render_report(items: list[NewsItem], config: dict, target_date: datetime) ->
     {''.join(cards)}
   </main>
   <footer>生成时间：{datetime.now(JST):%Y-%m-%d %H:%M JST}</footer>
+  <script>
+    (() => {{
+      const tabs = [...document.querySelectorAll('.category-nav a[data-section]')];
+      const sections = [...document.querySelectorAll('.news-section')];
+      const validIds = new Set(sections.map(section => section.id));
+
+      function showSection(id, updateHistory = false) {{
+        const targetId = validIds.has(id) ? id : sections[0]?.id;
+        if (!targetId) return;
+        sections.forEach(section => {{
+          const active = section.id === targetId;
+          section.hidden = !active;
+          section.setAttribute('aria-hidden', String(!active));
+        }});
+        tabs.forEach(tab => {{
+          const active = tab.dataset.section === targetId;
+          tab.classList.toggle('active', active);
+          tab.setAttribute('aria-selected', String(active));
+          tab.tabIndex = active ? 0 : -1;
+        }});
+        if (updateHistory) history.pushState({{ section: targetId }}, '', `#${{targetId}}`);
+        document.title = `${{tabs.find(tab => tab.dataset.section === targetId)?.textContent.trim() || ''}} · {date_label} 每日新闻日语学习简报`;
+        window.scrollTo({{ top: 0, behavior: 'instant' }});
+      }}
+
+      tabs.forEach(tab => tab.addEventListener('click', event => {{
+        event.preventDefault();
+        showSection(tab.dataset.section, true);
+      }}));
+      window.addEventListener('popstate', () => showSection(location.hash.slice(1), false));
+      showSection(location.hash.slice(1), false);
+    }})();
+  </script>
 </body>
 </html>"""
 
