@@ -56,7 +56,125 @@ GRAMMAR_LIBRARY = [
         "表示“面向……／为了……”。常接目标、比赛、制度实施等。",
         "次の試合に向けて、選手たちは調整を続けています。",
     ),
+    (
+        "に対して",
+        "对象・对比",
+        "表示动作、态度所针对的对象，也可用于对比两个事物。",
+        "政府は企業に対して説明を求めました。",
+    ),
+    (
+        "に対する",
+        "对象修饰",
+        "「に対して」的连体形式，后接名词，表示“针对……的”。",
+        "政策に対する批判が強まっています。",
+    ),
+    (
+        "として",
+        "身份・立场",
+        "表示“作为……”，说明身份、资格、用途或立场。",
+        "専門家として会議に参加しました。",
+    ),
+    (
+        "によって",
+        "手段・原因・主体",
+        "可表示手段、原因或被动句中的动作主体，需要结合上下文判断。",
+        "大雨によって道路が通行止めになりました。",
+    ),
+    (
+        "により",
+        "手段・原因",
+        "「によって」的书面表达，新闻报道中很常见。",
+        "事故により列車に遅れが出ています。",
+    ),
+    (
+        "ために",
+        "目的・原因",
+        "可表示“为了……”或“因为……”，应根据前后内容判断。",
+        "安全を確認するために運転を止めました。",
+    ),
+    (
+        "一方で",
+        "对比・并列",
+        "表示“另一方面”，用于补充与前项不同或相对的情况。",
+        "輸出が増える一方で、国内需要は減少しました。",
+    ),
+    (
+        "ことができる",
+        "可能",
+        "动词辞书形后接，表示“能够……／可以……”。",
+        "オンラインで申し込むことができます。",
+    ),
+    (
+        "ことになる",
+        "结果・决定",
+        "表示由外部情况形成的结果或决定，并非说话人主动决定。",
+        "来月から新しい制度が始まることになりました。",
+    ),
+    (
+        "ようになる",
+        "状态变化",
+        "表示能力、习惯或状态逐渐发生变化。",
+        "多くの人が利用できるようになりました。",
+    ),
+    (
+        "とされる",
+        "传闻・客观认定",
+        "表示“被认为……／据称……”，常用于保持报道语气的客观性。",
+        "被害額は数億円に上るとされています。",
+    ),
+    (
+        "としています",
+        "主张・方针",
+        "新闻中常用于转述机构或人物的说明、判断或今后的方针。",
+        "会社は安全確認を進めるとしています。",
+    ),
+    (
+        "見込みです",
+        "预测",
+        "表示根据现有信息作出的较有依据的预测，意思是“预计……”。",
+        "運転は午後に再開する見込みです。",
+    ),
 ]
+
+
+POS_ZH = {
+    "名詞": "名词",
+    "動詞": "动词",
+    "形容詞": "形容词",
+    "形状詞": "形容动词",
+    "副詞": "副词",
+    "連体詞": "连体词",
+    "接続詞": "接续词",
+    "助詞": "助词",
+    "助動詞": "助动词",
+    "代名詞": "代词",
+    "接頭辞": "前缀",
+    "接尾辞": "后缀",
+    "感動詞": "感叹词",
+}
+
+GRAMMAR_MATCH_CONFIDENCE = {
+    "によると": "高",
+    "を受けて": "高",
+    "について": "高",
+    "とみられます": "高",
+    "必要があります": "高",
+    "かどうか": "高",
+    "に向けて": "高",
+    "に対して": "高",
+    "に対する": "高",
+    "として": "中",
+    "によって": "中",
+    "により": "中",
+    "ために": "中",
+    "一方で": "高",
+    "ことができる": "高",
+    "ことになる": "高",
+    "ようになる": "高",
+    "とされる": "高",
+    "としています": "高",
+    "見込みです": "高",
+}
 
 
 def _github_model_rewrite(prompt: str, token: str) -> str:
@@ -323,3 +441,143 @@ def extract_grammar(text: str, limit: int = 3) -> list[dict]:
                 }
             )
     return found[:limit]
+
+
+def build_interactive_analysis(
+    text: str,
+    known_vocabulary: list[dict] | None = None,
+    dictionary_entries: dict[str, list[dict]] | None = None,
+) -> dict:
+    """Build token and grammar metadata used by the browser selection panel."""
+    from sudachipy import dictionary, tokenizer
+
+    tagger = dictionary.Dictionary().create()
+    known_by_word = {
+        entry.get("word", ""): entry for entry in (known_vocabulary or [])
+    }
+    tokens = []
+    seen = set()
+    for token in tagger.tokenize(text, tokenizer.Tokenizer.SplitMode.C):
+        surface = token.surface()
+        if not surface.strip() or not re.search(r"[一-龯々〆ヶぁ-ゖァ-ヺー]", surface):
+            continue
+        pos_data = token.part_of_speech()
+        pos = pos_data[0] if pos_data else ""
+        lemma = token.dictionary_form() or surface
+        sentence_start = max(
+            text.rfind("。", 0, token.begin()),
+            text.rfind("！", 0, token.begin()),
+            text.rfind("？", 0, token.begin()),
+            text.rfind("\n", 0, token.begin()),
+        ) + 1
+        sentence_end_candidates = [
+            position
+            for marker in ("。", "！", "？", "\n")
+            if (position := text.find(marker, token.end())) >= 0
+        ]
+        sentence_end = min(sentence_end_candidates) + 1 if sentence_end_candidates else len(text)
+        context = text[sentence_start:sentence_end].strip()
+        key = (surface, lemma, pos, context)
+        if key in seen:
+            continue
+        seen.add(key)
+        known = known_by_word.get(lemma) or known_by_word.get(surface) or {}
+        dictionary_matches = (dictionary_entries or {}).get(lemma, [])
+        token_reading = _hiragana(token.reading_form())
+        exact_reading_matches = [
+            entry
+            for entry in dictionary_matches
+            if any(
+                _hiragana(value) == token_reading
+                or (
+                    pos in {"動詞", "形容詞", "助動詞"}
+                    and _hiragana(value).startswith(token_reading)
+                )
+                for value in entry["readings"]
+            )
+        ]
+        matching_entries = exact_reading_matches or dictionary_matches
+        selected_dictionary = None
+        if matching_entries:
+            selected_dictionary = {
+                "spellings": sorted(
+                    {value for entry in matching_entries for value in entry["spellings"]}
+                ),
+                "readings": sorted(
+                    {value for entry in matching_entries for value in entry["readings"]}
+                ),
+                "common": any(entry["common"] for entry in matching_entries),
+                "senses": [
+                    sense
+                    for entry in matching_entries
+                    for sense in entry["senses"]
+                ][:8],
+                "entryCount": len(matching_entries),
+            }
+        is_oov = token.is_oov()
+        sense_count = len(selected_dictionary["senses"]) if selected_dictionary else 0
+        gloss_count = (
+            sum(len(sense["glosses"]) for sense in selected_dictionary["senses"])
+            if selected_dictionary
+            else 0
+        )
+        if (
+            selected_dictionary
+            and exact_reading_matches
+            and not is_oov
+            and len(matching_entries) == 1
+            and sense_count == 1
+            and gloss_count <= 3
+        ):
+            confidence = "高"
+            confidence_reason = "词形、读音与 JMdict 词条一致，候选义项较少"
+        elif selected_dictionary and exact_reading_matches:
+            confidence = "中"
+            confidence_reason = "词形和读音已匹配，但存在多个词条或义项，不能自动确定语境义"
+        elif selected_dictionary:
+            confidence = "中"
+            confidence_reason = "词形可在 JMdict 中查到，但读音或分词仍需结合上下文确认"
+        else:
+            confidence = "低"
+            confidence_reason = "JMdict 未找到完全一致词条，不输出确定释义"
+        tokens.append(
+            {
+                "surface": surface,
+                "lemma": lemma,
+                "reading": token_reading,
+                "pos": POS_ZH.get(pos, pos),
+                "posJa": pos,
+                "conjugationType": pos_data[4] if len(pos_data) > 4 and pos_data[4] != "*" else "",
+                "conjugationForm": pos_data[5] if len(pos_data) > 5 and pos_data[5] != "*" else "",
+                "meaning": known.get("meaning", ""),
+                "usage": known.get("usage", ""),
+                "dictionary": selected_dictionary,
+                "confidence": confidence,
+                "confidenceReason": confidence_reason,
+                "isOov": is_oov,
+                "context": context,
+            }
+        )
+
+    grammar = []
+    for pattern, label, explanation, example in GRAMMAR_LIBRARY:
+        for match in re.finditer(re.escape(pattern), text):
+            start = max(0, match.start() - 18)
+            end = min(len(text), match.end() + 18)
+            grammar.append(
+                {
+                    "pattern": pattern,
+                    "label": label,
+                    "explanation": explanation,
+                    "example": example,
+                    "evidence": text[start:end].replace("\n", ""),
+                    "confidence": GRAMMAR_MATCH_CONFIDENCE.get(pattern, "中"),
+                    "confidenceReason": (
+                        "固定形式与正文完全一致"
+                        if GRAMMAR_MATCH_CONFIDENCE.get(pattern) == "高"
+                        else "形式一致，但具体功能需结合前后文判断"
+                    ),
+                }
+            )
+            break
+    return {"tokens": tokens, "grammar": grammar}
