@@ -4,10 +4,17 @@ on:
   schedule:
     # 00:00 Asia/Tokyo = 15:00 UTC on the previous calendar day.
     - cron: "0 15 * * *"
+  push:
+    paths:
+      - "generate_daily_news.py"
+      - "learning_support.py"
+      - "requirements.txt"
+      - "news_config.json"
   workflow_dispatch:
 
 permissions:
   contents: write
+  models: read
 
 jobs:
   generate:
@@ -26,6 +33,7 @@ jobs:
       - name: Generate today's report
         env:
           PYTHONUTF8: "1"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python generate_daily_news.py --no-open
 
       - name: Commit updated report
@@ -39,4 +47,3 @@ jobs:
             git commit -m "Update daily news $(date -u +%F)"
             git push
           fi
-

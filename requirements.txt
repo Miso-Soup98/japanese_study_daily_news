@@ -1,3 +1,4 @@
 fugashi>=1.5
 unidic-lite>=1.0.8
-
+googlenewsdecoder>=0.1.7
+trafilatura>=2.1

@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import os
 import re
 import sys
 import urllib.parse
@@ -57,6 +58,7 @@ class NewsItem:
     url: str
     published: str
     japanese_summary: str
+    source_url: str = ""
     chinese_title: str = ""
     chinese_summary: str = ""
     detailed_japanese: str = ""
@@ -177,8 +179,62 @@ def choose_news(config: dict, target_date: datetime) -> list[NewsItem]:
         for item in candidates:
             item.score = score_item(item, settings["keywords"], target_date)
         candidates.sort(key=lambda item: item.score, reverse=True)
-        chosen.append(candidates[0])
+        selected = candidates[0]
+        extractable = []
+        for candidate in candidates[:8]:
+            source_article = extract_source_article(candidate)
+            if len(source_article) >= 200:
+                candidate._source_article = source_article
+                content_score = candidate.score + min(10, len(source_article) / 100)
+                extractable.append((content_score, candidate))
+        if extractable:
+            selected = max(extractable, key=lambda pair: pair[0])[1]
+        chosen.append(selected)
     return chosen
+
+
+def extract_source_article(item: NewsItem) -> str:
+    """Resolve a Google News URL and extract the source article for summarization."""
+    try:
+        from googlenewsdecoder import gnewsdecoder
+        from trafilatura import extract, fetch_url
+
+        decoded = gnewsdecoder(item.url)
+        if decoded.get("status") and decoded.get("decoded_url"):
+            item.source_url = decoded["decoded_url"]
+        else:
+            item.source_url = item.url
+        document = fetch_url(item.source_url)
+        text = extract(
+            document,
+            url=item.source_url,
+            include_comments=False,
+            include_tables=False,
+            favor_recall=True,
+        )
+        if not text:
+            return ""
+        blocked_markers = (
+            "この記事の続きを読む",
+            "今すぐ登録",
+            "会員登録",
+            "ログインして",
+            "無断転載",
+            "関連記事",
+        )
+        lines = []
+        for line in text.splitlines():
+            line = clean_text(line)
+            if len(line) < 8 or any(marker in line for marker in blocked_markers):
+                continue
+            if line == item.title or line == item.source:
+                continue
+            lines.append(line)
+        return "\n".join(lines)[:7000]
+    except Exception as exc:
+        print(f"正文提取失败：{item.category} - {exc}", file=sys.stderr)
+        item.source_url = item.url
+        return ""
 
 
 class Translator:
@@ -330,7 +386,7 @@ def render_report(items: list[NewsItem], config: dict, target_date: datetime) ->
                   <p class="zh"><strong>{html.escape(item.chinese_title)}</strong></p>
                   <p class="zh detailed">{html.escape(item.detailed_chinese or item.chinese_summary)}</p>
                 </section>
-                <a class="source" href="{html.escape(item.url, quote=True)}" target="_blank" rel="noreferrer">
+                <a class="source" href="{html.escape(item.source_url or item.url, quote=True)}" target="_blank" rel="noreferrer">
                   阅读来源报道 ↗
                 </a>
               </div>
@@ -469,7 +525,14 @@ def main() -> int:
         print(f"翻译：{item.category} - {item.title}")
         item.chinese_title = translator(item.title)
         item.chinese_summary = translator(item.japanese_summary)
-        item.detailed_japanese = build_detailed_japanese(item)
+        source_article = getattr(item, "_source_article", None)
+        if source_article is None:
+            source_article = extract_source_article(item)
+        item.detailed_japanese = build_detailed_japanese(
+            item,
+            source_article,
+            github_token=os.environ.get("GITHUB_TOKEN", ""),
+        )
         item.detailed_chinese = translator(item.detailed_japanese)
         item.vocabulary = extract_vocabulary(
             item.detailed_japanese, translator

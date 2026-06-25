@@ -1,44 +1,10 @@
 from __future__ import annotations
 
+import json
 import re
+import urllib.request
 from collections import Counter
 
-
-CATEGORY_GUIDANCE = {
-    "政治": (
-        "政治ニュースでは、発表した人物や組織だけでなく、法的な手続き、与野党の反応、"
-        "政策への影響を分けて考えることが大切です。",
-        "今後は、関係機関の正式な判断と、国会や世論の反応が焦点になるとみられます。",
-    ),
-    "经济": (
-        "経済ニュースでは、一日の数字だけで結論を出さず、金利、為替、企業業績、海外市場との関係を見る必要があります。",
-        "今回の動きを受けて、投資家の判断や企業活動、家計への波及が続くかどうかが注目されます。",
-    ),
-    "娱乐": (
-        "エンタメニュースでは、作品や出演者の情報に加え、公開時期、制作側の狙い、視聴者の反応も重要です。",
-        "今後は、追加情報の発表と、作品がどのように受け止められるかに関心が集まりそうです。",
-    ),
-    "体育": (
-        "スポーツニュースでは、結果だけでなく、選手の状態、戦術、対戦相手、次の試合への影響を確認する必要があります。",
-        "今後の試合や大会に向けて、今回示された課題がどのように改善されるかが注目されます。",
-    ),
-    "社会": (
-        "社会ニュースでは、被害や影響の範囲、公的機関の対応、生活に必要な情報を優先して確認することが大切です。",
-        "状況は変化する可能性があるため、自治体や関係機関が発表する最新情報に注意する必要があります。",
-    ),
-    "数码科技": (
-        "技術ニュースでは、新しさだけでなく、実用化の時期、性能、費用、安全性、既存サービスへの影響を考える必要があります。",
-        "今後は、実際の製品やサービスへの採用と、競合企業の対応が焦点になるとみられます。",
-    ),
-    "军事": (
-        "安全保障ニュースでは、政府の公式説明、予算、法制度、同盟国との関係、周辺国の反応を分けて読むことが重要です。",
-        "今後は、具体的な制度設計や運用方法について、政府がどのように説明するかが注目されます。",
-    ),
-    "新闻": (
-        "このニュースは、当日の各分野の中でも生活や社会への影響が特に大きいものとして選ばれました。",
-        "続報によって内容が更新される可能性があるため、出典の最新情報も確認してください。",
-    ),
-}
 
 STOPWORDS = {
     "こと", "もの", "ため", "よう", "これ", "それ", "今回", "今後", "情報", "記事",
@@ -93,19 +59,84 @@ GRAMMAR_LIBRARY = [
 ]
 
 
-def build_detailed_japanese(item) -> str:
-    background, outlook = CATEGORY_GUIDANCE.get(
-        item.category, CATEGORY_GUIDANCE["新闻"]
+def _github_model_rewrite(prompt: str, token: str) -> str:
+    request = urllib.request.Request(
+        "https://models.github.ai/inference/chat/completions",
+        data=json.dumps(
+            {
+                "model": "openai/gpt-4o-mini",
+                "temperature": 0.15,
+                "max_tokens": 1600,
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": (
+                            "あなたは正確さを最優先する日本語ニュース編集者です。"
+                            "与えられた資料だけを使い、事実を追加・推測しません。"
+                        ),
+                    },
+                    {"role": "user", "content": prompt},
+                ],
+            },
+            ensure_ascii=False,
+        ).encode("utf-8"),
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json",
+            "Accept": "application/vnd.github+json",
+        },
+        method="POST",
     )
-    headline = item.title.rstrip("。")
+    with urllib.request.urlopen(request, timeout=90) as response:
+        payload = json.loads(response.read().decode("utf-8"))
+    return payload["choices"][0]["message"]["content"].strip()
+
+
+def build_detailed_japanese(item, source_article: str, github_token: str = "") -> str:
+    if source_article and github_token:
+        prompt = f"""次のニュース資料を、学習者向けの詳しい日本語記事に書き直してください。
+
+必須条件:
+- 600～1000字程度、4～7段落。
+- 原資料にある人物、組織、日付、金額、数値、場所、経緯、発言、各当事者の反応をできる限り残す。
+- ニュースごとに固有の事実を中心にする。「社会への影響が注目される」「今後の動向が焦点」のような中身のない定型文は禁止。
+- 原資料にない背景、評価、因果関係、将来予測を加えない。
+- 原文を長く連続コピーせず、文章構造と表現を全面的に組み替える。
+- 見出し記号や箇条書きは使わず、自然な報道文にする。
+- 「告発」「起訴」「逮捕」「容疑」など法的に異なる言葉を絶対に混同しない。
+- 出力は記事本文だけ。
+
+カテゴリ: {item.category}
+見出し: {item.title}
+媒体: {item.source}
+
+原資料:
+{source_article}
+"""
+        try:
+            rewritten = _github_model_rewrite(prompt, github_token)
+            if len(rewritten) >= 250:
+                return rewritten
+        except Exception as exc:
+            print(f"GitHub Models 改写失败：{item.category} - {exc}")
+
+    if source_article:
+        # Local/manual runs have no GitHub Models token. Keep a concise,
+        # source-specific fallback instead of returning generic boilerplate.
+        sentences = [
+            sentence.strip()
+            for sentence in re.split(r"(?<=[。！？])", source_article)
+            if len(sentence.strip()) >= 18
+        ]
+        facts = sentences[:3]
+        return (
+            f"{item.source}は「{item.title}」と報じました。"
+            + "".join(facts)
+            + "\n\n自動改写はGitHub Actionsで実行され、公開版ではより詳しい記事に更新されます。"
+        )
     return (
-        f"【概要】{item.source}によると、{headline}。この報道の中心は、見出しに示された出来事が、"
-        f"どのような影響を与えるかという点です。\n\n"
-        f"【背景と読み方】{background} 数字や発言だけを見るのではなく、誰が、いつ、何を決めたのか、"
-        f"または何が起きたのかについて整理すると、内容を理解しやすくなります。\n\n"
-        f"【影響】この出来事を受けて、関係する組織や人々がどのように対応するかが重要になります。"
-        f"短期的な反応だけでなく、制度、暮らし、産業、国際関係などに影響が広がるかどうかを見る必要があります。\n\n"
-        f"【今後の注目点】{outlook}"
+        f"{item.source}は「{item.title}」と報じました。"
+        "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
     )
 
 
