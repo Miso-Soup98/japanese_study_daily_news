@@ -126,10 +126,9 @@ def _validated_rewrite(raw_output: str, source_article: str) -> str:
             continue
         if any(phrase in text and phrase not in source_article for phrase in banned):
             continue
-        evidence_text = " ".join(evidence)
         generated_numbers = set(re.findall(r"\d+(?:[.,]\d+)?", text))
-        evidence_numbers = set(re.findall(r"\d+(?:[.,]\d+)?", evidence_text))
-        if not generated_numbers.issubset(evidence_numbers):
+        source_numbers = set(re.findall(r"\d+(?:[.,]\d+)?", source_article))
+        if not generated_numbers.issubset(source_numbers):
             continue
         # Reject long copied strings; the detailed article must be a rewrite.
         compact_text = re.sub(r"\s+", "", text)
