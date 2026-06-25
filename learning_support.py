@@ -150,6 +150,40 @@ def _validated_rewrite(raw_output: str, source_article: str) -> str:
     return "\n\n".join(accepted)
 
 
+def _validated_plain_rewrite(raw_output: str, source_article: str) -> str:
+    cleaned = re.sub(r"^```(?:text)?\s*|\s*```$", "", raw_output.strip())
+    banned = (
+        "期待されています",
+        "注目されています",
+        "関心が高ま",
+        "見守る必要",
+        "重要な役割",
+        "寄与する",
+        "可能性があります",
+        "と考えられます",
+    )
+    source_numbers = set(re.findall(r"\d+(?:[.,]\d+)?", source_article))
+    compact_source = re.sub(r"\s+", "", source_article)
+    accepted = []
+    for paragraph in re.split(r"\n\s*\n", cleaned):
+        text = paragraph.strip()
+        if len(text) < 30:
+            continue
+        if any(phrase in text and phrase not in source_article for phrase in banned):
+            continue
+        generated_numbers = set(re.findall(r"\d+(?:[.,]\d+)?", text))
+        if not generated_numbers.issubset(source_numbers):
+            continue
+        compact_text = re.sub(r"\s+", "", text)
+        if any(
+            compact_text[index : index + 55] in compact_source
+            for index in range(max(0, len(compact_text) - 54))
+        ):
+            continue
+        accepted.append(text)
+    return "\n\n".join(accepted)
+
+
 def build_detailed_japanese(item, source_article: str, github_token: str = "") -> str:
     if source_article and github_token:
         target_max = min(900, max(380, int(len(source_article) * 1.25)))
@@ -178,16 +212,25 @@ def build_detailed_japanese(item, source_article: str, github_token: str = "") -
 {source_article}
 """
         try:
-            for attempt in range(2):
-                retry_note = (
-                    ""
-                    if attempt == 0
-                    else "\n前回は検証を通過しませんでした。根拠のない一般論を完全に除き、JSON形式を厳守してください。"
-                )
-                raw_output = _github_model_rewrite(prompt + retry_note, github_token)
-                rewritten = _validated_rewrite(raw_output, source_article)
-                if len(rewritten) >= 120:
-                    return rewritten
+            raw_output = _github_model_rewrite(prompt, github_token)
+            rewritten = _validated_rewrite(raw_output, source_article)
+            if len(rewritten) >= 120:
+                return rewritten
+
+            plain_prompt = f"""次のニュース資料だけを使って、日本語の詳しい報道文に全面的に書き直してください。
+原資料にない説明、評価、予測、一般論は一切書かないでください。
+人物、組織、場所、数値、日時、経緯、発言をできる限り保ち、情報が尽きたら終了してください。
+原文の文章を長く連続コピーせず、3～6段落の本文だけを出力してください。
+
+見出し: {item.title}
+媒体: {item.source}
+原資料:
+{source_article}
+"""
+            raw_output = _github_model_rewrite(plain_prompt, github_token)
+            rewritten = _validated_plain_rewrite(raw_output, source_article)
+            if len(rewritten) >= 120:
+                return rewritten
         except Exception as exc:
             print(f"GitHub Models 改写失败：{item.category} - {exc}")
 

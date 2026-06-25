@@ -113,7 +113,8 @@ def google_news_candidates(category: str, query: str, target_date: datetime) -> 
         )
     )
     root = ET.fromstring(fetch(rss_url))
-    items: list[NewsItem] = []
+    same_day_items: list[NewsItem] = []
+    nearby_items: list[NewsItem] = []
     for node in root.findall("./channel/item"):
         raw_title = clean_text(node.findtext("title", ""))
         title, source = split_google_title(raw_title)
@@ -127,8 +128,6 @@ def google_news_candidates(category: str, query: str, target_date: datetime) -> 
         except (TypeError, ValueError):
             published_dt = target_date
             published = date_text
-        if published_dt.date() != target_date.date():
-            continue
         summary = description
         # Google descriptions often repeat the title and source. Keep a compact,
         # auditable learning excerpt instead of scraping copyrighted article text.
@@ -138,17 +137,19 @@ def google_news_candidates(category: str, query: str, target_date: datetime) -> 
                 f"{source or '報道機関'}によると、{title}。"
                 "社会への影響や今後の動きが注目されています。"
             )
-        items.append(
-            NewsItem(
-                category=category,
-                title=title,
-                source=source or "Google ニュース掲載媒体",
-                url=link,
-                published=published,
-                japanese_summary=summary[:420],
-            )
+        item = NewsItem(
+            category=category,
+            title=title,
+            source=source or "Google ニュース掲載媒体",
+            url=link,
+            published=published,
+            japanese_summary=summary[:420],
         )
-    return items
+        if published_dt.date() == target_date.date():
+            same_day_items.append(item)
+        elif abs((target_date - published_dt).total_seconds()) <= 36 * 3600:
+            nearby_items.append(item)
+    return same_day_items or nearby_items
 
 
 def score_item(item: NewsItem, keywords: list[str], target_date: datetime) -> float:
