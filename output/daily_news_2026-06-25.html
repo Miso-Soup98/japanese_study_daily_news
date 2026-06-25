@@ -24,12 +24,13 @@
     .study-panel { background:#f7f9fd; border-left:1px solid #e3e8f2; padding:24px 22px; }
     .study-title { color:var(--blue); font-weight:800; font-size:18px; margin-bottom:12px; }
     .category { color:var(--blue); font-weight:700; letter-spacing:.08em; }
-    h2 { font-family:"Yu Mincho","Yu Gothic UI",serif; font-size:25px; line-height:1.75; margin:8px 0 3px; }
+    h2 { font-family:"Yu Mincho","Yu Gothic UI",serif; font-size:23px; line-height:2.05; letter-spacing:.025em; margin:10px 0 7px; }
     .meta { color:var(--muted); font-size:13px; margin-bottom:18px; }
     h3 { margin:14px 0 6px; font-size:14px; color:var(--muted); }
-    p { margin:0; line-height:2; }
-    .ja { font-family:"Yu Gothic UI",sans-serif; font-size:18px; }
+    p { margin:0; line-height:1.9; }
+    .ja { font-family:"Yu Gothic UI",sans-serif; font-size:17px; line-height:2.25; letter-spacing:.018em; }
     .detailed { white-space:pre-line; }
+    .ja.detailed { word-spacing:.08em; }
     .translation { border-left:4px solid #8bb1ff; padding-left:15px; margin:14px 0; }
     .zh { line-height:1.8; }
     .vocab-item, .grammar-item { background:white; border:1px solid #e2e7f0; border-radius:11px; padding:11px 12px; margin:8px 0; }
@@ -40,11 +41,11 @@
     .grammar-label { color:#3165c5; background:#e8efff; border-radius:20px; padding:2px 7px; font-size:11px; margin-left:5px; }
     .example { margin-top:7px; color:#263b64; font-size:14px; line-height:1.8; border-top:1px dashed #d9dfeb; padding-top:6px; }
     .empty { color:var(--muted); font-size:13px; }
-    ruby { ruby-position:over; }
-    rt { font-size:.48em; color:#5f6d86; font-weight:400; }
+    ruby { ruby-position:over; ruby-align:center; margin:0 .035em; }
+    rt { font-size:.39em; line-height:1; letter-spacing:0; color:#68758c; font-weight:400; }
     .source { display:inline-block; margin-top:6px; color:var(--blue); text-decoration:none; font-weight:650; }
     footer { text-align:center; color:var(--muted); padding:0 20px 34px; font-size:13px; }
-    @media (max-width:980px) { .card { grid-template-columns:1fr; } .study-panel { border-left:0; border-top:1px solid #e3e8f2; } .category-nav .nav-inner { display:flex; overflow-x:auto; } .category-nav a { min-width:104px; } }
+    @media (max-width:980px) { .card { grid-template-columns:1fr; } .study-panel { border-left:0; border-top:1px solid #e3e8f2; } .category-nav .nav-inner { display:flex; overflow-x:auto; } .category-nav a { min-width:104px; } h2 { font-size:21px; line-height:2.1; } .ja { font-size:16px; line-height:2.3; } }
     @media print { body { background:white; } .card { box-shadow:none; border:1px solid #ddd; break-inside:avoid; grid-template-columns:1fr; } .study-panel { border-left:0; border-top:1px solid #ddd; } }
   </style>
 </head>
@@ -954,7 +955,7 @@
             </article>
             
   </main>
-  <footer>生成时间：2026-06-25 13:26 JST</footer>
+  <footer>生成时间：2026-06-25 13:34 JST</footer>
   <script>
     (() => {
       const tabs = [...document.querySelectorAll('.category-nav a[data-section]')];
