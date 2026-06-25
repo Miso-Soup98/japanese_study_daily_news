@@ -92,6 +92,57 @@ def _github_model_rewrite(prompt: str, token: str) -> str:
     return payload["choices"][0]["message"]["content"].strip()
 
 
+def _validated_rewrite(raw_output: str, source_article: str) -> str:
+    cleaned = raw_output.strip()
+    cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned)
+    cleaned = re.sub(r"\s*```$", "", cleaned)
+    try:
+        payload = json.loads(cleaned)
+    except json.JSONDecodeError:
+        return ""
+
+    paragraphs = payload.get("paragraphs", [])
+    accepted = []
+    banned = (
+        "期待されています",
+        "注目されています",
+        "関心が高ま",
+        "見守る必要",
+        "重要な役割",
+        "寄与する",
+        "可能性があります",
+        "と考えられます",
+    )
+    for entry in paragraphs:
+        text = str(entry.get("text", "")).strip()
+        evidence = [
+            str(fragment).strip()
+            for fragment in entry.get("evidence", [])
+            if str(fragment).strip()
+        ]
+        if len(text) < 35 or not evidence:
+            continue
+        if any(fragment not in source_article for fragment in evidence):
+            continue
+        if any(phrase in text and phrase not in source_article for phrase in banned):
+            continue
+        evidence_text = " ".join(evidence)
+        generated_numbers = set(re.findall(r"\d+(?:[.,]\d+)?", text))
+        evidence_numbers = set(re.findall(r"\d+(?:[.,]\d+)?", evidence_text))
+        if not generated_numbers.issubset(evidence_numbers):
+            continue
+        # Reject long copied strings; the detailed article must be a rewrite.
+        compact_text = re.sub(r"\s+", "", text)
+        compact_source = re.sub(r"\s+", "", source_article)
+        if any(
+            compact_text[index : index + 55] in compact_source
+            for index in range(max(0, len(compact_text) - 54))
+        ):
+            continue
+        accepted.append(text)
+    return "\n\n".join(accepted)
+
+
 def build_detailed_japanese(item, source_article: str, github_token: str = "") -> str:
     if source_article and github_token:
         target_max = min(900, max(380, int(len(source_article) * 1.25)))
@@ -108,7 +159,9 @@ def build_detailed_japanese(item, source_article: str, github_token: str = "") -
 - 原文を長く連続コピーせず、文章構造と表現を全面的に組み替える。
 - 見出し記号や箇条書きは使わず、自然な報道文にする。
 - 「告発」「起訴」「逮捕」「容疑」など法的に異なる言葉を絶対に混同しない。
-- 出力は記事本文だけ。
+- JSONだけを出力する。形式:
+  {{"paragraphs":[{{"text":"書き直した1段落","evidence":["原資料からの完全一致の短い根拠1","根拠2"]}}]}}
+- evidenceには、その段落の全事実を裏付ける原資料中の完全一致文字列を入れる。日付・数値・固有名詞の根拠を必ず含める。
 
 カテゴリ: {item.category}
 見出し: {item.title}
@@ -118,25 +171,24 @@ def build_detailed_japanese(item, source_article: str, github_token: str = "") -
 {source_article}
 """
         try:
-            rewritten = _github_model_rewrite(prompt, github_token)
-            if len(rewritten) >= 250:
-                return rewritten
+            for attempt in range(2):
+                retry_note = (
+                    ""
+                    if attempt == 0
+                    else "\n前回は検証を通過しませんでした。根拠のない一般論を完全に除き、JSON形式を厳守してください。"
+                )
+                raw_output = _github_model_rewrite(prompt + retry_note, github_token)
+                rewritten = _validated_rewrite(raw_output, source_article)
+                if len(rewritten) >= 250:
+                    return rewritten
         except Exception as exc:
             print(f"GitHub Models 改写失败：{item.category} - {exc}")
 
     if source_article:
-        # Local/manual runs have no GitHub Models token. Keep a concise,
-        # source-specific fallback instead of returning generic boilerplate.
-        sentences = [
-            sentence.strip()
-            for sentence in re.split(r"(?<=[。！？])", source_article)
-            if len(sentence.strip()) >= 18
-        ]
-        facts = sentences[:3]
         return (
-            f"{item.source}は「{item.title}」と報じました。"
-            + "".join(facts)
-            + "\n\n自動改写はGitHub Actionsで実行され、公開版ではより詳しい記事に更新されます。"
+            f"{item.source}は「{item.title}」と報じました。本文の取得には成功しましたが、"
+            "事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+            "詳しい内容は出典リンクで確認できます。"
         )
     return (
         f"{item.source}は「{item.title}」と報じました。"

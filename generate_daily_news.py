@@ -159,6 +159,11 @@ def score_item(item: NewsItem, keywords: list[str], target_date: datetime) -> fl
         score += 9
     if any(word in combined for word in ("まとめ", "コラム", "予想", "オーディション開催")):
         score -= 7
+    if item.category == "娱乐" and any(
+        word in combined
+        for word in ("ホームルーター", "顧客満足度", "キャンペーン商品", "通信サービス")
+    ):
+        score -= 30
     if item.category == "军事" and any(word in combined for word in ("地震", "避難場所", "災害派遣")):
         score -= 18
     try:
