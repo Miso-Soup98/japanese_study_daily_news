@@ -103,6 +103,10 @@ def _validated_rewrite(raw_output: str, source_article: str) -> str:
 
     paragraphs = payload.get("paragraphs", [])
     accepted = []
+    normalize_evidence = lambda value: re.sub(
+        r"[\s「」『』（）()、。・：:【】\[\]\"'’“”]", "", value
+    )
+    normalized_source = normalize_evidence(source_article)
     banned = (
         "期待されています",
         "注目されています",
@@ -122,7 +126,11 @@ def _validated_rewrite(raw_output: str, source_article: str) -> str:
         ]
         if len(text) < 35 or not evidence:
             continue
-        if any(fragment not in source_article for fragment in evidence):
+        if any(
+            len(normalize_evidence(fragment)) < 6
+            or normalize_evidence(fragment) not in normalized_source
+            for fragment in evidence
+        ):
             continue
         if any(phrase in text and phrase not in source_article for phrase in banned):
             continue
