@@ -1,0 +1,593 @@
+[
+  {
+    "category": "新闻",
+    "title": "【レベル４土砂災害危険警報】長崎県・東彼杵町に発表 01:24時点",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1azNiaTRFN3B1bGtROGxyVkJpX0lmRDM2dThMZi1CdDk5cXVIRnQtNlVRb3B4bThXS19PTGdNTEFMb0VmaWM3QXR2MUFOTmlxV3pBbGZjdw?oc=5",
+    "published": "2026-07-02 01:24",
+    "japanese_summary": "【レベル４土砂災害危険警報】長崎県・東彼杵町に発表 01:24時点 TBS NEWS DIG",
+    "source_url": "https://newsdig.tbs.co.jp/articles/-/2773878",
+    "chinese_title": "[4级山体滑坡危险警报]长崎县东彼木町于01:24发布",
+    "chinese_summary": "[4级山体滑坡危险警报]长崎县东彼野木町于01:24发布 TBS NEWS DIG",
+    "detailed_japanese": "土砂災害警報が発表されている地域では、住民に対して安全確保のための行動を促す必要があります。特に、土砂災害のリスクが高まる状況下では、避難や安全な場所への移動が重要です。\n\n長崎市や佐世保市でも同様に、土砂災害に対する警戒が求められています。気象台は、今後の気象状況に注意を払い、必要に応じてさらなる情報を提供する方針です。",
+    "detailed_chinese": "在已发布山体滑坡警报的地区，必须鼓励居民采取行动确保安全。特别是在山体滑坡风险增加的情况下，疏散并转移到安全地点非常重要。\n\n同样，长崎市和佐世保市也被要求警惕山体滑坡。气象台将继续监测未来的天气状况，并在必要时提供进一步信息。",
+    "vocabulary": [
+      {
+        "word": "災害",
+        "reading": "さいがい",
+        "meaning": "灾难",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「災害の＋名词」构成修饰关系。",
+        "example": "土砂災害警報が発表されている地域では、住民に対して安全確保のための行動を促す必要があります。"
+      },
+      {
+        "word": "土砂",
+        "reading": "どしゃ",
+        "meaning": "土和沙",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「土砂の＋名词」构成修饰关系。",
+        "example": "土砂災害警報が発表されている地域では、住民に対して安全確保のための行動を促す必要があります。"
+      },
+      {
+        "word": "対する",
+        "reading": "たいする",
+        "meaning": "反对",
+        "pos": "动词",
+        "usage": "原形是「対する」，文中形式是「対する」。活用类型：サ行変格。",
+        "example": "長崎市や佐世保市でも同様に、土砂災害に対する警戒が求められています。"
+      },
+      {
+        "word": "状況",
+        "reading": "じょうきょう",
+        "meaning": "情况",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「状況の＋名词」构成修饰关系。",
+        "example": "特に、土砂災害のリスクが高まる状況下では、避難や安全な場所への移動が重要です。"
+      },
+      {
+        "word": "気象",
+        "reading": "きしょう",
+        "meaning": "天气",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「気象の＋名词」构成修饰关系。",
+        "example": "気象台は、今後の気象状況に注意を払い、必要に応じてさらなる情報を提供する方針です。"
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "安全",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「安全の＋名词」构成修饰关系。",
+        "example": "土砂災害警報が発表されている地域では、住民に対して安全確保のための行動を促す必要があります。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "必要があります",
+        "label": "必要性",
+        "explanation": "表示“有必要……”。动词辞书形后接「必要がある」。",
+        "example": "最新の情報を確認する必要があります。"
+      },
+      {
+        "pattern": "に対して",
+        "label": "对象・对比",
+        "explanation": "表示动作、态度所针对的对象，也可用于对比两个事物。",
+        "example": "政府は企業に対して説明を求めました。"
+      },
+      {
+        "pattern": "に対する",
+        "label": "对象修饰",
+        "explanation": "「に対して」的连体形式，后接名词，表示“针对……的”。",
+        "example": "政策に対する批判が強まっています。"
+      }
+    ],
+    "score": 67.57892490458333
+  },
+  {
+    "category": "政治",
+    "title": "高市総理がインドに到着 首脳会談へ",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yM3JvWWI4ZnhpS1FGUFJLQjFXVzZVdjNHWXZ1ZDZFUE03YW1ucjg3eks5MVlsVV9PXzRNTG5GRTlVU2V3bWlPSnFIRHk0QQ?oc=5",
+    "published": "2026-07-02 00:36",
+    "japanese_summary": "高市総理がインドに到着 首脳会談へ FNNプライムオンライン",
+    "source_url": "https://www.fnn.jp/articles/-/1068926",
+    "chinese_title": "高市首相抵达印度出席首脑会议",
+    "chinese_summary": "高市首相抵达印度参加首脑会议 FNN Prime Online",
+    "detailed_japanese": "高市総理大臣は、日本時間の2026年7月1日午後10時半過ぎに、政府専用機でインドの首都ニューデリーに到着しました。彼は、7月2日にインドのモディ首相と会談を行う予定です。\n\n会談に先立ち、高市総理は出発前の取材で、インドとの連携の重要性について言及しました。彼は「基本的価値と戦略的利益を共有するインドとの連携の重要性はますます高まっている」と強調しました。\n\n高市総理は、特に中国によるレアアースなどの輸出規制の拡大を念頭に置き、インドとの協力を進める方針を示しました。重要鉱物や半導体に関する協力が焦点となる見込みです。",
+    "detailed_chinese": "晚上10时30分刚过，首相高市乘坐政府专机抵达印度首都新德里。日本时间2026年7月1日。他定于7月2日与印度总理莫迪举行会谈。\n\n会见前，高市首相在临行前接受采访时提到了与印度合作的重要性。他强调，“与拥有共同基本价值观和战略利益的印度的合作变得越来越重要”。\n\n高市首相宣布了推进与印度合作的政策，特别是考虑到中国扩大对稀土和其他产品的出口限制。预计合作将集中在重要矿产和半导体领域。",
+    "vocabulary": [
+      {
+        "word": "インド-India",
+        "reading": "いんど",
+        "meaning": "印度-印度",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「インド-Indiaの＋名词」构成修饰关系。",
+        "example": "高市総理大臣は、日本時間の2026年7月1日午後10時半過ぎに、政府専用機でインドの首都ニューデリーに到着しました。"
+      },
+      {
+        "word": "総理",
+        "reading": "そうり",
+        "meaning": "总理",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「総理の＋名词」构成修饰关系。",
+        "example": "高市総理大臣は、日本時間の2026年7月1日午後10時半過ぎに、政府専用機でインドの首都ニューデリーに到着しました。"
+      },
+      {
+        "word": "タカイチ",
+        "reading": "たかいち",
+        "meaning": "高一",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「タカイチの＋名词」构成修饰关系。",
+        "example": "高市総理大臣は、日本時間の2026年7月1日午後10時半過ぎに、政府専用機でインドの首都ニューデリーに到着しました。"
+      },
+      {
+        "word": "アース-earth",
+        "reading": "あーす",
+        "meaning": "地对地",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「アース-earthの＋名词」构成修饰关系。",
+        "example": "高市総理は、特に中国によるレアアースなどの輸出規制の拡大を念頭に置き、インドとの協力を進める方針を示しました。"
+      },
+      {
+        "word": "連携",
+        "reading": "れんけい",
+        "meaning": "结盟",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「連携の＋名词」构成修饰关系。",
+        "example": "会談に先立ち、高市総理は出発前の取材で、インドとの連携の重要性について言及しました。"
+      },
+      {
+        "word": "協力",
+        "reading": "きょうりょく",
+        "meaning": "合作",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「協力の＋名词」构成修饰关系。",
+        "example": "高市総理は、特に中国によるレアアースなどの輸出規制の拡大を念頭に置き、インドとの協力を進める方針を示しました。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "について",
+        "label": "主题",
+        "explanation": "表示“关于……”。比「は」更明确地限定讨论对象。",
+        "example": "政府は今後の対応について説明しました。"
+      },
+      {
+        "pattern": "見込みです",
+        "label": "预测",
+        "explanation": "表示根据现有信息作出的较有依据的预测，意思是“预计……”。",
+        "example": "運転は午後に再開する見込みです。"
+      }
+    ],
+    "score": 53.17892490458333
+  },
+  {
+    "category": "经济",
+    "title": "南米5カ国「メルコスル」、日本とEPA交渉決定",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzM3YzlUSG8tN1NjNHJkT25EZFoyX21uQ3NReVRJYWs0QmRXY2tOVXRETDFqNk9vWjF6LXZqQVp4Y2lxemduOTlhaks0d0Q0LVd3WEpPZHR3cmtqZnpuRFZnWGFvcjhSNFQ1M29BYWE0RnBsQkxqZHZJSjJkY2VhSjJRbnNsdEpoNFFiVlVwX2dqUXRGbFF0cFNTQWRQd2sxeUMyUlZR?oc=5",
+    "published": "2026-07-02 02:04",
+    "japanese_summary": "南米5カ国「メルコスル」、日本とEPA交渉決定 日本経済新聞",
+    "source_url": "https://www.nikkei.com/nkd/industry/article/?DisplayType=2&n_m_code=051&ng=DGKKZO97290400R00C26A7FF8000",
+    "chinese_title": "南美国家五国决定与日本进行EPA谈判",
+    "chinese_summary": "南方共同市场、南美国家五国决定与日本就EPA进行谈判 日本经济新闻",
+    "detailed_japanese": "ブラジルのルラ大統領は、交渉開始について「重要な一歩だ」と述べ、早期締結に期待を示しました。この発言は、メルコスルが日本との経済関係を強化する意向を示すものと受け取られています。\n\nしかし、日本の経済界の中には、農業への影響を懸念する声も存在しています。このため、交渉の進展には慎重な対応が求められるでしょう。",
+    "detailed_chinese": "巴西总统卢拉称谈判的开始是“重要的一步”，并表示希望早日结束。这一声明被解读为南方共同市场有意加强与日本的经济联系。\n\n不过，日本企业界内部也有人担心这对农业的影响。因此，谈判的进展需要谨慎处理。",
+    "vocabulary": [
+      {
+        "word": "ブラジル-Brazil",
+        "reading": "ぶらじる",
+        "meaning": "巴西-巴西",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ブラジル-Brazilの＋名词」构成修饰关系。",
+        "example": "ブラジルのルラ大統領は、交渉開始について「重要な一歩だ」と述べ、早期締結に期待を示しました。"
+      },
+      {
+        "word": "ルーラ-外国",
+        "reading": "るら",
+        "meaning": "卢拉-外国",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ルーラ-外国の＋名词」构成修饰关系。",
+        "example": "ブラジルのルラ大統領は、交渉開始について「重要な一歩だ」と述べ、早期締結に期待を示しました。"
+      },
+      {
+        "word": "経済",
+        "reading": "けいざい",
+        "meaning": "经济",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「経済の＋名词」构成修饰关系。",
+        "example": "この発言は、メルコスルが日本との経済関係を強化する意向を示すものと受け取られています。"
+      },
+      {
+        "word": "示す",
+        "reading": "しめす",
+        "meaning": "展示",
+        "pos": "动词",
+        "usage": "原形是「示す」，文中形式是「示す」。活用类型：五段-サ行。",
+        "example": "この発言は、メルコスルが日本との経済関係を強化する意向を示すものと受け取られています。"
+      },
+      {
+        "word": "交渉",
+        "reading": "こうしょう",
+        "meaning": "谈判",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「交渉の＋名词」构成修饰关系。",
+        "example": "ブラジルのルラ大統領は、交渉開始について「重要な一歩だ」と述べ、早期締結に期待を示しました。"
+      },
+      {
+        "word": "受け取る",
+        "reading": "うけとら",
+        "meaning": "收到",
+        "pos": "动词",
+        "usage": "原形是「受け取る」，文中形式是「受け取ら」。活用类型：五段-ラ行。",
+        "example": "この発言は、メルコスルが日本との経済関係を強化する意向を示すものと受け取られています。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "について",
+        "label": "主题",
+        "explanation": "表示“关于……”。比「は」更明确地限定讨论对象。",
+        "example": "政府は今後の対応について説明しました。"
+      }
+    ],
+    "score": 58.91225823791667
+  },
+  {
+    "category": "娱乐",
+    "title": "オリコンニュース：草間リチャード敬太、活動再開 STARTO社発表「心身ともに回復し」",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iQlVpUmttNmJqSTRWTEEyQUxVX3ZsVjhjNW00VTE1VG51UmIxcXpTY1NoTGxCdWNuVEN6dHgyNXVibjFGV1FEbmd5dlRXQi1qV1NudDZZckQ5SG9KM3dqbmREMHo3azdG?oc=5",
+    "published": "2026-07-02 00:21",
+    "japanese_summary": "オリコンニュース：草間リチャード敬太、活動再開 STARTO社発表「心身ともに回復し」 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260702/orc/00m/200/001000c",
+    "chinese_title": "Oricon新闻：理查德·凯塔·草间恢复活动，STARTO宣布“身心均已康复”",
+    "chinese_summary": "Oricon新闻：理查德·草间凯太恢复活动，STARTO宣布“身体和精神都已康复”《每日新闻》",
+    "detailed_japanese": "2026年7月2日、STARTO ENTERTAINMENTは、専属契約タレントの草間リチャード敬太が活動を再開することを発表しました。公式サイトでは「弊社契約タレント 草間リチャード敬太 活動再開に関するご報告」と題し、活動再開の詳細が伝えられました。\n\n草間リチャード敬太は、2025年10月4日早朝に東京・新宿区で警視庁に逮捕され、同年10月6日に留置先から釈放されました。この逮捕を受けて、所属するSTARTO ENTERTAINMENTは草間の活動を休止することを発表しました。\n\nその後、2025年11月20日には、STARTO社が草間について東京簡易裁判所より略式命令を受けたことを報告しました。この略式命令では罰金10万円が科せられました。また、草間は同日、所属していたAぇ! groupから脱退していたことも明らかになっています。\n\n草間の活動再開に関する発表は、ファンや関係者にとって注目される内容となっています。STARTO社は引き続き、草間への支援をお願いする旨も伝えています。",
+    "detailed_chinese": "2026年7月2日，STARTO ENTERTAINMENT宣布专属签约艺人草间圭太将恢复活动。官方网站以“关于本公司签约艺人草间凯塔恢复活动的报告”为标题，公布了恢复活动的详细情况。\n\n草间弥生理查德·凯太于2025年10月4日凌晨在东京新宿区被警视厅逮捕，同年10月6日被释放。针对此次被捕，草间弥生的关联公司STARTO ENTERTAINMENT宣布，草间弥生将暂停活动。\n\n随后，2025 年 11 月 20 日，STARTO 报告称，其已收到东京简易法院关于草间弥生的简易命令。该简易令处以 10 万日元的罚款。同日还透露，草间弥生退出Ae！团体，她所属的团体。\n\n草间弥生恢复活动的消息引起了粉丝和相关人士的关注。 STARTO 还请求继续支持草间弥生。",
+    "vocabulary": [
+      {
+        "word": "クサマ",
+        "reading": "くさま",
+        "meaning": "草间",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「クサマの＋名词」构成修饰关系。",
+        "example": "2026年7月2日、STARTO ENTERTAINMENTは、専属契約タレントの草間リチャード敬太が活動を再開することを発表しました。"
+      },
+      {
+        "word": "リチャード-Richard",
+        "reading": "りちゃーど",
+        "meaning": "理查德",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リチャード-Richardの＋名词」构成修饰关系。",
+        "example": "2026年7月2日、STARTO ENTERTAINMENTは、専属契約タレントの草間リチャード敬太が活動を再開することを発表しました。"
+      },
+      {
+        "word": "活動",
+        "reading": "かつどう",
+        "meaning": "活动",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「活動の＋名词」构成修饰关系。",
+        "example": "2026年7月2日、STARTO ENTERTAINMENTは、専属契約タレントの草間リチャード敬太が活動を再開することを発表しました。"
+      },
+      {
+        "word": "ファン-fan（熱狂者）",
+        "reading": "ふぁん",
+        "meaning": "粉丝（爱好者）",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ファン-fan（熱狂者）の＋名词」构成修饰关系。",
+        "example": "草間の活動再開に関する発表は、ファンや関係者にとって注目される内容となっています。"
+      },
+      {
+        "word": "再開",
+        "reading": "さいかい",
+        "meaning": "重新启动",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「再開の＋名词」构成修饰关系。",
+        "example": "2026年7月2日、STARTO ENTERTAINMENTは、専属契約タレントの草間リチャード敬太が活動を再開することを発表しました。"
+      },
+      {
+        "word": "タレント-talent",
+        "reading": "たれんと",
+        "meaning": "人才-人才",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「タレント-talentの＋名词」构成修饰关系。",
+        "example": "2026年7月2日、STARTO ENTERTAINMENTは、専属契約タレントの草間リチャード敬太が活動を再開することを発表しました。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "を受けて",
+        "label": "原因・契机",
+        "explanation": "表示“受到……影响／鉴于……”。前接名词，说明后续行动的契机。",
+        "example": "地震を受けて、鉄道会社は運転を見合わせました。"
+      },
+      {
+        "pattern": "について",
+        "label": "主题",
+        "explanation": "表示“关于……”。比「は」更明确地限定讨论对象。",
+        "example": "政府は今後の対応について説明しました。"
+      }
+    ],
+    "score": 56.05392490458333
+  },
+  {
+    "category": "体育",
+    "title": "【更新版】放送日程（決勝トーナメント）＆試合動画まとめ【FIFAワールドカップ2026】",
+    "source": "NHK",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtamR6b0c5Nm95T2hyQzRpXzFyZTBzOHQ0M0pueG93Sk5STkE3Y3BkX252cmJtMENVUGNOMExSaUkzUWtramxISTZEeGxucGhFMzdkZHlyOEMybDkzbXc?oc=5",
+    "published": "2026-07-02 00:01",
+    "japanese_summary": "【更新版】放送日程（決勝トーナメント）＆試合動画まとめ【FIFAワールドカップ2026】 NHK",
+    "source_url": "https://www.nhk.jp/g/fifaworldcup/blog/2690mdowz/",
+    "chinese_title": "[更新版本]转播时间表（决赛）和比赛视频摘要[FIFA世界杯2026]",
+    "chinese_summary": "[更新版本]广播时间表（决赛）和比赛视频摘要[FIFA世界杯2026] NHK",
+    "detailed_japanese": "決勝トーナメント1回戦は、6月29日（月）に南アフリカ対カナダの試合が行われ、6月30日（火）には日本がブラジルと対戦します。この試合は、BS4Kで午後9時55分に再放送されることが決まっています。\n\nさらに、6月30日にはオランダ対モロッコ、ドイツ対パラグアイ、メキシコ対エクアドルなどの試合も予定されています。これらの試合は、BS4Kで録画放送されるほか、各試合の2分ハイライト動画も提供されます。\n\n決勝トーナメントの放送では、地上波で計15試合が生中継される予定で、日本代表の試合は1回戦がBSで生中継され、2回戦以降は地上波で放送されます。また、BSP4Kでは全試合を生中継し、高精細映像で視聴者に提供します。",
+    "detailed_chinese": "决赛首轮将于6月29日（周一）在南非与加拿大之间进行，随后日本队将于6月30日（周二）对阵巴西。这场比赛定于晚上 9:55 在 BS4K 上重播。\n\n此外，定于 6 月 30 日举行的比赛还包括荷兰对阵摩洛哥、德国对阵巴拉圭以及墨西哥对阵厄瓜多尔。这些比赛将在BS4K上录制和播出，并且还将提供每场比赛2分钟的精彩视频。\n\n决赛转播期间，共安排15场比赛在地面电视上直播。日本国家队的第一轮比赛将在BS上直播，第二轮及以后的比赛将在地面电视上直播。此外，BSP4K还将现场直播所有比赛，并为观众提供高清视频。",
+    "vocabulary": [
+      {
+        "word": "試合",
+        "reading": "しあい",
+        "meaning": "游戏",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「試合の＋名词」构成修饰关系。",
+        "example": "決勝トーナメント1回戦は、6月29日（月）に南アフリカ対カナダの試合が行われ、6月30日（火）には日本がブラジルと対戦します。"
+      },
+      {
+        "word": "トーナメント-tournament",
+        "reading": "とーなめんと",
+        "meaning": "锦标赛-锦标赛",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「トーナメント-tournamentの＋名词」构成修饰关系。",
+        "example": "決勝トーナメント1回戦は、6月29日（月）に南アフリカ対カナダの試合が行われ、6月30日（火）には日本がブラジルと対戦します。"
+      },
+      {
+        "word": "ハイライト-highlight",
+        "reading": "はいらいと",
+        "meaning": "突出显示-突出显示",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ハイライト-highlightの＋名词」构成修饰关系。",
+        "example": "これらの試合は、BS4Kで録画放送されるほか、各試合の2分ハイライト動画も提供されます。"
+      },
+      {
+        "word": "放送",
+        "reading": "ほうそう",
+        "meaning": "播送",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「放送の＋名词」构成修饰关系。",
+        "example": "この試合は、BS4Kで午後9時55分に再放送されることが決まっています。"
+      },
+      {
+        "word": "パラグアイ-Paraguay",
+        "reading": "ぱらぐあい",
+        "meaning": "巴拉圭",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「パラグアイ-Paraguayの＋名词」构成修饰关系。",
+        "example": "さらに、6月30日にはオランダ対モロッコ、ドイツ対パラグアイ、メキシコ対エクアドルなどの試合も予定されています。"
+      },
+      {
+        "word": "エクアドル-Ecuador",
+        "reading": "えくあどる",
+        "meaning": "厄瓜多尔",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「エクアドル-Ecuadorの＋名词」构成修饰关系。",
+        "example": "さらに、6月30日にはオランダ対モロッコ、ドイツ対パラグアイ、メキシコ対エクアドルなどの試合も予定されています。"
+      }
+    ],
+    "grammar": [],
+    "score": 58.88725823791667
+  },
+  {
+    "category": "社会",
+    "title": "【レベル４土砂災害危険警報】長崎県・東彼杵町に発表 01:24時点",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1azNiaTRFN3B1bGtROGxyVkJpX0lmRDM2dThMZi1CdDk5cXVIRnQtNlVRb3B4bThXS19PTGdNTEFMb0VmaWM3QXR2MUFOTmlxV3pBbGZjdw?oc=5",
+    "published": "2026-07-02 01:24",
+    "japanese_summary": "【レベル４土砂災害危険警報】長崎県・東彼杵町に発表 01:24時点 TBS NEWS DIG",
+    "source_url": "https://newsdig.tbs.co.jp/articles/-/2773878",
+    "chinese_title": "[4级山体滑坡危险警报]长崎县东彼木町于01:24发布",
+    "chinese_summary": "[4级山体滑坡危险警报]长崎县东彼野木町于01:24发布 TBS NEWS DIG",
+    "detailed_japanese": "土砂災害警報が発表されている地域では、住民に対して安全確保のための行動を促す必要があります。特に、土砂災害のリスクが高まる状況下では、避難や安全な場所への移動が重要です。\n\n長崎市や佐世保市でも同様に、土砂災害に対する警戒が求められています。気象台は、今後の気象状況に注意を払い、必要に応じてさらなる情報を提供する方針です。",
+    "detailed_chinese": "在已发布山体滑坡警报的地区，必须鼓励居民采取行动确保安全。特别是在山体滑坡风险增加的情况下，疏散并转移到安全地点非常重要。\n\n同样，长崎市和佐世保市也被要求警惕山体滑坡。气象台将继续监测未来的天气状况，并在必要时提供进一步信息。",
+    "vocabulary": [
+      {
+        "word": "災害",
+        "reading": "さいがい",
+        "meaning": "灾难",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「災害の＋名词」构成修饰关系。",
+        "example": "土砂災害警報が発表されている地域では、住民に対して安全確保のための行動を促す必要があります。"
+      },
+      {
+        "word": "土砂",
+        "reading": "どしゃ",
+        "meaning": "土和沙",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「土砂の＋名词」构成修饰关系。",
+        "example": "土砂災害警報が発表されている地域では、住民に対して安全確保のための行動を促す必要があります。"
+      },
+      {
+        "word": "対する",
+        "reading": "たいする",
+        "meaning": "反对",
+        "pos": "动词",
+        "usage": "原形是「対する」，文中形式是「対する」。活用类型：サ行変格。",
+        "example": "長崎市や佐世保市でも同様に、土砂災害に対する警戒が求められています。"
+      },
+      {
+        "word": "状況",
+        "reading": "じょうきょう",
+        "meaning": "情况",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「状況の＋名词」构成修饰关系。",
+        "example": "特に、土砂災害のリスクが高まる状況下では、避難や安全な場所への移動が重要です。"
+      },
+      {
+        "word": "気象",
+        "reading": "きしょう",
+        "meaning": "天气",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「気象の＋名词」构成修饰关系。",
+        "example": "気象台は、今後の気象状況に注意を払い、必要に応じてさらなる情報を提供する方針です。"
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "安全",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「安全の＋名词」构成修饰关系。",
+        "example": "土砂災害警報が発表されている地域では、住民に対して安全確保のための行動を促す必要があります。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "必要があります",
+        "label": "必要性",
+        "explanation": "表示“有必要……”。动词辞书形后接「必要がある」。",
+        "example": "最新の情報を確認する必要があります。"
+      },
+      {
+        "pattern": "に対して",
+        "label": "对象・对比",
+        "explanation": "表示动作、态度所针对的对象，也可用于对比两个事物。",
+        "example": "政府は企業に対して説明を求めました。"
+      },
+      {
+        "pattern": "に対する",
+        "label": "对象修饰",
+        "explanation": "「に対して」的连体形式，后接名词，表示“针对……的”。",
+        "example": "政策に対する批判が強まっています。"
+      }
+    ],
+    "score": 67.57892490458333
+  },
+  {
+    "category": "数码科技",
+    "title": "中国・穹徹智能、薬局で働くAIロボット 既存棚の改修も不要",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GSjVXcUt2V09FNEZsOXhDZkVtdjlDMjFMbU9hdzVteFRCOWZUakhxRkU1NDRMTFBzQzlyLVZlUGVBX1o3THA3eHJybnRvUTJwUzFsVkpUbFVEUDRSZXJFeUNkZW04bHZialF3Zw?oc=5",
+    "published": "2026-07-02 02:00",
+    "japanese_summary": "中国・穹徹智能、薬局で働くAIロボット 既存棚の改修も不要 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUC30ASW0Q6A630C2000000/",
+    "chinese_title": "中国智能AI机器人在药店工作，无需改造现有货架",
+    "chinese_summary": "中国高智能AI机器人在药店工作，无需改造现有货架 日本经济新闻",
+    "detailed_japanese": "中国のエンボディドAI（身体性を持つ人工知能）開発スタートアップ「穹徹智能（Noematrix）」は、最近数億元（数十億円規模）の資金を調達しました。この資金調達は、無錫数据集団（Wuxi Data Group）が主導し、上海交通大学AI未来基金や一村資本（V-Capital）なども参加しています。\n\n日本経済新聞社は、中国をはじめアジアの新興企業に関する情報に強みを持つスタートアップ情報サイト「36Kr」を運営する36Krホールディングスに出資しています。",
+    "detailed_chinese": "中国嵌入式人工智能开发初创公司Noematrix最近筹集了数亿元人民币（数十亿日元）的资金。本轮融资由无锡数据集团领投，上海交通大学人工智能未来基金、一村资本跟投。\n\n日本经济新闻投资了36氪控股，后者运营着专门提供中国和其他亚洲国家新兴企业信息的创业信息网站“36氪”。",
+    "vocabulary": [
+      {
+        "word": "スタートアップ-start-up",
+        "reading": "すたーとあっぷ",
+        "meaning": "启动-启动",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「スタートアップ-start-upの＋名词」构成修饰关系。",
+        "example": "中国のエンボディドAI（身体性を持つ人工知能）開発スタートアップ「穹徹智能（Noematrix）」は、最近数億元（数十億円規模）の資金を調達"
+      },
+      {
+        "word": "ホールディング-holding",
+        "reading": "ほーるでぃんぐす",
+        "meaning": "控股-控股",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ホールディング-holdingの＋名词」构成修饰关系。",
+        "example": "日本経済新聞社は、中国をはじめアジアの新興企業に関する情報に強みを持つスタートアップ情報サイト「36Kr」を運営する36Krホールディングス"
+      },
+      {
+        "word": "資金",
+        "reading": "しきん",
+        "meaning": "资金",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「資金の＋名词」构成修饰关系。",
+        "example": "中国のエンボディドAI（身体性を持つ人工知能）開発スタートアップ「穹徹智能（Noematrix）」は、最近数億元（数十億円規模）の資金を調達"
+      },
+      {
+        "word": "調達",
+        "reading": "ちょうたつ",
+        "meaning": "采购",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「調達の＋名词」构成修饰关系。",
+        "example": "中国のエンボディドAI（身体性を持つ人工知能）開発スタートアップ「穹徹智能（Noematrix）」は、最近数億元（数十億円規模）の資金を調達"
+      },
+      {
+        "word": "知能",
+        "reading": "ちのう",
+        "meaning": "智力",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「知能の＋名词」构成修饰关系。",
+        "example": "中国のエンボディドAI（身体性を持つ人工知能）開発スタートアップ「穹徹智能（Noematrix）」は、最近数億元（数十億円規模）の資金を調達"
+      },
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "有",
+        "pos": "动词",
+        "usage": "原形是「持つ」，文中形式是「持つ」。活用类型：五段-タ行。",
+        "example": "中国のエンボディドAI（身体性を持つ人工知能）開発スタートアップ「穹徹智能（Noematrix）」は、最近数億元（数十億円規模）の資金を調達"
+      }
+    ],
+    "grammar": [],
+    "score": 63.87892490458333
+  },
+  {
+    "category": "军事",
+    "title": "日米共同訓練「レゾリュート・ドラゴン」 真の狙いは",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMWM0OGI2dm5CVURlNFdvVUNFRUN0Tnc1VVFxanZEaFc5UUlvMmRMTGxqWkVKWW1PYXdxZjBnTHNIVWN6S1AwM21xaXVnQ0QyQTIxa0pNek1LaGppUkRvNUxaS0p4V0Zyb0dGZFVBaXZjNTVlb3pqMk94NFZISHBZLTE5WkNQX1NFdS1jNmZJclA0X1cwMGw2dXdDeDgzRUpRZnVSSGRESTJrR0pHcTRWU2dBLW1KMnEwMUY2aUNBUS1zbks2bFJsM0gxd0NzN2F0cnAzMmRJTEk3NXlrT3d3NVdhWDNXUlp5VUozWi1jTmc3LXAzMGc?oc=5",
+    "published": "2026-07-01 21:46",
+    "japanese_summary": "日米共同訓練「レゾリュート・ドラゴン」 真の狙いは TBS NEWS DIG",
+    "source_url": "https://newsdig.tbs.co.jp/articles/gallery/2773135?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=2773135&image=2",
+    "chinese_title": "日美“坚龙”联合军演的真正目的",
+    "chinese_summary": "日美联合演习“坚毅之龙”真正目标 TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「日米共同訓練「レゾリュート・ドラゴン」 真の狙いは」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "TBS NEWS DIG 报道称，“日美关系”联合演习“坚龙”——真实目的是什么？”虽然我们成功获得了正文，但自动抄写的事实核查并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "レゾリュート-Resolute",
+        "reading": "れぞりゅーと",
+        "meaning": "坚决-坚决",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「レゾリュート-Resoluteの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「日米共同訓練「レゾリュート・ドラゴン」 真の狙いは」と報じました。"
+      },
+      {
+        "word": "ドラゴン-dragon",
+        "reading": "どらごん",
+        "meaning": "龙龙",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ドラゴン-dragonの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「日米共同訓練「レゾリュート・ドラゴン」 真の狙いは」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 49.76225823791667
+  }
+]
