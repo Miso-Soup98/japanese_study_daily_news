@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "日本各地で大規模地震頻発",
+    "source": "tonichi.net",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50Wmw0WlFKdVpOSGgtQjY1ZThtMnM0X204YmdPcnJpaFlPUVI1UG9abzNoTHQ2LUFQZVV0eGgwclEwNGhQSkJqY3dUSjUyakJPM0JZdTg5b0NHSk02?oc=5",
+    "published": "2026-08-09 00:04",
+    "japanese_summary": "日本各地で大規模地震頻発 tonichi.net",
+    "source_url": "https://www.tonichi.net/news/index.php?id=124449",
+    "chinese_title": "日本各地大地震频繁发生",
+    "chinese_summary": "日本各地频繁发生大规模地震 tonichi.net",
+    "detailed_japanese": "tonichi.netは「日本各地で大規模地震頻発」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "tonichi.net报道称，“日本各地频繁发生大规模地震”。虽然我们成功获取了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "tonichi.netは「日本各地で大規模地震頻発」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 39.791285604861116
+  },
+  {
+    "category": "政治",
+    "title": "男性中心の組織で女性トップ、小池知事と高市首相に通じる「処世術」 [東京都]",
+    "source": "朝日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tdWx1SGZEQndPQVRyc3JzODlRS2M0UVdKaFF3RTdwMGlhdm1iWUV6bjBEbldhTWJaOUJ0dEJUaTZoSTgzZ3l1Nm1XZ2NqLXQwM1ZkUlhsdk5IbFFTVkM2TjJWSmhVRjg?oc=5",
+    "published": "2026-08-08 10:00",
+    "japanese_summary": "男性中心の組織で女性トップ、小池知事と高市首相に通じる「処世術」 [東京都] 朝日新聞",
+    "source_url": "https://www.asahi.com/articles/ASV862J64V86OXIE03VM.html",
+    "chinese_title": "小池知事和高市首相是男性主导组织中的最高女性领导人，她们拥有相同的“礼仪技巧”[东京]",
+    "chinese_summary": "小池知事和高市首相分享男性主导组织中女性领导人的“管理技巧” 【东京】朝日新闻",
+    "detailed_japanese": "朝日新聞は「男性中心の組織で女性トップ、小池知事と高市首相に通じる「処世術」 [東京都]」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《朝日新闻》报道称，“男性主导组织的女性领导者，小池知事和高市首相（东京）共有的‘管理技巧’。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "トップ-top",
+        "reading": "とっぷ",
+        "meaning": "顶顶",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「トップ-topの＋名词」构成修饰关系。",
+        "example": "朝日新聞は「男性中心の組織で女性トップ、小池知事と高市首相に通じる「処世術」 [東京都]」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "通ずる",
+        "reading": "つうじる",
+        "meaning": "交流",
+        "pos": "动词",
+        "usage": "原形是「通ずる」，文中形式是「通じる」。活用类型：上一段-ザ行。",
+        "example": "朝日新聞は「男性中心の組織で女性トップ、小池知事と高市首相に通じる「処世術」 [東京都]」と報じました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 47.75795227152778
+  },
+  {
+    "category": "经济",
+    "title": "張本美和、４強入り",
+    "source": "佐賀経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PenJwM1NBZi04ZlgyNFdOUnpQZktRQ29QUnVhSkRuMnZra3FvM25vTHhzelRpTktiM195OWFjdlJyZ1ZfbmJuNVhWWFp4RVhP?oc=5",
+    "published": "2026-08-09 00:04",
+    "japanese_summary": "張本美和、４強入り 佐賀経済新聞",
+    "source_url": "https://saga.keizai.biz/gpnews/1748768/",
+    "chinese_title": "张本美和进入四强",
+    "chinese_summary": "张本美和进入前四名 佐贺经济新闻",
+    "detailed_japanese": "佐賀経済新聞は「張本美和、４強入り」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "佐贺经济新闻报道称“张本美和将跻身前四”。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "佐賀経済新聞は「張本美和、４強入り」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 32.791285604861116
+  },
+  {
+    "category": "娱乐",
+    "title": "Netflix週間視聴ランキング（番組）：『Tシャツが乾くまで』3週連続1位、韓国ドラマ『恋は命がけ』が初登場［7/27/26 - 8/2/26］",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NYXFPaEpKaHBNLUZhWTlsUkhuRUFKZ0xXV3l5eUhnVlFpQzk4cUo3UGhpRWlhekIyTVpsanEwZHdpWWUyTndfWkVFaV80RS1YYXFyZk9pM0t6RS1nTTd2ekZmLXlwZnJ0?oc=5",
+    "published": "2026-08-08 13:52",
+    "japanese_summary": "Netflix週間視聴ランキング（番組）：『Tシャツが乾くまで』3週連続1位、韓国ドラマ『恋は命がけ』が初登場［7/27/26 - 8/2/26］ 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260808/orc/00m/200/084000c",
+    "chinese_title": "Netflix周收视排名（节目）：《直到T恤干》连续三周排名第一，韩剧《致命的爱情》首播 [7/27/26 - 8/2/26]",
+    "chinese_summary": "Netflix周收视排名（节目）：《直到T恤干》连续三周排名第一，韩剧《致命的爱情》首播 [7/27/26 - 8/2/26] Mainichi Shimbun",
+    "detailed_japanese": "毎日新聞は「Netflix週間視聴ランキング（番組）：『Tシャツが乾くまで』3週連続1位、韓国ドラマ『恋は命がけ』が初登場［7/27/26 - 8/2/26］」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《每日新闻》报道，“Netflix每周收视排名（节目）：《直到T恤干》连续三周排名第一，韩剧《致命的爱情》首播[7/27/26 - 8/2/26]。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ランキング-ranking",
+        "reading": "らんきんぐ",
+        "meaning": "排名-排名",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ランキング-rankingの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「Netflix週間視聴ランキング（番組）：『Tシャツが乾くまで』3週連続1位、韓国ドラマ『恋は命がけ』が初登場［7/27/26 "
+      },
+      {
+        "word": "ドラマ-drama",
+        "reading": "どらま",
+        "meaning": "戏剧",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ドラマ-dramaの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「Netflix週間視聴ランキング（番組）：『Tシャツが乾くまで』3週連続1位、韓国ドラマ『恋は命がけ』が初登場［7/27/26 "
+      },
+      {
+        "word": "シャツ-shirt",
+        "reading": "しゃつ",
+        "meaning": "衬衫",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「シャツ-shirtの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「Netflix週間視聴ランキング（番組）：『Tシャツが乾くまで』3週連続1位、韓国ドラマ『恋は命がけ』が初登場［7/27/26 "
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.69128560486111
+  },
+  {
+    "category": "体育",
+    "title": "長友佑都がFC東京で現役続行を決断「優勝してシャーレを」…W杯後には「引退に傾いていた…」と葛藤も、日本代表にも意欲",
+    "source": "サッカーキング",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uSFdNcjlqNGxIOUp3NUU0RGJjWlZZLWcwc3BQZ3FxdmliS1pNT1V3dkJzWGZCekhXYjlJZnlIaENqQ1ZESlNab0d5X2NfbmRmVWJ6NURFUndRcy1VaVVPRXEtOEFXV2ZDOHB6eUZWdw?oc=5",
+    "published": "2026-08-08 18:45",
+    "japanese_summary": "長友佑都がFC東京で現役続行を決断「優勝してシャーレを」…W杯後には「引退に傾いていた…」と葛藤も、日本代表にも意欲 サッカーキング",
+    "source_url": "https://www.soccer-king.jp/news/japan/jl/20260808/2190709.html",
+    "chinese_title": "长友佑都决定继续在东京FC踢球，他说，“我会赢，有一个培养皿”……世界杯结束后，他说，“我倾向于退役……”，他很矛盾，但有动力在日本国家队踢球。",
+    "chinese_summary": "长友佑都决定继续在东京FC踢球，他说，“我会赢，有一个培养皿”……世界杯结束后，他说，“我正准备退役……”，但他仍然有动力为日本国家队足球王效力",
+    "detailed_japanese": "サッカーキングは「長友佑都がFC東京で現役続行を決断「優勝してシャーレを」…W杯後には「引退に傾いていた…」と葛藤も、日本代表にも意欲」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《足球王》报道称，“长友佑都决定在东京FC继续他的职业生涯，他说‘赢得培养皿’……世界杯结束后，他‘倾向于退役……’，很矛盾，但也渴望在日本国家队踢球。”虽然我们成功获得了正文，但自动转录和事实核查并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "シャーレ-Schale",
+        "reading": "しゃーれ",
+        "meaning": "培养皿-Schale",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「シャーレ-Schaleの＋名词」构成修饰关系。",
+        "example": "サッカーキングは「長友佑都がFC東京で現役続行を決断「優勝してシャーレを」…W杯後には「引退に傾いていた…」と葛藤も、日本代表にも意欲」と報"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "サッカーキングは「長友佑都がFC東京で現役続行を決断「優勝してシャーレを」…W杯後には「引退に傾いていた…」と葛藤も、日本代表にも意欲」と報"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "キング-king",
+        "reading": "きんぐ",
+        "meaning": "王王",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「キング-kingの＋名词」构成修饰关系。",
+        "example": "サッカーキングは「長友佑都がFC東京で現役続行を決断「優勝してシャーレを」…W杯後には「引退に傾いていた…」と葛藤も、日本代表にも意欲」と報"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 60.13295227152778
+  },
+  {
+    "category": "社会",
+    "title": "日本各地で大規模地震頻発",
+    "source": "tonichi.net",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50Wmw0WlFKdVpOSGgtQjY1ZThtMnM0X204YmdPcnJpaFlPUVI1UG9abzNoTHQ2LUFQZVV0eGgwclEwNGhQSkJqY3dUSjUyakJPM0JZdTg5b0NHSk02?oc=5",
+    "published": "2026-08-09 00:04",
+    "japanese_summary": "日本各地で大規模地震頻発 tonichi.net",
+    "source_url": "https://www.tonichi.net/news/index.php?id=124449",
+    "chinese_title": "日本各地大地震频繁发生",
+    "chinese_summary": "日本各地频繁发生大规模地震 tonichi.net",
+    "detailed_japanese": "tonichi.netは「日本各地で大規模地震頻発」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "tonichi.net报道称，“日本各地频繁发生大规模地震”。虽然我们成功获取了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "tonichi.netは「日本各地で大規模地震頻発」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 39.791285604861116
+  },
+  {
+    "category": "数码科技",
+    "title": "半導体を専攻する学生向けの書籍4冊",
+    "source": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RRDlUOVgwOEc5ZmpfbEFETk9pVmEyTC04anJ5U0UzdzkwdkUtZ3czc09YU0pfUzBNcHNvbUNHczdaOTZJbTFCV09BZkZxT1hZRHJoTFdETlJ3UU1GMHVMZmxnVjNmQ2I2NTRwelBTbGgtTUJhUzBWc3BSbWI?oc=5",
+    "published": "2026-08-09 00:11",
+    "japanese_summary": "半導体を専攻する学生向けの書籍4冊 Vietnam.vn",
+    "source_url": "https://www.vietnam.vn/ja/bon-cuon-sach-danh-cho-sinh-vien-nganh-ban-dan",
+    "chinese_title": "适合半导体专业学生的4本书",
+    "chinese_summary": "适合半导体专业学生的 4 本书 Vietnam.vn",
+    "detailed_japanese": "Vietnam.vnは「半導体を専攻する学生向けの書籍4冊」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "Vietnam.vn 报道了“为半导体专业学生准备的 4 本书”。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "Vietnam.vnは「半導体を専攻する学生向けの書籍4冊」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 39.849618938194446
+  },
+  {
+    "category": "军事",
+    "title": "台湾、高雄の海軍基地で中国軍上陸想定し迎撃訓練…頼清徳総統「防衛能力を検証」",
+    "source": "読売新聞",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VVXllUzdwb0FtLXRpWUNvQ1ZoZEljQXQtM2E2OEdzVl92YjB0SjEtM1ZFVklfOVFKUl84Y0x5Y0pTdkt4LVRhZ1J6MC1hdU5GNW4wZXBvdllmVi1HTzlyeFdB?oc=5",
+    "published": "2026-08-08 18:02",
+    "japanese_summary": "台湾、高雄の海軍基地で中国軍上陸想定し迎撃訓練…頼清徳総統「防衛能力を検証」 読売新聞",
+    "source_url": "https://www.yomiuri.co.jp/world/20260808-GYT1T00225/",
+    "chinese_title": "拦截演习假设中国军队在台湾高雄海军基地登陆……赖清德总统“验证防御能力”",
+    "chinese_summary": "假设中国军队登陆，台湾高雄海军基地进行拦截训练……赖清德总统“验证防御能力” 读卖新闻",
+    "detailed_japanese": "読売新聞は「台湾、高雄の海軍基地で中国軍上陸想定し迎撃訓練…頼清徳総統「防衛能力を検証」」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《读卖新闻》报道称，“在台湾高雄海军基地进行拦截训练，以应对中国军队登陆……赖清德总统“验证了防御能力”。虽然我们成功获得了正文，但自动转录和事实核查并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "検証",
+        "reading": "けんしょう",
+        "meaning": "确认",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「検証の＋名词」构成修饰关系。",
+        "example": "読売新聞は「台湾、高雄の海軍基地で中国軍上陸想定し迎撃訓練…頼清徳総統「防衛能力を検証」」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "読み売り",
+        "reading": "よみうり",
+        "meaning": "读卖",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「読み売りの＋名词」构成修饰关系。",
+        "example": "読売新聞は「台湾、高雄の海軍基地で中国軍上陸想定し迎撃訓練…頼清徳総統「防衛能力を検証」」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 51.77461893819444
+  }
+]
