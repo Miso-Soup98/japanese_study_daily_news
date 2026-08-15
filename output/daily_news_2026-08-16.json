@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く",
+    "source": "読売新聞",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qYWlWcnNsVFJGMFBFWFlfMTdaVTNBLXdnOHNaVWMwU1p6V1dTSDdmcEtLeUlyc05yUC14TlJSaVhudXlRalZxRURfeHlSbmdmakVBV0xmTmtKZjlJTkMxSnRKaFVDdw?oc=5",
+    "published": "2026-08-15 21:44",
+    "japanese_summary": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く 読売新聞",
+    "source_url": "https://www.yomiuri.co.jp/national/20260815-GYT1T00290/",
+    "chinese_title": "熊本地震中有30,894间房屋受损，3,205人被疏散……26,450间房屋的供水继续被切断。",
+    "chinese_summary": "熊本地震30,894间房屋受损，仍有3,205人疏散……26,450间房屋继续停水 读卖新闻",
+    "detailed_japanese": "読売新聞は「熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《读卖新闻》报道称，“熊本地震导致30,894间房屋受损，3,205人被疏散……26,450间房屋的供水继续被切断。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "読み売り",
+        "reading": "よみうり",
+        "meaning": "读卖",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「読み売りの＋名词」构成修饰关系。",
+        "example": "読売新聞は「熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "読売新聞は「熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 67.69779071833334
+  },
+  {
+    "category": "政治",
+    "title": "読む政治：高市首相、壁の先には靖国 自民は集団参拝で保守層つなぎ留めも",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FdkZlSjFHS3ZiSjNxbDJObWRHcFRIdGIxYUM2OElfVmc5c1l4WktQUmdTMzJBVVFvQ1lvNU0yTlpXZzJWa2x0VVh4RTRxQ3NwZTFITzU2R25CTWsteTVRbnpFWE1kZDJG?oc=5",
+    "published": "2026-08-15 20:37",
+    "japanese_summary": "読む政治：高市首相、壁の先には靖国 自民は集団参拝で保守層つなぎ留めも 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260815/k00/00m/010/233000c",
+    "chinese_title": "政治读物：首相高市称靖国神社已经越过墙外，自民党通过集体崇拜来抓住保守派",
+    "chinese_summary": "政治读物：首相高市称靖国神社超越墙外，自民党通过群体崇拜留住保守派每日新闻",
+    "detailed_japanese": "毎日新聞は「読む政治：高市首相、壁の先には靖国 自民は集団参拝で保守層つなぎ留めも」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《每日新闻》报道称，“读懂政治：高市首相说靖国神社已经越过墙外，自民党也通过集体参拜神社来留住保守派。”虽然我们成功获得了正文，但经过事实核查的自动转录并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "繋ぎ留め",
+        "reading": "つなぎとめ",
+        "meaning": "系绳",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「繋ぎ留めの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「読む政治：高市首相、壁の先には靖国 自民は集団参拝で保守層つなぎ留めも」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「読む政治：高市首相、壁の先には靖国 自民は集団参拝で保守層つなぎ留めも」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.139457385
+  },
+  {
+    "category": "经济",
+    "title": "春秋（8月16日）",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1emF3WEF2ZEt0RG8tVnVMRmx2WGFCbkphNldUQWZlbWxhQzB5cGphZTFUWW9FVnJfQWg0NEFyQXBuYUxTaGNLa3Y3NXRlZnlIdXI1RHlHcXhDMTdwRVc2eWdtcXVPQ0Q4QThSOQ?oc=5",
+    "published": "2026-08-16 00:00",
+    "japanese_summary": "春秋（8月16日） 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQODK150HY0V10C26A8000000/",
+    "chinese_title": "春秋（8月16日）",
+    "chinese_summary": "春秋（8月16日）日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「春秋（8月16日）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "日本经济新闻报道说，现在是“春秋”（8月16日）。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「春秋（8月16日）」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 49.83112405166666
+  },
+  {
+    "category": "娱乐",
+    "title": "【夏色の雲が恋と嵐をまきおこす】ACEes深田竜生“夏輝”の恋が新たな局面迎える 第7話あらすじ公開（オリコン）",
+    "source": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaSVFqdHRkUktuRUMtak9PWkRuUmQzeGxQQWg2ZDI2NjJ5VmNsRjBhcUhFM2lzdjZHeDNQZ3EyYlRkSDlKMkhsQ2dxcFRLRTg0WXJvNFZkZnNLT0U1UnFSUk5SNEtYVDU3dm4zRHpFc3EyWmJkS2IyakU1U1R2bkk?oc=5",
+    "published": "2026-08-16 00:05",
+    "japanese_summary": "【夏色の雲が恋と嵐をまきおこす】ACEes深田竜生“夏輝”の恋が新たな局面迎える 第7話あらすじ公開（オリコン） Yahoo!ニュース",
+    "source_url": "https://news.yahoo.co.jp/articles/e12a02f99b652ed0e90c638de14c0bddf9e8acb1",
+    "chinese_title": "【夏日彩云激起爱情风暴】ACEes深田流星《夏希》爱情进入新阶段第7集剧情简介公开（Oricon）",
+    "chinese_summary": "【夏日彩云激起爱与风暴】ACEes深田流星的“夏希”爱情进入新阶段第7集剧情简介公开（Oricon）雅虎！消息",
+    "detailed_japanese": "Yahoo!ニュースは「【夏色の雲が恋と嵐をまきおこす】ACEes深田竜生“夏輝”の恋が新たな局面迎える 第7話あらすじ公開（オリコン）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "雅虎！新闻报道称，“[夏日彩云引发爱情风暴]ACEes深田流星的夏树的爱情进入新阶段。第7集剧情简介发布（Oricon）”。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「【夏色の雲が恋と嵐をまきおこす】ACEes深田竜生“夏輝”の恋が新たな局面迎える 第7話あらすじ公開（オリコン）」と"
+      },
+      {
+        "word": "巻き起こす",
+        "reading": "まきおこす",
+        "meaning": "搅动",
+        "pos": "动词",
+        "usage": "原形是「巻き起こす」，文中形式是「まきおこす」。活用类型：五段-サ行。",
+        "example": "Yahoo!ニュースは「【夏色の雲が恋と嵐をまきおこす】ACEes深田竜生“夏輝”の恋が新たな局面迎える 第7話あらすじ公開（オリコン）」と"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "迎える",
+        "reading": "むかえる",
+        "meaning": "欢迎",
+        "pos": "动词",
+        "usage": "原形是「迎える」，文中形式是「迎える」。活用类型：下一段-ア行。",
+        "example": "Yahoo!ニュースは「【夏色の雲が恋と嵐をまきおこす】ACEes深田竜生“夏輝”の恋が新たな局面迎える 第7話あらすじ公開（オリコン）」と"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 32.872790718333334
+  },
+  {
+    "category": "体育",
+    "title": "【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチームカラー”で夜空を彩る",
+    "source": "山陽新聞",
+    "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNWnNoVENLYXl6R0w3ZEgyQVJxQndSUzhOSFZQZm9kYjU5MGdHU3BnaTJDdFRWeG1mbHJKR3ZCT3FVX2tjZG9vSUJHZWlYNmJTblBvUDZ4MUlKNFg0d1luTE94UUY2SzFvNU4wX19vSU93SVZnYmNhcVRBbEo5UzFURHhlekltb0UtREtfeDNiVEh0WjhQN2dIbUl3VGtKXzJMSjlBQVFVbzVXT0NPVlpyZ1Jxc0U3dHd2djV6UEJpcWw2VXNrOThCelVVZ2E3VjZ1WUpqeFFmdndXNlgxcEc1TFBwUnB6WC1WTjM3YWtFQ002ZHF0bE9OVW42UEFvcHlXbkdCTWFZMHlMNHdDUVpLSHFkZ181T2JjWEIxajdQcE5QRmpQTlBOQkFtalRYZ3QzUkdPWUgwMldWc2wxMEJJc0x1RlRzUEZkakQzbUNFNmhZVGU2d0hBM0VKd0h4a0FaTkZCWWlNamREVjFIczZON09jSEZGenZhdXRiUHREeHhTQQ?oc=5",
+    "published": "2026-08-15 07:35",
+    "japanese_summary": "【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチームカラー”で夜空を彩る 山陽新聞",
+    "source_url": "https://www.sanyonews.jp/article/1946515?kw=%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E6%AD%A3%E8%A7%84%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E2%9C%94%EF%B8%8F%20ueiue.com%20%E2%AD%90%20%20blued%E4%B8%80%E5%B9%B4%E4%BC%9A%E5%91%98%E5%8F%B7%E8%87%AA%E5%8A%A9%E8%B4%AD%E4%B9%B0",
+    "chinese_title": "【2026年世界杯】东京塔以“蓝色”灯光为日本足球队加油。在对阵巴西队的决赛前夕，夜空将被染上“蓝队色”",
+    "chinese_summary": "[2026年世界杯] 东京铁塔点亮“蓝色”为日本足球队加油 对阵巴西的决赛前夕，夜空将被涂上“蓝队色” 山阳新闻",
+    "detailed_japanese": "山陽新聞は「【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチームカラー”で夜空を彩る」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《山阳新闻》报道称，“[2026年世界杯]东京塔亮起蓝色灯光，为日本足球队加油。在对阵巴西队的决赛前夕，夜空将照亮蓝色的球队颜色。”虽然我们成功获得了正文，但经过事实检查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "トーナメント-tournament",
+        "reading": "とーなめんと",
+        "meaning": "锦标赛-锦标赛",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「トーナメント-tournamentの＋名词」构成修饰关系。",
+        "example": "山陽新聞は「【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチーム"
+      },
+      {
+        "word": "ライト-light（光）",
+        "reading": "らいと",
+        "meaning": "光 - 光",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライト-light（光）の＋名词」构成修饰关系。",
+        "example": "山陽新聞は「【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチーム"
+      },
+      {
+        "word": "ブラジル-Brazil",
+        "reading": "ぶらじる",
+        "meaning": "巴西-巴西",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ブラジル-Brazilの＋名词」构成修饰关系。",
+        "example": "山陽新聞は「【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチーム"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "山陽新聞は「【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチーム"
+      },
+      {
+        "word": "タワー-tower",
+        "reading": "たわー",
+        "meaning": "塔-塔",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「タワー-towerの＋名词」构成修饰关系。",
+        "example": "山陽新聞は「【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチーム"
+      },
+      {
+        "word": "カラー-color",
+        "reading": "からー",
+        "meaning": "颜色-颜色",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「カラー-colorの＋名词」构成修饰关系。",
+        "example": "山陽新聞は「【W杯2026】東京タワー、「ブルー」のライトアップでサッカー日本代表にエール 決勝トーナメント・ブラジル戦の前夜に“青のチーム"
+      }
+    ],
+    "grammar": [],
+    "score": 45.622790718333334
+  },
+  {
+    "category": "社会",
+    "title": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く",
+    "source": "読売新聞",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qYWlWcnNsVFJGMFBFWFlfMTdaVTNBLXdnOHNaVWMwU1p6V1dTSDdmcEtLeUlyc05yUC14TlJSaVhudXlRalZxRURfeHlSbmdmakVBV0xmTmtKZjlJTkMxSnRKaFVDdw?oc=5",
+    "published": "2026-08-15 21:44",
+    "japanese_summary": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く 読売新聞",
+    "source_url": "https://www.yomiuri.co.jp/national/20260815-GYT1T00290/",
+    "chinese_title": "熊本地震中有30,894间房屋受损，3,205人被疏散……26,450间房屋的供水继续被切断。",
+    "chinese_summary": "熊本地震30,894间房屋受损，仍有3,205人疏散……26,450间房屋继续停水 读卖新闻",
+    "detailed_japanese": "読売新聞は「熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《读卖新闻》报道称，“熊本地震导致30,894间房屋受损，3,205人被疏散……26,450间房屋的供水继续被切断。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "読み売り",
+        "reading": "よみうり",
+        "meaning": "读卖",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「読み売りの＋名词」构成修饰关系。",
+        "example": "読売新聞は「熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "読売新聞は「熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 67.69779071833334
+  },
+  {
+    "category": "数码科技",
+    "title": "「速きもの」と「死せるもの」──AI時代のサバイバル論",
+    "source": "Forbes JAPAN",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aWdjVngwd0pYUXlpT3Rya0FUckF6UTNva3Jsb2tHdTY2SkIzc1owYUlNbkotbmZVNUdFaUp1ckV2eXY2cHVERTBqQkZ5VFJCSFJySjVReGFqZw?oc=5",
+    "published": "2026-08-16 00:02",
+    "japanese_summary": "「速きもの」と「死せるもの」──AI時代のサバイバル論 Forbes JAPAN",
+    "source_url": "https://forbesjapan.com/articles/detail/102956",
+    "chinese_title": "“快物”与“死物”——AI时代的生存论",
+    "chinese_summary": "“快物”与“死物”——AI时代的生存论 Forbes JAPAN",
+    "detailed_japanese": "Forbes JAPANは「「速きもの」と「死せるもの」──AI時代のサバイバル論」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "日本《福布斯》报道称，“‘快的东西’和‘死的东西’——人工智能时代的生存理论。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "サバイバル-survival",
+        "reading": "さばいばる",
+        "meaning": "生存-生存",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サバイバル-survivalの＋名词」构成修饰关系。",
+        "example": "Forbes JAPANは「「速きもの」と「死せるもの」──AI時代のサバイバル論」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "Forbes JAPANは「「速きもの」と「死せるもの」──AI時代のサバイバル論」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 39.84779071833333
+  },
+  {
+    "category": "军事",
+    "title": "「アメリカに次ぐ世界トップクラスの海上戦力」防衛白書と日米共同訓練が示す“中国軍事力への対抗策”の画像・写真 2 枚目",
+    "source": "jisin.jp",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85enkxRVBBSGtxUDZadXdUdFJNT3RKVEhmRHdINm1VZ0dPLXg4VW1qSWhWME15Ujh1MHp1STFCVE1tdFYzeV9BODBTWktXY1phY1lfdg?oc=5",
+    "published": "2026-08-15 23:07",
+    "japanese_summary": "「アメリカに次ぐ世界トップクラスの海上戦力」防衛白書と日米共同訓練が示す“中国軍事力への対抗策”の画像・写真 2 枚目 jisin.jp",
+    "source_url": "https://jisin.jp/domestic/2595351/image/0/",
+    "chinese_title": "《仅次于美国的世界顶级海上力量》防卫白皮书和日美联合演习展示的“针对中国军事力量的对策”第2张图片/照片",
+    "chinese_summary": "“仅次于美国的世界顶级海上力量”防卫白皮书和日美联合演习显示“针对中国军事力量的反制” 图片/照片第2次 jisin.jp",
+    "detailed_japanese": "jisin.jpは「「アメリカに次ぐ世界トップクラスの海上戦力」防衛白書と日米共同訓練が示す“中国軍事力への対抗策”の画像・写真 2 枚目」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "jisin.jp报道称，“继美国和日美联合演习之后的世界顶级海上力量防务白皮书中展示的第二张‘针对中国军事力量的反制措施’图片/照片。”虽然我们成功获得了正文，但自动转录事实核查并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "アメリカ-America",
+        "reading": "あめりか",
+        "meaning": "美国-美国",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「アメリカ-Americaの＋名词」构成修饰关系。",
+        "example": "jisin.jpは「「アメリカに次ぐ世界トップクラスの海上戦力」防衛白書と日米共同訓練が示す“中国軍事力への対抗策”の画像・写真 2 枚目」"
+      },
+      {
+        "word": "クラス-class",
+        "reading": "くらす",
+        "meaning": "类-类",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「クラス-classの＋名词」构成修饰关系。",
+        "example": "jisin.jpは「「アメリカに次ぐ世界トップクラスの海上戦力」防衛白書と日米共同訓練が示す“中国軍事力への対抗策”の画像・写真 2 枚目」"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "トップ-top",
+        "reading": "とっぷ",
+        "meaning": "顶顶",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「トップ-topの＋名词」构成修饰关系。",
+        "example": "jisin.jpは「「アメリカに次ぐ世界トップクラスの海上戦力」防衛白書と日米共同訓練が示す“中国軍事力への対抗策”の画像・写真 2 枚目」"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 46.389457385
+  }
+]
