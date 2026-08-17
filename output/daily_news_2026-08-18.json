@@ -1,0 +1,529 @@
+[
+  {
+    "category": "新闻",
+    "title": "AIが空けたサイバー防御の穴 足を引っ張る政府の規制",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OVEJHRkpKR3hPbEJadVZ5ZkNHNW91ZzlrYlk2NDBsOWx6WmVVTWFtZHg1V1d1am9fT3E2RW1vS0Y0cThQVU40bWcyYkk3TWQ1ZW5waEZ3Y1cxS1IwSUQxek5zOExvUE9tdFdpSzhISm1yajFjZFkw?oc=5",
+    "published": "2026-08-18 00:00",
+    "japanese_summary": "AIが空けたサイバー防御の穴 足を引っ張る政府の規制 日本経済新聞",
+    "source_url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB170TH0X10C26A8000000",
+    "chinese_title": "人工智能在网络防御中打开了漏洞；政府法规阻碍",
+    "chinese_summary": "人工智能在网络防御中打开了漏洞；政府法规阻碍日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「AIが空けたサイバー防御の穴 足を引っ張る政府の規制」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“人工智能在网络防御中打开了漏洞，政府法规阻碍了我们。”虽然我们成功获得了正文，但经过事实检查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "引っ張る",
+        "reading": "ひっぱる",
+        "meaning": "拉",
+        "pos": "动词",
+        "usage": "原形是「引っ張る」，文中形式是「引っ張る」。活用类型：五段-ラ行。",
+        "example": "日本経済新聞は「AIが空けたサイバー防御の穴 足を引っ張る政府の規制」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "空ける",
+        "reading": "あけ",
+        "meaning": "空的",
+        "pos": "动词",
+        "usage": "原形是「空ける」，文中形式是「空け」。活用类型：下一段-カ行。",
+        "example": "日本経済新聞は「AIが空けたサイバー防御の穴 足を引っ張る政府の規制」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 63.79009425527778
+  },
+  {
+    "category": "政治",
+    "title": "女性首相が誕生しても日本は「性差の劣等生」 女性議員を増やす方法 金子恵美",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGFKYy1OZ0F4cmh0RExfSDIyVFA2Z1dOWS1DM1IzNWR3WFN1OUUyLVlrdG5ySHMxZl9aX0Nrelp4TXNJamJBa2FoWGVsd0dlS2VCbmdUTkhXa1YxcGhHZTdBcThKV0Y3eDh1UGtILWxtQnVBbGtWb1U3eTRhaThFbUc5MnJheEdwWG1EVg?oc=5",
+    "published": "2026-08-18 00:01",
+    "japanese_summary": "女性首相が誕生しても日本は「性差の劣等生」 女性議員を増やす方法 金子恵美 日本経済新聞",
+    "source_url": "https://woman.nikkei.com/atcl/column/23/030600405/081000006/?i_cid=nbpnxw_pickup_top",
+    "chinese_title": "即使诞生了女首相，日本依然存在“性别劣势” 如何增加国会女议员数量 金子惠美",
+    "chinese_summary": "即使诞生了女首相，日本依然存在“性别劣势” 如何增加国会女议员数量 金子惠美 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「女性首相が誕生しても日本は「性差の劣等生」 女性議員を増やす方法 金子恵美」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“即使诞生了女首相，日本仍然存在‘性别劣势’——金子惠美：如何增加女性政治家的数量。”虽然我们成功获得了正文，但经过事实核查的自动转录并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "女性",
+        "reading": "じょせい",
+        "meaning": "女士",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「女性の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「女性首相が誕生しても日本は「性差の劣等生」 女性議員を増やす方法 金子恵美」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "増やす",
+        "reading": "ふやす",
+        "meaning": "增加",
+        "pos": "动词",
+        "usage": "原形是「増やす」，文中形式是「増やす」。活用类型：五段-サ行。",
+        "example": "日本経済新聞は「女性首相が誕生しても日本は「性差の劣等生」 女性議員を増やす方法 金子恵美」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.79842758861111
+  },
+  {
+    "category": "经济",
+    "title": "春秋（8月18日）",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mLTdZMkZsYmZrdmFJVWVUS28zeS1UT2pHQjM2OXdrd3BWWUR4aUNmZ1U3bnRVZXgzSWdHcFBidWFNWjZkSWxBc2JDM2VzaFFxWmY0T0YxeVN2OVhONVBndTV6elozUXZ4a0V1SA?oc=5",
+    "published": "2026-08-18 00:00",
+    "japanese_summary": "春秋（8月18日） 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQODK160GW0W6A810C2000000/",
+    "chinese_title": "春秋（8月18日）",
+    "chinese_summary": "春秋（8月18日）日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「春秋（8月18日）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "日本经济新闻报道说，现在是“春秋”（8月18日）。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「春秋（8月18日）」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 49.79009425527778
+  },
+  {
+    "category": "娱乐",
+    "title": "Hey! Say! JUMP、特番で主題歌「I LOVE YOUのエビデンス」解禁 20周年を前にした想いに寄り添う楽曲に（オリコン）",
+    "source": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xTjNUeFBIWHRTX0xpOXUwNzFkWkJ5WjYwYXhyQXJvVUVHQjQ4S3lWTzlDX3lSbmZsTGs4VkJ5eUhRT09GTTBkQnh3aElTcTRDZ0VlTHhsVXRaSlF2VlBwX3M1VHMzYkxDeTc2NEZVMzhHUVRnOGY1c2VXdmJnTDA?oc=5",
+    "published": "2026-08-18 00:00",
+    "japanese_summary": "Hey! Say! JUMP、特番で主題歌「I LOVE YOUのエビデンス」解禁 20周年を前にした想いに寄り添う楽曲に（オリコン） Yahoo!ニュース",
+    "source_url": "https://news.yahoo.co.jp/articles/9acf8e916d8f8d68dc797f3162f8b84ac35c31ce",
+    "chinese_title": "嘿！说！ JUMP主题曲《I LOVE YOU no Evidence》将在特别节目中公开，这是一首贴近20周年前的感情的歌曲（Oricon）",
+    "chinese_summary": "嘿！说！ JUMP在特别节目中发表主题曲《I LOVE YOU no Evidence》，这是一首在20周年之前触动人心的歌曲（Oricon） Yahoo!消息",
+    "detailed_japanese": "Yahoo!ニュースは「Hey! Say! JUMP、特番で主題歌「I LOVE YOUのエビデンス」解禁 20周年を前にした想いに寄り添う楽曲に（オリコン）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "雅虎！新闻报道说：“嘿！说！ JUMP将在特别节目中发行主题曲《I LOVE YOU's Evidence》，这是一首贴近出道20周年前的感情的歌曲（Oricon）。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "エビデンス-evidence",
+        "reading": "えびでんす",
+        "meaning": "证据-证据",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「エビデンス-evidenceの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「Hey! Say! JUMP、特番で主題歌「I LOVE YOUのエビデンス」解禁 20周年を前にした想いに寄り添う"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「Hey! Say! JUMP、特番で主題歌「I LOVE YOUのエビデンス」解禁 20周年を前にした想いに寄り添う"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "寄り添う",
+        "reading": "よりそう",
+        "meaning": "特写",
+        "pos": "动词",
+        "usage": "原形是「寄り添う」，文中形式是「寄り添う」。活用类型：五段-ワア行。",
+        "example": "Yahoo!ニュースは「Hey! Say! JUMP、特番で主題歌「I LOVE YOUのエビデンス」解禁 20周年を前にした想いに寄り添う"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 32.79009425527778
+  },
+  {
+    "category": "体育",
+    "title": "「ツボ過ぎてさ…」登録者数94万人の人気YouTuber、 日本代表・中村敬斗の“底無し沼”に! W杯の試合「観てないけど…好き」異例の“1年越し”オリコン1位も!（サッカー批評Web）",
+    "source": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sMEtCWTdpYjV1bXJjS2RpbTFzS3hfbEMtcEtHYTVZZVhOUVFvd1N2cDZlMHBUNExOSFc3dVlDeVFPcW5obWFEdmZOdUE0eTBlc0pWcUd3MzhPYU56M1IzWHpSMGkydnNaRzRIbTNJSXhpdHFuSHlRQlAyQkZWZnc?oc=5",
+    "published": "2026-08-17 20:30",
+    "japanese_summary": "「ツボ過ぎてさ…」登録者数94万人の人気YouTuber、 日本代表・中村敬斗の“底無し沼”に! W杯の試合「観てないけど…好き」異例の“1年越し”オリコン1位も!（サッカー批評Web） Yahoo!ニュース",
+    "source_url": "https://news.yahoo.co.jp/articles/a99724576d7176acd0b1576ca5514527b0eecbd3",
+    "chinese_title": "“好久不见了……”拥有94万订阅者的人气YouTuber，日本代表中村圭人的“无底沼泽”！ “没看过世界杯比赛，但我喜欢”史无前例的“1岁”Oricon排行榜第一！ （足球批评网）",
+    "chinese_summary": "“好久不见了……”拥有94万订阅者的人气YouTuber，日本代表中村圭人的“无底洞”！ “没看过世界杯比赛，但我喜欢”破天荒“一年多”登上Oricon排行榜第一！ （足球批评网）雅虎！消息",
+    "detailed_japanese": "Yahoo!ニュースは「「ツボ過ぎてさ…」登録者数94万人の人気YouTuber、 日本代表・中村敬斗の“底無し沼”に! W杯の試合「観てないけど…好き」異例の“1年越し”オリコン1位も!（サッカー批評Web）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "雅虎！新闻报道称，拥有94万订阅者的人气YouTuber中村圭人“简直是无底洞”！ “我没看过世界杯比赛，但我喜欢它。”“我没看过，但是……我喜欢它。”史无前例，“距离我在 Oricon 排行榜上排名第一已经一年了！”（足球评论网）。”虽然我们成功获得了正文，但经过事实核查的自动转录并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「「ツボ過ぎてさ…」登録者数94万人の人気YouTuber、 日本代表・中村敬斗の“底無し沼”に! W杯の試合「観てな"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「「ツボ過ぎてさ…」登録者数94万人の人気YouTuber、 日本代表・中村敬斗の“底無し沼”に! W杯の試合「観てな"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "過ぎる",
+        "reading": "すぎ",
+        "meaning": "太多了",
+        "pos": "动词",
+        "usage": "原形是「過ぎる」，文中形式是「過ぎ」。活用类型：上一段-ガ行。",
+        "example": "Yahoo!ニュースは「「ツボ過ぎてさ…」登録者数94万人の人気YouTuber、 日本代表・中村敬斗の“底無し沼”に! W杯の試合「観てな"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 45.04009425527778
+  },
+  {
+    "category": "社会",
+    "title": "「令和8年 熊本地震」の被災地支援について",
+    "source": "日清食品グループ",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQR1ZhbmpRV2xLWVQ2dURqSzNKb2lHNHV5LTJtTzE5ZkNLS2M4YzhRdGo1S0dhUXlFQV9EaVpKSUEwOUVsTU9DOWZwVF9IeTZEN3pYYUJOOHU?oc=5",
+    "published": "2026-08-18 00:11",
+    "japanese_summary": "「令和8年 熊本地震」の被災地支援について 日清食品グループ",
+    "source_url": "https://www.nissin.com/jp/company/news/13888/",
+    "chinese_title": "关于对“2020年熊本地震”受灾地区的支援",
+    "chinese_summary": "关于对“2020年熊本地震”受灾地区的支援 日清食品集团",
+    "detailed_japanese": "日清食品グループは「「令和8年 熊本地震」の被災地支援について」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "日清食品集团报道称，“关于对2020年熊本地震受灾地区的支援”。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不公开详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "グループ-group",
+        "reading": "ぐるーぷ",
+        "meaning": "组-组",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「グループ-groupの＋名词」构成修饰关系。",
+        "example": "日清食品グループは「「令和8年 熊本地震」の被災地支援について」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日清食品グループは「「令和8年 熊本地震」の被災地支援について」と報じました。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "について",
+        "label": "主题",
+        "explanation": "表示“关于……”。比「は」更明确地限定讨论对象。",
+        "example": "政府は今後の対応について説明しました。"
+      }
+    ],
+    "score": 39.88176092194445
+  },
+  {
+    "category": "数码科技",
+    "title": "AIが空けたサイバー防御の穴 足を引っ張る政府の規制",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OVEJHRkpKR3hPbEJadVZ5ZkNHNW91ZzlrYlk2NDBsOWx6WmVVTWFtZHg1V1d1am9fT3E2RW1vS0Y0cThQVU40bWcyYkk3TWQ1ZW5waEZ3Y1cxS1IwSUQxek5zOExvUE9tdFdpSzhISm1yajFjZFkw?oc=5",
+    "published": "2026-08-18 00:00",
+    "japanese_summary": "AIが空けたサイバー防御の穴 足を引っ張る政府の規制 日本経済新聞",
+    "source_url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB170TH0X10C26A8000000",
+    "chinese_title": "人工智能在网络防御中打开了漏洞；政府法规阻碍",
+    "chinese_summary": "人工智能在网络防御中打开了漏洞；政府法规阻碍日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「AIが空けたサイバー防御の穴 足を引っ張る政府の規制」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“人工智能在网络防御中打开了漏洞，政府法规阻碍了我们。”虽然我们成功获得了正文，但经过事实检查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "引っ張る",
+        "reading": "ひっぱる",
+        "meaning": "拉",
+        "pos": "动词",
+        "usage": "原形是「引っ張る」，文中形式是「引っ張る」。活用类型：五段-ラ行。",
+        "example": "日本経済新聞は「AIが空けたサイバー防御の穴 足を引っ張る政府の規制」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "空ける",
+        "reading": "あけ",
+        "meaning": "空的",
+        "pos": "动词",
+        "usage": "原形是「空ける」，文中形式是「空け」。活用类型：下一段-カ行。",
+        "example": "日本経済新聞は「AIが空けたサイバー防御の穴 足を引っ張る政府の規制」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 63.79009425527778
+  },
+  {
+    "category": "军事",
+    "title": "楽天、迎撃ドローンの独ヘルシングと提携へ 防衛省への納入支援 報道",
+    "source": "ITmedia",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWVV1RC1ZMkxPV2RBcUpUaDR1c3RjLUFROXdkV013akVkekZXb2x0ZUgzeldEVjhORTQwLVdfVERKTm1tUW42OUlzU0xLTU03NHlqWEg1UUhCaHozQ1N3cmdXNnhnVkdMdnc?oc=5",
+    "published": "2026-08-17 17:26",
+    "japanese_summary": "楽天、迎撃ドローンの独ヘルシングと提携へ 防衛省への納入支援 報道 ITmedia",
+    "source_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000568/",
+    "chinese_title": "乐天与德国 Hellsing 合作开发拦截无人机，支持向国防部交付报告",
+    "chinese_summary": "乐天将与德国 Hellsing 合作，向国防部提供拦截无人机",
+    "detailed_japanese": "ITmediaは「楽天、迎撃ドローンの独ヘルシングと提携へ 防衛省への納入支援 報道」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "ITmedia报道称，“乐天将与德国Hellsing合作，向国防部提供拦截无人机。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免出现错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ドローン-drone",
+        "reading": "どろーん",
+        "meaning": "无人机-无人机",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ドローン-droneの＋名词」构成修饰关系。",
+        "example": "ITmediaは「楽天、迎撃ドローンの独ヘルシングと提携へ 防衛省への納入支援 報道」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ヘル-hell",
+        "reading": "へる",
+        "meaning": "地狱地狱",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ヘル-hellの＋名词」构成修饰关系。",
+        "example": "ITmediaは「楽天、迎撃ドローンの独ヘルシングと提携へ 防衛省への納入支援 報道」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 47.50676092194445
+  }
+]
