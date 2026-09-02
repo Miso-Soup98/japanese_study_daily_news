@@ -1,0 +1,529 @@
+[
+  {
+    "category": "新闻",
+    "title": "熊本地震 断水・停電で使えず／職員被災し人手不足 福祉避難所 想定超え",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRm1scVdKQXpaR0pXM1JaZG5GRDZ6MXBTOGdyYUZuUW5TbGtRdTF3TFpVdmJpenc4bUpTWV81WW9zYTFqdjdjMTZLQUtpVmJITVFEYy04NmRGQl9nRFM4ZEExcUpJUGdh?oc=5",
+    "published": "2026-09-03 02:01",
+    "japanese_summary": "熊本地震 断水・停電で使えず／職員被災し人手不足 福祉避難所 想定超え 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260903/ddm/041/040/078000c",
+    "chinese_title": "熊本地震 因停水、停电而无法使用 / 受灾人员短缺 福利疏散中心超出预期",
+    "chinese_summary": "熊本地震：福利疏散中心超出预期，因停水停电而无法使用/因受灾人员短缺每日新闻",
+    "detailed_japanese": "毎日新聞は「熊本地震 断水・停電で使えず／職員被災し人手不足 福祉避難所 想定超え」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《每日新闻》报道称，“熊本地震：因停水、停电而无法使用/福利疏散中心因人员受损和人员短缺而超出预期。”虽然我们成功获得了正文，但自动转录和事实核查并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「熊本地震 断水・停電で使えず／職員被災し人手不足 福祉避難所 想定超え」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 61.28402267833333
+  },
+  {
+    "category": "政治",
+    "title": "労働者，資本家，政府で利害が真っ向対立。政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装",
+    "source": "4Gamer.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OUDk5Vy1GWE1hX25qQ1lYa3YzSGxGaVo1SnlMR0Fqb0d4MjNFOHVVMTRZeE1YRDktOEtRTWRuOE9RUGd0a0FtdGFhVGZMUUc2bV9HUA?oc=5",
+    "published": "2026-09-03 01:50",
+    "japanese_summary": "労働者，資本家，政府で利害が真っ向対立。政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装 4Gamer.net",
+    "source_url": "https://www.4gamer.net/s/G063965.260903003",
+    "chinese_title": "工人、资本家和政府的利益是直接冲突的。一款政治经济题材的超重量级桌游《争霸》已在桌游竞技场正式上线。",
+    "chinese_summary": "工人、资本家和政府的利益是直接冲突的。政治经济题材超重量级桌游《霸权》正式上线 Board Game Arena 4Gamer.net",
+    "detailed_japanese": "4Gamer.netは「労働者，資本家，政府で利害が真っ向対立。政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "4Gamer.net 报道称，“工人、资本家和政府的利益存在直接冲突。 《争霸》是一款政治经济题材的超重量级桌游，已在桌游领域正式上线。虽然我们成功获取了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ヘゲモニー-Hegemonie",
+        "reading": "へげもにー",
+        "meaning": "霸权-霸权",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ヘゲモニー-Hegemonieの＋名词」构成修饰关系。",
+        "example": "政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装」と報じました。"
+      },
+      {
+        "word": "ボード-board",
+        "reading": "ぼーど",
+        "meaning": "板-板",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ボード-boardの＋名词」构成修饰关系。",
+        "example": "政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装」と報じました。"
+      },
+      {
+        "word": "ゲーム-game",
+        "reading": "げーむ",
+        "meaning": "游戏游戏",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ゲーム-gameの＋名词」构成修饰关系。",
+        "example": "政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装」と報じました。"
+      },
+      {
+        "word": "アリーナ-arena",
+        "reading": "ありーな",
+        "meaning": "竞技场-竞技场",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「アリーナ-arenaの＋名词」构成修饰关系。",
+        "example": "政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装」と報じました。"
+      },
+      {
+        "word": "テーマ-theme",
+        "reading": "てーま",
+        "meaning": "主题-主题",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「テーマ-themeの＋名词」构成修饰关系。",
+        "example": "政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 39.19235601166667
+  },
+  {
+    "category": "经济",
+    "title": "歯止め失った予算編成の帰結",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5adUdObGc2TGpUMjhpeGVGQVVNVHNoM2tGVXNXREN5ODhwUVdpd1B5eDNjX2FudS1jSjBuTjRWWDRObXhnMHJfT1oyN2VOYTdqNTFtZDQxaV9DeWo5TUZhci1TUXBrVzUzTE9tRw?oc=5",
+    "published": "2026-09-03 02:00",
+    "japanese_summary": "歯止め失った予算編成の帰結 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUB318YK0R30C26A8000000/",
+    "chinese_title": "预算规划失去控制力的后果",
+    "chinese_summary": "预算计划失去控制的后果 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「歯止め失った予算編成の帰結」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“这是预算制定失去控制的结果。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不公开详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "歯止め",
+        "reading": "はどめ",
+        "meaning": "制动",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「歯止めの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「歯止め失った予算編成の帰結」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「歯止め失った予算編成の帰結」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 49.275689345
+  },
+  {
+    "category": "娱乐",
+    "title": "35歳俳優、芸能界引退を発表「事務所を退所、芸能界を卒業しました」 『科捜研の女』『おはよう朝日です』などに出演",
+    "source": "東奥日報社",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXYjRLSVBfX3MtMV9XMFFDZXc1X1pnZkhhVVJla2ZCeWY5SXZpU3VmdDQ0a0oweUsyVTd1R0F0VlZkTWlIYVFXekQycElQbVhJN1Q4aWpITHk?oc=5",
+    "published": "2026-09-02 19:35",
+    "japanese_summary": "35歳俳優、芸能界引退を発表「事務所を退所、芸能界を卒業しました」 『科捜研の女』『おはよう朝日です』などに出演 東奥日報社",
+    "source_url": "https://www.toonippo.co.jp/articles/-/2353976",
+    "chinese_title": "35岁演员宣布退出演艺圈“我已经离开经纪公司，从演艺圈毕业了”出演了《Kasouken no Onna》，《Good Morning Asahi Desu》等。",
+    "chinese_summary": "35岁演员宣布退出演艺圈“我已经离开经纪公司，从演艺圈毕业了”出演了《Kasouken no Onna》，《Good Morning Asahi Desu》等 To-O Nipposha",
+    "detailed_japanese": "東奥日報社は「35歳俳優、芸能界引退を発表「事務所を退所、芸能界を卒業しました」 『科捜研の女』『おはよう朝日です』などに出演」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "Tooku Nipposha 报道称：“一位 35 岁的演员宣布从演艺界退休。 “我已经离开经纪公司，从娱乐圈毕业了。”他曾出演过《Kasouken no Onna》和《早安 Asahi Desu》。虽然我们成功获得了正文，但自动转录和事实检查并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "芸能",
+        "reading": "げいのう",
+        "meaning": "娱乐",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「芸能の＋名词」构成修饰关系。",
+        "example": "東奥日報社は「35歳俳優、芸能界引退を発表「事務所を退所、芸能界を卒業しました」 『科捜研の女』『おはよう朝日です』などに出演」と報じました"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "科捜研",
+        "reading": "かそうけん",
+        "meaning": "科学研究",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「科捜研の＋名词」构成修饰关系。",
+        "example": "東奥日報社は「35歳俳優、芸能界引退を発表「事務所を退所、芸能界を卒業しました」 『科捜研の女』『おはよう朝日です』などに出演」と報じました"
+      }
+    ],
+    "grammar": [],
+    "score": 52.06735601166667
+  },
+  {
+    "category": "体育",
+    "title": "本田圭佑 日本代表監督へあらためて意欲 W杯優勝を「監督として最終的に果たしたい」",
+    "source": "ｄメニューニュース",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnNvQ1hlMTJEQ2pzR2FNY3pOQm1jeE9nb3dZMTVTOUV3ZF9mQmQ1bHJHdll1QzFPMGZ0ZUdSMVFjT3NPRnRxOTRqRFdDVUlGQ25xMC1sSFkxRl9ORTBoNHhVOEtWZXlVMEhqWHpnc0JpRl9najdfVnpIbGlHNm81LXBFdGxocGhIQ3I5ZTJma1hNZXU0Q2hiaHBCRktqellm0gGTAUFVX3lxTFBiTUVVeDdob2NsZ0xCRzVsVnpHazBmdHpZRE92eDJNbGFWSndIa1FieGVPcW92c0U1UUFwQ1lSQVBvUEhScWt2bnJmVkxsaXh4RFl4MGs0WFhwTWFZbEN4UTJQT2pEa2txVkFfU3ItUjdCbUJjTlVJQVAxckhfZ01IZFVpeW4tU2dqMXVxV21IMTNrSQ?oc=5",
+    "published": "2026-09-02 20:42",
+    "japanese_summary": "本田圭佑 日本代表監督へあらためて意欲 W杯優勝を「監督として最終的に果たしたい」 ｄメニューニュース",
+    "source_url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260902-0338?fm=latestnews",
+    "chinese_title": "本田圭佑重申了自己成为日本国家队主教练的愿望：“我希望最终以教练身份赢得世界杯。”",
+    "chinese_summary": "本田圭佑重申了成为日本国家队主教练的愿望，称他希望作为教练赢得世界杯 dmenu News",
+    "detailed_japanese": "ｄメニューニュースは「本田圭佑 日本代表監督へあらためて意欲 W杯優勝を「監督として最終的に果たしたい」」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "d Menu News报道称，“本田圭佑再次渴望成为日本国家队主教练，并表示他希望最终以教练身份赢得世界杯。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "メニュー-menu",
+        "reading": "めにゅー",
+        "meaning": "菜单-菜单",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「メニュー-menuの＋名词」构成修饰关系。",
+        "example": "ｄメニューニュースは「本田圭佑 日本代表監督へあらためて意欲 W杯優勝を「監督として最終的に果たしたい」」と報じました。"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "ｄメニューニュースは「本田圭佑 日本代表監督へあらためて意欲 W杯優勝を「監督として最終的に果たしたい」」と報じました。"
+      },
+      {
+        "word": "監督",
+        "reading": "かんとく",
+        "meaning": "导演",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「監督の＋名词」构成修饰关系。",
+        "example": "ｄメニューニュースは「本田圭佑 日本代表監督へあらためて意欲 W杯優勝を「監督として最終的に果たしたい」」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "として",
+        "label": "身份・立场",
+        "explanation": "表示“作为……”，说明身份、资格、用途或立场。",
+        "example": "専門家として会議に参加しました。"
+      }
+    ],
+    "score": 52.625689345
+  },
+  {
+    "category": "社会",
+    "title": "熊本地震 断水・停電で使えず／職員被災し人手不足 福祉避難所 想定超え",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRm1scVdKQXpaR0pXM1JaZG5GRDZ6MXBTOGdyYUZuUW5TbGtRdTF3TFpVdmJpenc4bUpTWV81WW9zYTFqdjdjMTZLQUtpVmJITVFEYy04NmRGQl9nRFM4ZEExcUpJUGdh?oc=5",
+    "published": "2026-09-03 02:01",
+    "japanese_summary": "熊本地震 断水・停電で使えず／職員被災し人手不足 福祉避難所 想定超え 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260903/ddm/041/040/078000c",
+    "chinese_title": "熊本地震 因停水、停电而无法使用 / 受灾人员短缺 福利疏散中心超出预期",
+    "chinese_summary": "熊本地震：福利疏散中心超出预期，因停水停电而无法使用/因受灾人员短缺每日新闻",
+    "detailed_japanese": "毎日新聞は「熊本地震 断水・停電で使えず／職員被災し人手不足 福祉避難所 想定超え」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《每日新闻》报道称，“熊本地震：因停水、停电而无法使用/福利疏散中心因人员受损和人员短缺而超出预期。”虽然我们成功获得了正文，但自动转录和事实核查并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「熊本地震 断水・停電で使えず／職員被災し人手不足 福祉避難所 想定超え」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 61.28402267833333
+  },
+  {
+    "category": "数码科技",
+    "title": "ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50dFBDUmVKWjAtQlZEREhjOXNSVFc3YUFGeS1EdmNHQ3llNm90TC1sUVFXSFF5MFR3cXkyaWRneDJnX3JOMXFIaW5NemY3eV9mX1VRd2E3c21Vd2tpYTVndkxkZU1HNGtH?oc=5",
+    "published": "2026-09-03 02:10",
+    "japanese_summary": "ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES） 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260903/pr2/00m/020/017000c",
+    "chinese_title": "Pocket Sign开始使用全国首个*“个人号码卡（JPKI）x生成的AI”为居民提供行政柜台服务（PR TIMES）",
+    "chinese_summary": "PocketSign 开始为使用全国首个*“个人编号卡（JPKI）x 世代 AI”的居民提供行政柜台服务（PR TIMES）每日新闻",
+    "detailed_japanese": "毎日新聞は「ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "据《每日新闻》报道，“Pocket Sign 开始使用全国首个*‘个人编号卡 (JPKI) x 生成的 AI’”为居民提供行政柜台服务（PR TIMES）。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "サービス-service",
+        "reading": "さーびす",
+        "meaning": "服务-服务",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サービス-serviceの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）」"
+      },
+      {
+        "word": "ポケット-pocket",
+        "reading": "ぽけっと",
+        "meaning": "口袋-口袋",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ポケット-pocketの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）」"
+      },
+      {
+        "word": "ナンバー-number",
+        "reading": "なんばー",
+        "meaning": "数字-数字",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ナンバー-numberの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）」"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "サイン-sign",
+        "reading": "さいん",
+        "meaning": "标志-标志",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サイン-signの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）」"
+      },
+      {
+        "word": "カード-card",
+        "reading": "かーど",
+        "meaning": "卡卡",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「カード-cardの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）」"
+      }
+    ],
+    "grammar": [],
+    "score": 54.35902267833333
+  },
+  {
+    "category": "军事",
+    "title": "三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代]",
+    "source": "朝日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1U1NlZHFCNVIxNVc2QkhscGZ6dUQxYUEwT1R4bVF4WHRLSFBXejdhWFVFaHpQbnMxZW1Bb0EtWXBLcGo0QkdWcmVaRFR5dE5POFJocFBNQnFpUWcyWWIxNWNIaktFVUU?oc=5",
+    "published": "2026-09-02 18:49",
+    "japanese_summary": "三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代] 朝日新聞",
+    "source_url": "https://www.asahi.com/articles/ASV9232K0V92ULFA01WM.html",
+    "chinese_title": "三菱重工与NEC加强国防领域合作人工智能与国防装备的技术融合【人工智能时代】",
+    "chinese_summary": "三菱重工与NEC加强防务领域合作 AI与防务装备的技术融合 [Age of AI] 朝日新闻",
+    "detailed_japanese": "朝日新聞は「三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代]」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "据《朝日新闻》报道，“三菱重工与NEC加强防务领域合作——人工智能与国防装备的技术融合[人工智能时代]”。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "防衛",
+        "reading": "ぼうえい",
+        "meaning": "防御",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「防衛の＋名词」构成修饰关系。",
+        "example": "朝日新聞は「三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代]」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "朝日新聞は「三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代]」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 43.684022678333335
+  }
+]
