@@ -1,0 +1,529 @@
+[
+  {
+    "category": "新闻",
+    "title": "NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96QWhWZHVEV2RHN0VmNWgyeFNOMUpFT1A0aDZ4NHUwSURrTktXQWVaLXAtQXY2bm1kQmtDYWowRVU2VHVXSmwyQWRiTWF4VGM0aGFkX2xtRjVZcGQtZjF5dTcya25wQWVpZENaRQ?oc=5",
+    "published": "2026-09-04 01:13",
+    "japanese_summary": "NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOGN03BUG0T00C26A9000000/",
+    "chinese_title": "NVIDIA 同意收购美国初创公司 Hugging Face，运营 AI 开发平台",
+    "chinese_summary": "NVIDIA 同意收购美国初创公司 Hugging Face，运营 AI 开发平台 Nihon Keizai Shimbun",
+    "detailed_japanese": "日本経済新聞は「NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“NVIDIA 同意收购美国初创公司 Hugging Face，运营 AI 开发平台。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ハギングフェイス",
+        "reading": "",
+        "meaning": "拥抱脸",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ハギングフェイスの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 55.92499236972222
+  },
+  {
+    "category": "政治",
+    "title": "専門家が警告、EUが政治的分極化でシステム危機に陥る",
+    "source": "Межа. Новини України.",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HSk1HUVg5a3dVN1Yyc19tbFlyNWhTZnNNS3FuS2hVQ0JxR20zc0J4NkFrSjZaRWtYOXZORy15Nll2SVU1cFZFa0VXbGMyc0dKYTllVVp0eWlRNGVzMmFKbi1kVWw?oc=5",
+    "published": "2026-09-04 01:47",
+    "japanese_summary": "専門家が警告、EUが政治的分極化でシステム危機に陥る Межа. Новини України.",
+    "source_url": "https://mezha.net/jp/news/ab40b345_oleg_saakyan_warns/",
+    "chinese_title": "专家警告政治极化将使欧盟陷入系统性危机",
+    "chinese_summary": "专家警告说，政治两极分化将使欧盟陷入系统性危机。",
+    "detailed_japanese": "Межа. Новини України.は「専門家が警告、EUが政治的分極化でシステム危機に陥る」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "梅卡。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "システム-system",
+        "reading": "しすてむ",
+        "meaning": "系统-系统",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「システム-systemの＋名词」构成修饰关系。",
+        "example": "Межа. Новини України.は「専門家が警告、EUが政治的分極化でシステム危機に陥る」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "Межа. Новини України.は「専門家が警告、EUが政治的分極化でシステム危機に陥る」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "陥る",
+        "reading": "おちいる",
+        "meaning": "落入",
+        "pos": "动词",
+        "usage": "原形是「陥る」，文中形式是「陥る」。活用类型：五段-ラ行。",
+        "example": "Межа. Новини України.は「専門家が警告、EUが政治的分極化でシステム危機に陥る」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 32.20832570305556
+  },
+  {
+    "category": "经济",
+    "title": "自然光をうけとめる場（9）ロスコ・チャペル（米ヒューストン）",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGLVJFZmp3VDlBZnVnMFlkNzFhQVdsNzh0NkJVcTVRVjVHVjQ0RGVMRlJoN3A1dUJ1YThiSmM3RldzcVhMXzU0TmRlOTdid3VDZkFiTDM0YXhaUGozVGVoQWNmb2M1aXNxYTJVdg?oc=5",
+    "published": "2026-09-04 02:00",
+    "japanese_summary": "自然光をうけとめる場（9）ロスコ・チャペル（米ヒューストン） 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUD068SI0W6A800C2000000/",
+    "chinese_title": "接收自然光的地方（9）罗斯科教堂（美国休斯顿）",
+    "chinese_summary": "接收自然光的地方 (9) Rothko Chapel (美国休斯顿) 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「自然光をうけとめる場（9）ロスコ・チャペル（米ヒューストン）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，这是“一个接受自然光的地方（9）罗斯科教堂（美国休斯顿）”。虽然我们成功获得了正文，但经过事实核查的自动转录并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ヒューストン-Houston",
+        "reading": "ひゅーすとん",
+        "meaning": "休斯顿",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ヒューストン-Houstonの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「自然光をうけとめる場（9）ロスコ・チャペル（米ヒューストン）」と報じました。"
+      },
+      {
+        "word": "チャペル-chapel",
+        "reading": "ちゃぺる",
+        "meaning": "礼拜堂-礼拜堂",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「チャペル-chapelの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「自然光をうけとめる場（9）ロスコ・チャペル（米ヒューストン）」と報じました。"
+      },
+      {
+        "word": "ロスコ-Rothko",
+        "reading": "ろすこ",
+        "meaning": "罗斯科",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロスコ-Rothkoの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「自然光をうけとめる場（9）ロスコ・チャペル（米ヒューストン）」と報じました。"
+      },
+      {
+        "word": "受け止める",
+        "reading": "うけとめる",
+        "meaning": "接受",
+        "pos": "动词",
+        "usage": "原形是「受け止める」，文中形式是「うけとめる」。活用类型：下一段-マ行。",
+        "example": "日本経済新聞は「自然光をうけとめる場（9）ロスコ・チャペル（米ヒューストン）」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 49.316659036388884
+  },
+  {
+    "category": "娱乐",
+    "title": "『ダークギャザリング』第2期、2027年放送決定 原作9巻「#34 上洛」から描く",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15QzVQcnE4UHpia2RTOE51Z3FMLXZTdDllZjRPbWI3ZXJGc0dQdXBPbGJEdWJ6NWQ1UFl3WENzQXk1UFh2UVY2NGo4eERLSlp4SXhqekNvVHdUekNiRVp4ODdoRTlNdHJr?oc=5",
+    "published": "2026-09-04 00:00",
+    "japanese_summary": "『ダークギャザリング』第2期、2027年放送決定 原作9巻「#34 上洛」から描く 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260904/orc/00m/200/004000c",
+    "chinese_title": "（在线翻译暂时不可用，请稍后重新生成。）",
+    "chinese_summary": "《黑暗聚会》第二季将于2027年播出，取材于《每日新闻》原作第9卷《#34京都》",
+    "detailed_japanese": "毎日新聞は「『ダークギャザリング』第2期、2027年放送決定 原作9巻「#34 上洛」から描く」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《每日新闻》报道称，“《黑暗聚会》第二季将于2027年播出，取材自原作《#34京都》第9卷。虽然我们成功获得了正文，但自动转录和事实核查并没有通过验证，因此我们决定不公开详细文本，以避免信息错误。”更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ダーク-dark",
+        "reading": "だーく",
+        "meaning": "暗暗",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ダーク-darkの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「『ダークギャザリング』第2期、2027年放送決定 原作9巻「#34 上洛」から描く」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「『ダークギャザリング』第2期、2027年放送決定 原作9巻「#34 上洛」から描く」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 55.316659036388884
+  },
+  {
+    "category": "体育",
+    "title": "本田圭佑 目標をW杯優勝からベスト8に下げる声に「レベルが低いな」 監督ライセンスに「いつからサッカーの指導者はそんな重いものになったんだ」（日テレNEWS NNN）",
+    "source": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBZndXRmFxakNuWktGUXJueU9TX0dSRjVNQ2UtRHVrWnUzR2d5VnpJNXZrTVNmRFB1cHJCUVZuWkdoVFBiMGpXbUFSUkV1SGZBOE1rb2hlQzRycXhMTG9uUE9ZNTB3YkFBa3BzR202UUNWSno0TjI0SlJwZTV3Tm8?oc=5",
+    "published": "2026-09-03 13:13",
+    "japanese_summary": "本田圭佑 目標をW杯優勝からベスト8に下げる声に「レベルが低いな」 監督ライセンスに「いつからサッカーの指導者はそんな重いものになったんだ」（日テレNEWS NNN） Yahoo!ニュース",
+    "source_url": "https://news.yahoo.co.jp/articles/fefdb50837f9fb217ae4208914396037ce81b789",
+    "chinese_title": "本田圭佑表示，他的目标从赢得世界杯降为前八名，他说：“水平很低。”关于他的经理执照，“从什么时候起，当一名足球教练变得如此困难？”（NTV NEWS NNN）",
+    "chinese_summary": "本田圭佑的目标从赢得世界杯降低到前八名，他说：“水平很低。”关于他的经理执照：“当一名足球教练什么时候变得这么困难了？”（NTV NEWS NNN）雅虎！消息",
+    "detailed_japanese": "Yahoo!ニュースは「本田圭佑 目標をW杯優勝からベスト8に下げる声に「レベルが低いな」 監督ライセンスに「いつからサッカーの指導者はそんな重いものになったんだ」（日テレNEWS NNN）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "雅虎！新闻报道称，“本田圭佑的目标从赢得世界杯降为前八名，他说：“水平很低。”关于他的经理执照，“从什么时候起，当一名足球教练变得如此困难？”（NTV NEWS NNN）。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ライセンス-license",
+        "reading": "らいせんす",
+        "meaning": "许可证-许可证",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライセンス-licenseの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「本田圭佑 目標をW杯優勝からベスト8に下げる声に「レベルが低いな」 監督ライセンスに「いつからサッカーの指導者はそん"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「本田圭佑 目標をW杯優勝からベスト8に下げる声に「レベルが低いな」 監督ライセンスに「いつからサッカーの指導者はそん"
+      },
+      {
+        "word": "レベル-level",
+        "reading": "れべる",
+        "meaning": "级别级别",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「レベル-levelの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「本田圭佑 目標をW杯優勝からベスト8に下げる声に「レベルが低いな」 監督ライセンスに「いつからサッカーの指導者はそん"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「本田圭佑 目標をW杯優勝からベスト8に下げる声に「レベルが低いな」 監督ライセンスに「いつからサッカーの指導者はそん"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ベスト-best",
+        "reading": "べすと",
+        "meaning": "最好的最好的",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ベスト-bestの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「本田圭佑 目標をW杯優勝からベスト8に下げる声に「レベルが低いな」 監督ライセンスに「いつからサッカーの指導者はそん"
+      }
+    ],
+    "grammar": [],
+    "score": 48.92499236972222
+  },
+  {
+    "category": "社会",
+    "title": "【速報】奄美地方に線状降水帯直前予測 3時間以内に災害もたらす大雨のおそれ（2026年9月3日掲載）｜日テレNEWS NNN",
+    "source": "日テレNEWS NNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UWHV6b3BxUGtlZU91TVlkUnBYcTJzWVNjeTl5bkt4RXhtZ0lseTN1dVh5REN6NWU0YjdfdUMtekE5aUNtU3dUY3J1cVlhYVZ2TnRaQ2gxQXBtdnZFaTdNWkRGOXQ2a2tPeW1TRG5qVUl2b1pGY25QWTZHc2U?oc=5",
+    "published": "2026-09-04 00:42",
+    "japanese_summary": "【速報】奄美地方に線状降水帯直前予測 3時間以内に災害もたらす大雨のおそれ（2026年9月3日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+    "source_url": "https://news.ntv.co.jp/category/weather/0dcfd6f3211f464aa57b56289c5943ba",
+    "chinese_title": "[突发新闻] 奄美地区线性雨带最后一刻预报；大雨可能在3小时内造成灾难（发布于2026年9月3日）| NTV 新闻 NNN",
+    "chinese_summary": "【突发新闻】奄美地区线性雨带最后一刻预报，3小时内大雨可能引发灾害（2026年9月3日发布）| NTV 新闻 NNN NTV 新闻 NNN",
+    "detailed_japanese": "日テレNEWS NNNは「【速報】奄美地方に線状降水帯直前予測 3時間以内に災害もたらす大雨のおそれ（2026年9月3日掲載）｜日テレNEWS NNN」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "NTV NEWS NNN 报道，“[突发新闻]立即预测奄美地区线性雨带；大雨可能在3小时内造成灾难（发布于2026年9月3日）| NTV 新闻 NNN''。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "日テレ",
+        "reading": "にってれ",
+        "meaning": "国家电视台",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「日テレの＋名词」构成修饰关系。",
+        "example": "日テレNEWS NNNは「【速報】奄美地方に線状降水帯直前予測 3時間以内に災害もたらす大雨のおそれ（2026年9月3日掲載）｜日テレNEW"
+      },
+      {
+        "word": "掲載",
+        "reading": "けいさい",
+        "meaning": "发布",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「掲載の＋名词」构成修饰关系。",
+        "example": "日テレNEWS NNNは「【速報】奄美地方に線状降水帯直前予測 3時間以内に災害もたらす大雨のおそれ（2026年9月3日掲載）｜日テレNEW"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 47.66665903638889
+  },
+  {
+    "category": "数码科技",
+    "title": "NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96QWhWZHVEV2RHN0VmNWgyeFNOMUpFT1A0aDZ4NHUwSURrTktXQWVaLXAtQXY2bm1kQmtDYWowRVU2VHVXSmwyQWRiTWF4VGM0aGFkX2xtRjVZcGQtZjF5dTcya25wQWVpZENaRQ?oc=5",
+    "published": "2026-09-04 01:13",
+    "japanese_summary": "NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOGN03BUG0T00C26A9000000/",
+    "chinese_title": "NVIDIA 同意收购美国初创公司 Hugging Face，运营 AI 开发平台",
+    "chinese_summary": "NVIDIA 同意收购美国初创公司 Hugging Face，运营 AI 开发平台 Nihon Keizai Shimbun",
+    "detailed_japanese": "日本経済新聞は「NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“NVIDIA 同意收购美国初创公司 Hugging Face，运营 AI 开发平台。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ハギングフェイス",
+        "reading": "",
+        "meaning": "拥抱脸",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ハギングフェイスの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 55.92499236972222
+  },
+  {
+    "category": "军事",
+    "title": "SHIFTとJADC、「令和8年版防衛白書」へ防衛事業適合事業者制度について寄稿",
+    "source": "news.nicovideo.jp",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hOWNxOTY5VGh6a21UcGhtVHZvZ0xRN2x1bjZMYTBuQkVJbXR3aFBZamliNUFYYVRSZThLTmQ0UWVib3RTQ3JJNGlIbTh2VlBDZ2tSaXZtWktqSmdmaGhUNmJ2ZElJT2xucDVSRld3UDY4bE1feHN2UFVaaw?oc=5",
+    "published": "2026-09-04 02:18",
+    "japanese_summary": "SHIFTとJADC、「令和8年版防衛白書」へ防衛事業適合事業者制度について寄稿 news.nicovideo.jp",
+    "source_url": "https://news.nicovideo.jp/watch/nw19736954?news_ref=watch_60_nw18971646",
+    "chinese_title": "SHIFT 和 JADC 共同编写了关于国防业务合规业务运营商系统的“2020 年国防白皮书”",
+    "chinese_summary": "SHIFT 和 JADC 共同编写了关于国防业务合规业务运营商系统的“2020 年国防白皮书” news.nicovideo.jp",
+    "detailed_japanese": "news.nicovideo.jpは「SHIFTとJADC、「令和8年版防衛白書」へ防衛事業適合事業者制度について寄稿」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "news.nicovideo.jp 报道称，“SHIFT 和 JADC 为关于国防业务合规业务运营商系统的 2020 年国防白皮书做出了贡献”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "防衛",
+        "reading": "ぼうえい",
+        "meaning": "防御",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「防衛の＋名词」构成修饰关系。",
+        "example": "news.nicovideo.jpは「SHIFTとJADC、「令和8年版防衛白書」へ防衛事業適合事業者制度について寄稿」と報じました。"
+      },
+      {
+        "word": "事業",
+        "reading": "じぎょう",
+        "meaning": "商业",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「事業の＋名词」构成修饰关系。",
+        "example": "news.nicovideo.jpは「SHIFTとJADC、「令和8年版防衛白書」へ防衛事業適合事業者制度について寄稿」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "news.nicovideo.jpは「SHIFTとJADC、「令和8年版防衛白書」へ防衛事業適合事業者制度について寄稿」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "について",
+        "label": "主题",
+        "explanation": "表示“关于……”。比「は」更明确地限定讨论对象。",
+        "example": "政府は今後の対応について説明しました。"
+      }
+    ],
+    "score": 32.46665903638889
+  }
+]
