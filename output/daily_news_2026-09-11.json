@@ -1,0 +1,529 @@
+[
+  {
+    "category": "新闻",
+    "title": "ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMWJJS1FYLVVIQk1BMGllYm9MRWI3eFlwVlBiUzZ6VTRrQ3lpa0pLYnBmNDBwTG1aOTc2dlR2R0ttWFY0Y1VINkdlZVI1Wm9xOFdDX3hsVThVYkJPOVhybGhnbnFFNlM1VzdaTw?oc=5",
+    "published": "2026-09-11 00:00",
+    "japanese_summary": "ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUC09BBC0Z00C26A9000000/",
+    "chinese_title": "Fanuc、Google 和 AI 焊接机器人读取图纸并自动工作",
+    "chinese_summary": "Fanuc、Google 和 AI 焊接机器人自动读取图纸并工作 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“发那科、谷歌和人工智能焊接机器人自动读取图纸并工作。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ロボット-robot",
+        "reading": "ろぼっと",
+        "meaning": "机器人机器人",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロボット-robotの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業」と報じました。"
+      },
+      {
+        "word": "自動",
+        "reading": "じどう",
+        "meaning": "自动的",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「自動の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 62.42175866805556
+  },
+  {
+    "category": "政治",
+    "title": "ゲアン省は、インターネット上での政治理論の研究を強化し、第14回党大会決議について学ぶためのオンラインコンテストを開催している。",
+    "source": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMGxLZFR5N3pQMVYwU09pcUVvUERIdnNxR1oySjItZ1c1d0k3YmloQTZ5TVlpa3hqeVpGTkRXRDZwS0VqaXNWZ0dhQmFXUEhpNVotYjBrbVdjNU5CcjRCMXBubWtIWFBiM2ZCTGFVQ0FBS1Fqd0RjbUJpZ3FBdmNUV2pqSWs0ejU2ZGlrY180d1hMX1lJS1JqZDJqOEhucjhVOGlfdGlKRVZfdFRBYkstenFuc2IxbVU4bWgtOHBMZi1ob3phc3psMWRWaC14UFlWTHh3RFdvOTFnUXR6X3h3?oc=5",
+    "published": "2026-09-11 00:46",
+    "japanese_summary": "ゲアン省は、インターネット上での政治理論の研究を強化し、第14回党大会決議について学ぶためのオンラインコンテストを開催している。 Vietnam.vn",
+    "source_url": "https://www.vietnam.vn/ja/nghe-an-day-manh-hoc-tap-ly-luan-chinh-tri-tren-internet-to-chuc-thi-truc-tuyen-tim-hieu-nghi-quyet-dai-hoi-xiv-cua-dang",
+    "chinese_title": "义安省举办网络竞赛，加强网络政治理论学习，学习党的十四大决议。",
+    "chinese_summary": "义安省举办网络竞赛，加强网络政治理论学习，学习党的十四大决议。越南.vn",
+    "detailed_japanese": "Vietnam.vnは「ゲアン省は、インターネット上での政治理論の研究を強化し、第14回党大会決議について学ぶためのオンラインコンテストを開催している。」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "越南网报道称，“义安省正在举办网络竞赛，以加强网络政治理论学习，学习党的十四大决议”。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "インターネット-internet",
+        "reading": "いんたーねっと",
+        "meaning": "互联网-互联网",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「インターネット-internetの＋名词」构成修饰关系。",
+        "example": "Vietnam.vnは「ゲアン省は、インターネット上での政治理論の研究を強化し、第14回党大会決議について学ぶためのオンラインコンテストを開"
+      },
+      {
+        "word": "コンテスト-contest",
+        "reading": "こんてすと",
+        "meaning": "竞赛-竞赛",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「コンテスト-contestの＋名词」构成修饰关系。",
+        "example": "Vietnam.vnは「ゲアン省は、インターネット上での政治理論の研究を強化し、第14回党大会決議について学ぶためのオンラインコンテストを開"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "Vietnam.vnは「ゲアン省は、インターネット上での政治理論の研究を強化し、第14回党大会決議について学ぶためのオンラインコンテストを開"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "について",
+        "label": "主题",
+        "explanation": "表示“关于……”。比「は」更明确地限定讨论对象。",
+        "example": "政府は今後の対応について説明しました。"
+      }
+    ],
+    "score": 31.80509200138889
+  },
+  {
+    "category": "经济",
+    "title": "CEPIへの拠出は成長投資",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41QUU4UEV0cVllZ2QyTmc3dzlOc1kyUTljV2tjVWg1M1dLQUFxYWdfVjhpMmVnZEZMLUNkZmY0YnVMUzdINTNQay1Ob3NGdnU3TFlPVVFxSUhMak02N3R4X1Bhb29SWm45dlBXMQ?oc=5",
+    "published": "2026-09-11 02:00",
+    "japanese_summary": "CEPIへの拠出は成長投資 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUF082HZ0Y6A900C2000000/",
+    "chinese_title": "为 CEPI 做出贡献是一项增长投资",
+    "chinese_summary": "对 CEPI 的贡献是增长投资 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「CEPIへの拠出は成長投資」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“对CEPI的贡献是增长投资”。虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「CEPIへの拠出は成長投資」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 49.42175866805556
+  },
+  {
+    "category": "娱乐",
+    "title": "［超RIZIN.5］平本蓮「判定でごちゃごちゃ言う人はUFC見ましょう（笑）」大みそかに戦いたい相手は…［試合後インタビュー全文］",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZUNQVjk4VWI2U3FWMmJGOW9VQjZnRk91QUhFMWxRNVZLcHZUbnZSTjROa0N4QUtnLVdiZlpmYXhCb2V3Rk0tR296Sm9jMlRfODFnbjAtQnN4Y0RQaXNTYmFJZXNDT1pU?oc=5",
+    "published": "2026-09-11 00:01",
+    "japanese_summary": "［超RIZIN.5］平本蓮「判定でごちゃごちゃ言う人はUFC見ましょう（笑）」大みそかに戦いたい相手は…［試合後インタビュー全文］ 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260911/orc/00m/200/001000c",
+    "chinese_title": "[Super RIZIN.5] 平本莲：“如果你对这个决定感到困惑，那就去看UFC（笑）”除夕夜你想和谁对战呢？ 【完整的赛后采访】",
+    "chinese_summary": "[Super RIZIN.5] 平本莲：“如果你对这个决定感到困惑，那就去看UFC（笑）”除夕夜你想和谁对战呢？ [完整的赛后采访]每日新闻",
+    "detailed_japanese": "毎日新聞は「［超RIZIN.5］平本蓮「判定でごちゃごちゃ言う人はUFC見ましょう（笑）」大みそかに戦いたい相手は…［試合後インタビュー全文］」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《每日新闻》报道称，“[Super RIZIN.5]平本莲：“如果你对这个决定感到困惑，那就去看UFC（笑）”我想在除夕夜对阵的对手是……[完整的赛后采访]。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "インタビュー-interview",
+        "reading": "いんたびゅー",
+        "meaning": "面试-面试",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「インタビュー-interviewの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「［超RIZIN.5］平本蓮「判定でごちゃごちゃ言う人はUFC見ましょう（笑）」大みそかに戦いたい相手は…［試合後インタビュー全文"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "大晦日",
+        "reading": "おおみそか",
+        "meaning": "除夕",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「大晦日の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「［超RIZIN.5］平本蓮「判定でごちゃごちゃ言う人はUFC見ましょう（笑）」大みそかに戦いたい相手は…［試合後インタビュー全文"
+      }
+    ],
+    "grammar": [],
+    "score": 46.430092001388886
+  },
+  {
+    "category": "体育",
+    "title": "サッカー日本代表の奮闘支えた独自AI 疲労・睡眠分析で連戦乗り切る",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93TFh1eF8xVHlvZDZYMk5GelBEYmh5QUE4ZUJDa184Nk1FcTBRd0J5U2s2LTdOMzNtVXFfMG1PeUJVYm1QQnNFblhieHpWSndrMkJEZ3JMMzRlRU42d2Jmc2Jaa2hraGNwcnFEVA?oc=5",
+    "published": "2026-09-10 02:00",
+    "japanese_summary": "サッカー日本代表の奮闘支えた独自AI 疲労・睡眠分析で連戦乗り切る 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQODH061MI0W6A900C2000000/",
+    "chinese_title": "独特的人工智能通过疲劳和睡眠分析支持日本国家足球队在连续比赛中存活下来",
+    "chinese_summary": "支持日本国家足球队奋力拼搏的独特人工智能：通过疲劳和睡眠分析连续比赛生存 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「サッカー日本代表の奮闘支えた独自AI 疲労・睡眠分析で連戦乗り切る」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“日本国家足球队将凭借其独特的人工智能疲劳和睡眠分析支持他们的努力，连续比赛。”虽然我们成功获得了正文，但经过事实检查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「サッカー日本代表の奮闘支えた独自AI 疲労・睡眠分析で連戦乗り切る」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "乗り切る",
+        "reading": "のりきる",
+        "meaning": "存活",
+        "pos": "动词",
+        "usage": "原形是「乗り切る」，文中形式是「乗り切る」。活用类型：五段-ラ行。",
+        "example": "日本経済新聞は「サッカー日本代表の奮闘支えた独自AI 疲労・睡眠分析で連戦乗り切る」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 51.42175866805556
+  },
+  {
+    "category": "社会",
+    "title": "岩手県で最大震度2の地震 岩手県・遠野市",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZmhPcWhQOXVLUFZhcTBQbFdSYTVXU1ZRc0d2Vy0tM3RqdlJwdVJmLWIxSENSd2Z5Z2xHUGlPRTdXSkhlMFhHcmhJTllkLXBTYnM1aXVNNUZHX3BSak5mRjd2VFo?oc=5",
+    "published": "2026-09-11 00:24",
+    "japanese_summary": "岩手県で最大震度2の地震 岩手県・遠野市 TBS NEWS DIG",
+    "source_url": "https://newsdig.tbs.co.jp/articles/-/2937312?display=1",
+    "chinese_title": "岩手县发生最大烈度2级地震 岩手县远野市",
+    "chinese_summary": "岩手县发生最大烈度2级地震 岩手县远野市 TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「岩手県で最大震度2の地震 岩手県・遠野市」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "TBS NEWS DIG报道称，“岩手县远野市发生最大烈度2级地震”。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "TBS NEWS DIGは「岩手県で最大震度2の地震 岩手県・遠野市」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 50.621758668055556
+  },
+  {
+    "category": "数码科技",
+    "title": "ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMWJJS1FYLVVIQk1BMGllYm9MRWI3eFlwVlBiUzZ6VTRrQ3lpa0pLYnBmNDBwTG1aOTc2dlR2R0ttWFY0Y1VINkdlZVI1Wm9xOFdDX3hsVThVYkJPOVhybGhnbnFFNlM1VzdaTw?oc=5",
+    "published": "2026-09-11 00:00",
+    "japanese_summary": "ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUC09BBC0Z00C26A9000000/",
+    "chinese_title": "Fanuc、Google 和 AI 焊接机器人读取图纸并自动工作",
+    "chinese_summary": "Fanuc、Google 和 AI 焊接机器人自动读取图纸并工作 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“发那科、谷歌和人工智能焊接机器人自动读取图纸并工作。”虽然我们成功获得了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ロボット-robot",
+        "reading": "ろぼっと",
+        "meaning": "机器人机器人",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロボット-robotの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業」と報じました。"
+      },
+      {
+        "word": "自動",
+        "reading": "じどう",
+        "meaning": "自动的",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「自動の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「ファナック、GoogleとAI溶接ロボット 自ら図面を読んで自動で作業」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 62.42175866805556
+  },
+  {
+    "category": "军事",
+    "title": "フィリピン当局 南シナ海で中国が人工島から“フレア発射”と非難 「中国軍の不法占拠は国際法違反」と警告",
+    "source": "ｄメニューニュース",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fSTFiclhqNGIyZ1RIdUd5X2Q1MkctMTZ3QWo0TnpZcGsybGxKd2FGOHNnVndqMTZEUDgzM0lCRE9uNGM5b1VRRzdnc1VTb240eEp3YUNUZEk3SGVYZnp3MnUwSTgxNXM4bzVxWXRIV0cyVUHSAXNBVV95cUxNX0kxYnJYajRiMmdUSHVHeV9kNTJHLTE2d0FqNE56WXBrMmxsSndhRjhzZ1Z3ajE2RFA4MzNJQkRPbjRjOW9VUUc3Z3NVU29uNHhKd2FDVGRJN0hlWGZ6dzJ1MEk4MTVzOG81cVl0SFdHMlVB?oc=5",
+    "published": "2026-09-10 20:56",
+    "japanese_summary": "フィリピン当局 南シナ海で中国が人工島から“フレア発射”と非難 「中国軍の不法占拠は国際法違反」と警告 ｄメニューニュース",
+    "source_url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/world/tbs-2937226",
+    "chinese_title": "菲律宾当局指责中国从南海人工岛“发射照明弹”，警告称“中国军队的非法占领违反了国际法”",
+    "chinese_summary": "菲律宾当局指责中国从南海人工岛发射照明弹，警告“中国军队的非法占领违反了国际法” dMenu News",
+    "detailed_japanese": "ｄメニューニュースは「フィリピン当局 南シナ海で中国が人工島から“フレア発射”と非難 「中国軍の不法占拠は国際法違反」と警告」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "dMenu News报道称，“菲律宾当局指责中国从南海人工岛发射照明弹，并警告称“中国军队的非法占领违反了国际法。”虽然我们成功获取了正文，但经过事实核查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免出现错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "フィリピン-Philippines",
+        "reading": "ふぃりぴん",
+        "meaning": "菲律宾-菲律宾",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「フィリピン-Philippinesの＋名词」构成修饰关系。",
+        "example": "ｄメニューニュースは「フィリピン当局 南シナ海で中国が人工島から“フレア発射”と非難 「中国軍の不法占拠は国際法違反」と警告」と報じました。"
+      },
+      {
+        "word": "メニュー-menu",
+        "reading": "めにゅー",
+        "meaning": "菜单-菜单",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「メニュー-menuの＋名词」构成修饰关系。",
+        "example": "ｄメニューニュースは「フィリピン当局 南シナ海で中国が人工島から“フレア発射”と非難 「中国軍の不法占拠は国際法違反」と警告」と報じました。"
+      },
+      {
+        "word": "フレア-flare",
+        "reading": "ふれあ",
+        "meaning": "耀斑-耀斑",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「フレア-flareの＋名词」构成修饰关系。",
+        "example": "ｄメニューニュースは「フィリピン当局 南シナ海で中国が人工島から“フレア発射”と非難 「中国軍の不法占拠は国際法違反」と警告」と報じました。"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "ｄメニューニュースは「フィリピン当局 南シナ海で中国が人工島から“フレア発射”と非難 「中国軍の不法占拠は国際法違反」と警告」と報じました。"
+      },
+      {
+        "word": "中国",
+        "reading": "ちゅうごく",
+        "meaning": "中国",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「中国の＋名词」构成修饰关系。",
+        "example": "ｄメニューニュースは「フィリピン当局 南シナ海で中国が人工島から“フレア発射”と非難 「中国軍の不法占拠は国際法違反」と警告」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 36.88842533472222
+  }
+]
