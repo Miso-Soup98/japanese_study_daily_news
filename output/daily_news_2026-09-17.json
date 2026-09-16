@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQOFdRTnZ1NnE2anZ0T0RkZ2g0eThpZGRjb3V2elFNYkZheGU4MkJpak5NOEt4aVFPdHZpbEd6NXE0eHhHLXlUV1RFNnZURHFNZjZRdml4T0NLLW4zbUxrdjJLTzJZOVJB?oc=5",
+    "published": "2026-09-17 00:16",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://www.fnn.jp/ud/earthquake/6aaab1607079c87e39000000",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 57.284654035138885
+  },
+  {
+    "category": "政治",
+    "title": "記者の目：武器輸出の「5類型」撤廃 不安視する国民 説明尽くせ＝竹内望（政治部）",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IenZpQUxnM3JCeTNlcGk4SjEybmVPNVZsOXBGbDNVVExOeFRxd1lsNnBQa0xONGNSc2dMdHRER05leFI5cE5WbEtHcHJkRFBPRElna25OckZuckZCZ3A2SFVELTE4UGlm?oc=5",
+    "published": "2026-09-17 02:02",
+    "japanese_summary": "記者の目：武器輸出の「5類型」撤廃 不安視する国民 説明尽くせ＝竹内望（政治部） 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260917/ddm/005/070/095000c",
+    "chinese_title": "记者眼：废除“5种”武器出口：向忧心忡忡的民众解释——竹内希（政治部）",
+    "chinese_summary": "记者之眼：民众关心废除“5种”武器出口请解释一切=竹内希（政治部）每日新闻",
+    "detailed_japanese": "毎日新聞は「記者の目：武器輸出の「5類型」撤廃 不安視する国民 説明尽くせ＝竹内望（政治部）」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《每日新闻》报道称，“记者之眼：废除‘5种’武器出口：公民关心，请解释一下——竹内希（政治部）。”虽然我们成功获得了正文，但经过事实核查的自动转录并没有通过验证，因此我们决定不发布详细文本，以避免信息错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "尽くす",
+        "reading": "つくせ",
+        "meaning": "做所有事情",
+        "pos": "动词",
+        "usage": "原形是「尽くす」，文中形式是「尽くせ」。活用类型：五段-サ行。",
+        "example": "毎日新聞は「記者の目：武器輸出の「5類型」撤廃 不安視する国民 説明尽くせ＝竹内望（政治部）」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「記者の目：武器輸出の「5類型」撤廃 不安視する国民 説明尽くせ＝竹内望（政治部）」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 47.167987368472225
+  },
+  {
+    "category": "经济",
+    "title": "「クラファンは穴埋めではない」 文化の育成、市場経済と一線",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1seXQ4V295UUFLd1l3VF9FUG40cEpGcnVfYktFVzQxVVYwQVlHSjdVdDZKdW02TGJqaUZtTjFYcHc1SE1oVUhVb0NBMllRQUVhTFUwLUo1Mm5ZYTZYRlJ0NWlJWUVkYTV0TzVBMQ?oc=5",
+    "published": "2026-09-17 02:00",
+    "japanese_summary": "「クラファンは穴埋めではない」 文化の育成、市場経済と一線 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOCD220OL0S6A820C2000000/",
+    "chinese_title": "“克拉凡不仅仅是填充物。”培育文化并使其与市场经济相结合",
+    "chinese_summary": "“克拉凡不是填空” 培育文化符合市场经济 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「「クラファンは穴埋めではない」 文化の育成、市場経済と一線」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“克拉芬并不是要填补空白；而是要填补空白。”虽然我们成功获得了正文，但自动抄写和事实核查并没有通过验证，因此我们决定不发布详细文本，以免出现错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ファン-fan（熱狂者）",
+        "reading": "ふぁん",
+        "meaning": "粉丝（爱好者）",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ファン-fan（熱狂者）の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「「クラファンは穴埋めではない」 文化の育成、市場経済と一線」と報じました。"
+      },
+      {
+        "word": "クラ-clarinet",
+        "reading": "くら",
+        "meaning": "单簧管",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「クラ-clarinetの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「「クラファンは穴埋めではない」 文化の育成、市場経済と一線」と報じました。"
+      },
+      {
+        "word": "経済",
+        "reading": "けいざい",
+        "meaning": "经济",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「経済の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「「クラファンは穴埋めではない」 文化の育成、市場経済と一線」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.15132070180556
+  },
+  {
+    "category": "娱乐",
+    "title": "オリコンニュース：Travis Japan、過酷な“シン運動会”開幕 巨大バトン＆足つぼで大激闘",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UX3JaeFRMbUNYdjhZMXJyWFk5RGtEWjVvUnpBQmhJNF9pbkZpRG1Ob0syMjVVT0N0ckdTUWc4TF9DWFhGVWlTWmRLV3Y5RFF5OTc1THNCNnIyMnc2d05PRHo4VWFDTW5I?oc=5",
+    "published": "2026-09-17 02:25",
+    "japanese_summary": "オリコンニュース：Travis Japan、過酷な“シン運動会”開幕 巨大バトン＆足つぼで大激闘 毎日新聞",
+    "source_url": "https://mainichi.jp/articles/20260917/orc/00m/200/002000c",
+    "chinese_title": "Oricon新闻：Travis Japan以巨型警棍和脚盆的激烈战斗开始了艰苦的“Shin运动日”",
+    "chinese_summary": "Oricon新闻：特拉维斯日本以巨型警棍和脚盆的激烈战斗开始了艰苦的“新运动会”每日新闻",
+    "detailed_japanese": "毎日新聞は「オリコンニュース：Travis Japan、過酷な“シン運動会”開幕 巨大バトン＆足つぼで大激闘」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《每日新闻》报道称，“Oricon新闻：特拉维斯日本以巨型警棍和脚盆的激烈战斗开始了艰苦的‘新运动会’。”虽然我们成功获得了正文，但自动转录和事实检查并没有通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "バトン-baton",
+        "reading": "ばとん",
+        "meaning": "接力棒",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「バトン-batonの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：Travis Japan、過酷な“シン運動会”開幕 巨大バトン＆足つぼで大激闘」と報じました。"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：Travis Japan、過酷な“シン運動会”開幕 巨大バトン＆足つぼで大激闘」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 47.35965403513889
+  },
+  {
+    "category": "体育",
+    "title": "（3／3）久保建英の助言「5大リーグでやれるでしょ」W杯日本代表DFは中東＆破格オファーを断った「損得よりも美学を」代理人もホレた“瀬古歩夢の男気” - サッカー日本代表",
+    "source": "Number Web",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qY0FQS09GZkh0dHV3UjVNdUNKWktEdkZIeXhlakFFVzl6eHllcDdwNHRjS0VKWmtVdGljXzFWc21hTk9mSTcxWldrVWRFZkNjNGtMazZpd1A1LUFWOTFZ?oc=5",
+    "published": "2026-09-17 00:50",
+    "japanese_summary": "（3／3）久保建英の助言「5大リーグでやれるでしょ」W杯日本代表DFは中東＆破格オファーを断った「損得よりも美学を」代理人もホレた“瀬古歩夢の男気” - サッカー日本代表 Number Web",
+    "source_url": "https://number.bunshun.jp/articles/-/871540?page=3",
+    "chinese_title": "(3/3) 久保建房的建议：“你可以在五大联盟做到这一点，对吗？”日本世界杯后卫拒绝了来自中东的报价，而且是一个无与伦比的报价。 “美观比盈亏更重要。”他的经纪人对“濑古步的男子气概”印象深刻 - 日本国家足球队",
+    "chinese_summary": "(3/3) 久保建房的建议：“你可以在五大联盟做到这一点，对吗？”世界杯日本国家队DF拒绝中东报价史无前例“审美比盈亏更重要”连经纪人都被“濑古步的男子气概”折服 - 日本国足国家队号码网",
+    "detailed_japanese": "Number Webは「（3／3）久保建英の助言「5大リーグでやれるでしょ」W杯日本代表DFは中東＆破格オファーを断った「損得よりも美学を」代理人もホレた“瀬古歩夢の男気” - サッカー日本代表」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "Number Web 报道称，“(3/3) 久保建英的建议：“你可以在五个主要联赛中取得成功，对吗？”世界杯日本国家队后卫拒绝了来自中东的报价，“审美比盈亏更重要”。他的经纪人对日本国家足球队“濑古步的男子气概”印象深刻。”虽然我们成功获得了正文，但带有事实检查的自动转录并没有通过验证，因此我们决定不公布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "Number Webは「（3／3）久保建英の助言「5大リーグでやれるでしょ」W杯日本代表DFは中東＆破格オファーを断った「損得よりも美学を」"
+      },
+      {
+        "word": "リーグ-league",
+        "reading": "りーぐ",
+        "meaning": "联赛-联赛",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リーグ-leagueの＋名词」构成修饰关系。",
+        "example": "Number Webは「（3／3）久保建英の助言「5大リーグでやれるでしょ」W杯日本代表DFは中東＆破格オファーを断った「損得よりも美学を」"
+      },
+      {
+        "word": "オファー-offer",
+        "reading": "おふぁー",
+        "meaning": "报价-报价",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「オファー-offerの＋名词」构成修饰关系。",
+        "example": "Number Webは「（3／3）久保建英の助言「5大リーグでやれるでしょ」W杯日本代表DFは中東＆破格オファーを断った「損得よりも美学を」"
+      },
+      {
+        "word": "代表",
+        "reading": "だいひょう",
+        "meaning": "代表",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「代表の＋名词」构成修饰关系。",
+        "example": "Number Webは「（3／3）久保建英の助言「5大リーグでやれるでしょ」W杯日本代表DFは中東＆破格オファーを断った「損得よりも美学を」"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 45.567987368472224
+  },
+  {
+    "category": "社会",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQOFdRTnZ1NnE2anZ0T0RkZ2g0eThpZGRjb3V2elFNYkZheGU4MkJpak5NOEt4aVFPdHZpbEd6NXE0eHhHLXlUV1RFNnZURHFNZjZRdml4T0NLLW4zbUxrdjJLTzJZOVJB?oc=5",
+    "published": "2026-09-17 00:16",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://www.fnn.jp/ud/earthquake/6aaab1607079c87e39000000",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくり",
+        "meaning": "送行",
+        "pos": "动词",
+        "usage": "原形是「見送る」，文中形式是「見送り」。活用类型：五段-ラ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      }
+    ],
+    "grammar": [],
+    "score": 57.284654035138885
+  },
+  {
+    "category": "数码科技",
+    "title": "レゾナックや日東電工、700億円ファンド出資 ハードでAIの課題解決",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4V3ZWRFFqVUJsdGtNRjMybk5hZ0JXX3RYWUZ1Wi1CWEVvNHhUaHl2MGw0dEstcEZXakh3QktWbUktYXNzTVZWZ1JBS1otOTNxMzkzVkRMcm1tN0w1RUo0dTZmVFhnc1MxQnVUTQ?oc=5",
+    "published": "2026-09-17 02:00",
+    "japanese_summary": "レゾナックや日東電工、700億円ファンド出資 ハードでAIの課題解決 日本経済新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOCD166SX0W6A910C2000000/",
+    "chinese_title": "Resonac 和 Nitto Denko 投资 700 亿日元基金，用硬件解决 AI 问题",
+    "chinese_summary": "Resonac 和 Nitto Denko 投资 700 亿日元基金，用硬件解决 AI 问题 Nihon Keizai Shimbun",
+    "detailed_japanese": "日本経済新聞は「レゾナックや日東電工、700億円ファンド出資 ハードでAIの課題解決」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "《日本经济新闻》报道称，“Resonac 和 Nitto Denko 投资 700 亿日元基金，用硬件解决人工智能问题。”虽然我们成功获得了正文，但经过事实检查的自动转录并未通过验证，因此我们决定不发布详细文本，以避免错误信息。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "ファンド-fund",
+        "reading": "ふぁんど",
+        "meaning": "基金-基金",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ファンド-fundの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「レゾナックや日東電工、700億円ファンド出資 ハードでAIの課題解決」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「レゾナックや日東電工、700億円ファンド出資 ハードでAIの課題解決」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "ハード-hard",
+        "reading": "はーど",
+        "meaning": "硬硬",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ハード-hardの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「レゾナックや日東電工、700億円ファンド出資 ハードでAIの課題解決」と報じました。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.15132070180556
+  },
+  {
+    "category": "军事",
+    "title": "ＡＢＥＪＡ、防衛装備庁陸上装備研究所と「視覚言語行動モデルの検証及び運用基盤検討役務」で契約 速報",
+    "source": "kabushiki.jp",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxYVZuV3dpMFFKUkh2YzVZalJXSTBBVF9rVV9nS0o0N1V1X015cHAyQmFVamRpdXg4NHVlTC1WQTVraHBkNS1z?oc=5",
+    "published": "2026-09-16 16:14",
+    "japanese_summary": "ＡＢＥＪＡ、防衛装備庁陸上装備研究所と「視覚言語行動モデルの検証及び運用基盤検討役務」で契約 速報 kabushiki.jp",
+    "source_url": "https://kabushiki.jp/news/768083",
+    "chinese_title": "ABEJA与国防装备局陆地装备研究所签订“视觉语言行为模型验证和操作基础设施审查服务”合同",
+    "chinese_summary": "ABEJA 与国防装备局陆地装备研究所签署“视觉语言行为模型验证和操作基础设施研究服务”合同 突发新闻 kabushiki.jp",
+    "detailed_japanese": "kabushiki.jpは「ＡＢＥＪＡ、防衛装備庁陸上装備研究所と「視覚言語行動モデルの検証及び運用基盤検討役務」で契約 速報」と報じました。本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。詳しい内容は出典リンクで確認できます。",
+    "detailed_chinese": "Kabushiki.jp 报道称，“ABEJA 与国防装备局地面设备研究中心签署了一份合同，提供‘视觉语言行为模型验证和操作基础设施研究服务’”。虽然我们成功获得了正文，但经过事实核查的自动抄录并未通过验证，因此我们决定不发布详细文本，以免信息出现错误。更多详细信息可以在源链接中找到。",
+    "vocabulary": [
+      {
+        "word": "モデル-model",
+        "reading": "もでる",
+        "meaning": "模型-模型",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「モデル-modelの＋名词」构成修饰关系。",
+        "example": "kabushiki.jpは「ＡＢＥＪＡ、防衛装備庁陸上装備研究所と「視覚言語行動モデルの検証及び運用基盤検討役務」で契約 速報」と報じました"
+      },
+      {
+        "word": "装備",
+        "reading": "そうび",
+        "meaning": "设备",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「装備の＋名词」构成修饰关系。",
+        "example": "kabushiki.jpは「ＡＢＥＪＡ、防衛装備庁陸上装備研究所と「視覚言語行動モデルの検証及び運用基盤検討役務」で契約 速報」と報じました"
+      },
+      {
+        "word": "検証",
+        "reading": "けんしょう",
+        "meaning": "确认",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「検証の＋名词」构成修饰关系。",
+        "example": "kabushiki.jpは「ＡＢＥＪＡ、防衛装備庁陸上装備研究所と「視覚言語行動モデルの検証及び運用基盤検討役務」で契約 速報」と報じました"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      },
+      {
+        "word": "避ける",
+        "reading": "さけ",
+        "meaning": "避免",
+        "pos": "动词",
+        "usage": "原形是「避ける」，文中形式是「避け」。活用类型：下一段-カ行。",
+        "example": "本文の取得には成功しましたが、事実確認を伴う自動改写が検証を通過しなかったため、誤情報を避けて詳細文の掲載を見送りました。"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "熟悉",
+        "pos": "形容词",
+        "usage": "原形是「詳しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "詳しい内容は出典リンクで確認できます。"
+      }
+    ],
+    "grammar": [],
+    "score": 36.26798736847222
+  }
+]
