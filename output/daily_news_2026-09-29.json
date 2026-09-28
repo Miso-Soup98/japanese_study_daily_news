@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaVZBYzhsREUzNnAzYjQ4QWc3aFF6UWlHWHFyemF3eVFteW1RZVE1VkhPNjVwdkgwZHJCaXdEWGlTcHhSSk1IYUlTLVl3YzJnRTRiOV82V0M5UUN5a1RFVzR3dUxlWHZ0TE5QcQ?oc=5",
+    "published": "2026-09-29 05:00",
+    "japanese_summary": "ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaVZBYzhsREUzNnAzYjQ4QWc3aFF6UWlHWHFyemF3eVFteW1RZVE1VkhPNjVwdkgwZHJCaXdEWGlTcHhSSk1IYUlTLVl3YzJnRTRiOV82V0M5UUN5a1RFVzR3dUxlWHZ0TE5QcQ?oc=5",
+    "chinese_title": "AI时代机器人巨头转向美国；发那科总裁对零件供应网络的担忧",
+    "chinese_summary": "人工智能时代机器人巨头转向美国——发那科社长担心零部件供应网络 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“人工智能时代，主要机器人公司转移到美国； FANUC 总裁担心零件供应网络。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ロボット-robot",
+        "reading": "ろぼっと",
+        "meaning": "机器人机器人",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロボット-robotの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網」と報じました。"
+      },
+      {
+        "word": "シフト-shift",
+        "reading": "しふと",
+        "meaning": "换班换班",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「シフト-shiftの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 63.45422590125
+  },
+  {
+    "category": "政治",
+    "title": "市場が動かす政治 後退する株主重視(中)アクティビスト、善か悪か 海外並み規制、政権で浮上",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtS3h2M0NSMVlNLWdvcHY0R2xQWkw4Wi1wZGIyRE9CUGxmTTFqMzZFOTRRYXZXbENGOWZrSDNDNGVnR0RMV3Rfd0VTaVpDMU14VGRQOVpMdTNBUVpUb0ZNdmZNVnFMU2x6TkZQRw?oc=5",
+    "published": "2026-09-29 02:00",
+    "japanese_summary": "市場が動かす政治 後退する株主重視(中)アクティビスト、善か悪か 海外並み規制、政権で浮上 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtS3h2M0NSMVlNLWdvcHY0R2xQWkw4Wi1wZGIyRE9CUGxmTTFqMzZFOTRRYXZXbENGOWZrSDNDNGVnR0RMV3Rfd0VTaVpDMU14VGRQOVpMdTNBUVpUb0ZNdmZNVnFMU2x6TkZQRw?oc=5",
+    "chinese_title": "市场驱动的政治：以股东为中心的维权人士正在退却，是好是坏？政府中出现了与其他国家类似的法规",
+    "chinese_summary": "市场驱动的政治：以股东为中心的（中间）积极分子正在退却，是好是坏？政府《日本经济新闻》制定了与其他国家相同的法规",
+    "detailed_japanese": "日本経済新聞は「市場が動かす政治 後退する株主重視(中)アクティビスト、善か悪か 海外並み規制、政権で浮上」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《日本经济新闻》报道称，“市场驱动的政治：以股东为中心的（中间）积极分子的退却，是好还是坏？政府中出现的海外法规。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "アクティビスト-activist",
+        "reading": "あくてぃびすと",
+        "meaning": "活动家-活动家",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「アクティビスト-activistの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「市場が動かす政治 後退する株主重視(中)アクティビスト、善か悪か 海外並み規制、政権で浮上」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「市場が動かす政治 後退する株主重視(中)アクティビスト、善か悪か 海外並み規制、政権で浮上」と報じました。"
+      },
+      {
+        "word": "動かす",
+        "reading": "うごかす",
+        "meaning": "移动",
+        "pos": "动词",
+        "usage": "原形是「動かす」，文中形式是「動かす」。活用类型：五段-サ行。",
+        "example": "日本経済新聞は「市場が動かす政治 後退する株主重視(中)アクティビスト、善か悪か 海外並み規制、政権で浮上」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 47.95422590125
+  },
+  {
+    "category": "经济",
+    "title": "市場情報",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tNkk3d0JJNWpYd3JBOVRybklQZXZhaVBzVVp5R3VOeUY3dWdGT25abGV1ZUFVMHJ2Qk9lR2NJa3ZsazM5M3lLTE5zZk1TZ1ROdVBMeHlyNFdvb0x3YnVBRTdscjQ4aEs5ZkNWMg?oc=5",
+    "published": "2026-09-29 02:00",
+    "japanese_summary": "日本経済新聞によると、市場情報。社会への影響や今後の動きが注目されています。",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tNkk3d0JJNWpYd3JBOVRybklQZXZhaVBzVVp5R3VOeUY3dWdGT25abGV1ZUFVMHJ2Qk9lR2NJa3ZsazM5M3lLTE5zZk1TZ1ROdVBMeHlyNFdvb0x3YnVBRTdscjQ4aEs5ZkNWMg?oc=5",
+    "chinese_title": "市场信息",
+    "chinese_summary": "据日本经济新闻报道，市场信息。对社会的影响和未来的趋势备受关注。",
+    "detailed_japanese": "日本経済新聞は「市場情報」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻将此报道为“市场信息”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「市場情報」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "経済",
+        "reading": "けいざい",
+        "meaning": "经济",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「経済の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「市場情報」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 54.95422590125
+  },
+  {
+    "category": "娱乐",
+    "title": "オリコンニュース：KEY TO LIT岩崎大昇、CDデビュー決定の24歳は「記念すべきことが多かった」 黒柳徹子「若いね～！」",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rM0dvTUNabFJ4RTBmUUNKOW9RS09rTjlSN0xadzYzVTNDN3JLM0hhZThVc3JBTVJfS3pSM2VkZ3RTLVBhWC1hNDROaWVWS3FxRFNOYVVULXRmY1hUaFQyS194ejkwdVlw?oc=5",
+    "published": "2026-09-29 04:00",
+    "japanese_summary": "オリコンニュース：KEY TO LIT岩崎大昇、CDデビュー決定の24歳は「記念すべきことが多かった」 黒柳徹子「若いね～！」 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rM0dvTUNabFJ4RTBmUUNKOW9RS09rTjlSN0xadzYzVTNDN3JLM0hhZThVc3JBTVJfS3pSM2VkZ3RTLVBhWC1hNDROaWVWS3FxRFNOYVVULXRmY1hUaFQyS194ejkwdVlw?oc=5",
+    "chinese_title": "Oricon新闻：KEY TO LIT 岩崎大将，24岁，决定出道CD，“有很多难忘的事情”黑柳哲子“你太年轻了！”",
+    "chinese_summary": "Oricon 新闻：KEY TO LIT 岩崎大将决定在 24 岁时首次亮相 CD，“有很多值得纪念的事情”黑柳哲子“你太年轻了！”每日新闻",
+    "detailed_japanese": "毎日新聞は「オリコンニュース：KEY TO LIT岩崎大昇、CDデビュー決定の24歳は「記念すべきことが多かった」 黒柳徹子「若いね～！」」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“Oricon新闻：LIT的关键”岩崎大将，24岁，决定首次推出CD，“有很多难忘的事情”黑柳哲子“你还年轻！”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "デビュー-debut",
+        "reading": "でびゅー",
+        "meaning": "首次亮相-首次亮相",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「デビュー-debutの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：KEY TO LIT岩崎大昇、CDデビュー決定の24歳は「記念すべきことが多かった」 黒柳徹子「若いね～！"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：KEY TO LIT岩崎大昇、CDデビュー決定の24歳は「記念すべきことが多かった」 黒柳徹子「若いね～！"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "」」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 55.95422590125
+  },
+  {
+    "category": "体育",
+    "title": "「W杯期間中に８kg太りました」現地解説の裏で“毎日ハンバーガー生活”→体重爆増した【元サッカー日本代表】とは？",
+    "source": "TRILL",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Bb0Z0eExndndfa05lWkRzbm5WOHpsNGhnTzhTN2FjZktXWk9Qbi01ZWNLb3NWNmpIM3YxQXBocUJJREwzd09VMWRIRmFDNlk?oc=5",
+    "published": "2026-09-29 05:35",
+    "japanese_summary": "「W杯期間中に８kg太りました」現地解説の裏で“毎日ハンバーガー生活”→体重爆増した【元サッカー日本代表】とは？ TRILL",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Bb0Z0eExndndfa05lWkRzbm5WOHpsNGhnTzhTN2FjZktXWk9Qbi01ZWNLb3NWNmpIM3YxQXBocUJJREwzd09VMWRIRmFDNlk?oc=5",
+    "chinese_title": "“世界杯期间增重8公斤”这位因“每天吃汉堡”而增重不少的日本前国足球员幕后解说是怎样的？",
+    "chinese_summary": "“世界杯期间增重8公斤”这位因“每天吃汉堡”而增重不少的日本前国足球员幕后解说是怎样的？颤音",
+    "detailed_japanese": "TRILLは「「W杯期間中に８kg太りました」現地解説の裏で“毎日ハンバーガー生活”→体重爆増した【元サッカー日本代表】とは？」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TRILL说：“世界杯期间我体重增加了8公斤。”这位每天吃汉堡体重增加这么多的日本前国足球员在他的现场解说背后是什么呢？ ”报道。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ハンバーガー-hamburger",
+        "reading": "はんばーがー",
+        "meaning": "汉堡包",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ハンバーガー-hamburgerの＋名词」构成修饰关系。",
+        "example": "TRILLは「「W杯期間中に８kg太りました」現地解説の裏で“毎日ハンバーガー生活”→体重爆増した【元サッカー日本代表】とは？"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "TRILLは「「W杯期間中に８kg太りました」現地解説の裏で“毎日ハンバーガー生活”→体重爆増した【元サッカー日本代表】とは？"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 46.74589256791667
+  },
+  {
+    "category": "社会",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6RjRmTlpadUpWdFpRRy1MNGcxQmNpQjhsSkpWRXU5RUp2RVY4aWx2eEhuWGNrdTZuOHBSMUFYT2t5bzBTdndMbk5kamhkZV8zaUt3ZXg0ZDYxN0FJV3FJY3puakR5ckpq?oc=5",
+    "published": "2026-09-29 04:54",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6RjRmTlpadUpWdFpRRy1MNGcxQmNpQjhsSkpWRXU5RUp2RVY4aWx2eEhuWGNrdTZuOHBSMUFYT2t5bzBTdndMbk5kamhkZV8zaUt3ZXg0ZDYxN0FJV3FJY3puakR5ckpq?oc=5",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 58.40422590125
+  },
+  {
+    "category": "数码科技",
+    "title": "ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaVZBYzhsREUzNnAzYjQ4QWc3aFF6UWlHWHFyemF3eVFteW1RZVE1VkhPNjVwdkgwZHJCaXdEWGlTcHhSSk1IYUlTLVl3YzJnRTRiOV82V0M5UUN5a1RFVzR3dUxlWHZ0TE5QcQ?oc=5",
+    "published": "2026-09-29 05:00",
+    "japanese_summary": "ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaVZBYzhsREUzNnAzYjQ4QWc3aFF6UWlHWHFyemF3eVFteW1RZVE1VkhPNjVwdkgwZHJCaXdEWGlTcHhSSk1IYUlTLVl3YzJnRTRiOV82V0M5UUN5a1RFVzR3dUxlWHZ0TE5QcQ?oc=5",
+    "chinese_title": "AI时代机器人巨头转向美国；发那科总裁对零件供应网络的担忧",
+    "chinese_summary": "人工智能时代机器人巨头转向美国——发那科社长担心零部件供应网络 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“人工智能时代，主要机器人公司转移到美国； FANUC 总裁担心零件供应网络。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ロボット-robot",
+        "reading": "ろぼっと",
+        "meaning": "机器人机器人",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロボット-robotの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網」と報じました。"
+      },
+      {
+        "word": "シフト-shift",
+        "reading": "しふと",
+        "meaning": "换班换班",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「シフト-shiftの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「ロボット大手、AI時代に米国シフト ファナック社長が悩む部品供給網」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 63.45422590125
+  },
+  {
+    "category": "军事",
+    "title": "隠す時代は終わった？ 防衛産業の積極発信に動く重工・電機大手",
+    "source": "朝日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsN0ZZeHFvbGJkZ2ZqMXZIODFKMzBibVVBLXFvaEVpUHVJSlRHMkdQUm9rSHNlYjhjNXViVG81LUZvcjZOcEtDT0xpTXFMNnFwN1BzcE5kVmgzMHMzZDZtbDFjdllGNGc?oc=5",
+    "published": "2026-09-28 16:30",
+    "japanese_summary": "隠す時代は終わった？ 防衛産業の積極発信に動く重工・電機大手 朝日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsN0ZZeHFvbGJkZ2ZqMXZIODFKMzBibVVBLXFvaEVpUHVJSlRHMkdQUm9rSHNlYjhjNXViVG81LUZvcjZOcEtDT0xpTXFMNnFwN1BzcE5kVmgzMHMzZDZtbDFjdllGNGc?oc=5",
+    "chinese_title": "躲藏的时代结束了吗？重工、电子专业积极推动国防工业",
+    "chinese_summary": "躲藏的时代结束了吗？朝日新闻社，一家积极推动国防工业的大型重工业和电子公司",
+    "detailed_japanese": "朝日新聞は「隠す時代は終わった？ 防衛産業の積極発信に動く重工・電機大手」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《朝日新闻》报道称，“隐瞒的时代结束了吗？”重工业和电子专业正在积极促进国防工业。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわっ",
+        "meaning": "结尾",
+        "pos": "动词",
+        "usage": "原形是「終わる」，文中形式是「終わっ」。活用类型：五段-ラ行。",
+        "example": "朝日新聞は「隠す時代は終わった？"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "防衛産業の積極発信に動く重工・電機大手」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "電機",
+        "reading": "でんき",
+        "meaning": "电机",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「電機の＋名词」构成修饰关系。",
+        "example": "防衛産業の積極発信に動く重工・電機大手」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 41.20422590125
+  }
+]
