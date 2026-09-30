@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOGpJTGhGQ1R4emstRTlSSkdtWEdaSVRNWWQzcGpxclZqZ1RBQTVqZlFlbDJBMUpjdHg2RDZwNENLRFJ1TEl1Y09WQlFwcjNmZXkxU3F1aUhvOFFkUXk1OFdoNUtBckhP?oc=5",
+    "published": "2026-10-01 01:01",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOGpJTGhGQ1R4emstRTlSSkdtWEdaSVRNWWQzcGpxclZqZ1RBQTVqZlFlbDJBMUpjdHg2RDZwNENLRFJ1TEl1Y09WQlFwcjNmZXkxU3F1aUhvOFFkUXk1OFdoNUtBckhP?oc=5",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 57.0753387125
+  },
+  {
+    "category": "政治",
+    "title": "市場が動かす政治 後退する株主重視（下）統治指針、まるで「行政指導」 経営の自主性、弱める恐れ",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTnZ6OW1fcmR4emhkcFBNRkpxcnRScm5OYlp4SmtDSWNMVjdCUEl5cXpEdGdjRFNzTUVoSl9zVXZFemd4TGpSN0VXS2IyOEE0RGNHQzVWUjBUTDNneVhDUUY1WTBJRW92d2ZOWA?oc=5",
+    "published": "2026-10-01 02:00",
+    "japanese_summary": "市場が動かす政治 後退する株主重視（下）統治指針、まるで「行政指導」 経営の自主性、弱める恐れ 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTnZ6OW1fcmR4emhkcFBNRkpxcnRScm5OYlp4SmtDSWNMVjdCUEl5cXpEdGdjRFNzTUVoSl9zVXZFemd4TGpSN0VXS2IyOEE0RGNHQzVWUjBUTDNneVhDUUY1WTBJRW92d2ZOWA?oc=5",
+    "chinese_title": "市场驱动的政治 以股东为中心的（较低）治理准则倒退，几乎像“行政指导” 管理自主权被削弱的风险",
+    "chinese_summary": "市场驱动的政治 以股东为中心的（较低）治理准则倒退，几乎像“行政指导” 管理层自主权可能被削弱 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「市場が動かす政治 後退する株主重視（下）統治指針、まるで「行政指導」 経営の自主性、弱める恐れ」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“市场驱动的政治：以股东为导向的倒退（较低）治理准则，几乎像“行政指导”一样，威胁着削弱管理自主权。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "弱める",
+        "reading": "よわめる",
+        "meaning": "削弱",
+        "pos": "动词",
+        "usage": "原形是「弱める」，文中形式是「弱める」。活用类型：下一段-マ行。",
+        "example": "日本経済新聞は「市場が動かす政治 後退する株主重視（下）統治指針、まるで「行政指導」 経営の自主性、弱める恐れ」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「市場が動かす政治 後退する株主重視（下）統治指針、まるで「行政指導」 経営の自主性、弱める恐れ」と報じました。"
+      },
+      {
+        "word": "動かす",
+        "reading": "うごかす",
+        "meaning": "移动",
+        "pos": "动词",
+        "usage": "原形是「動かす」，文中形式是「動かす」。活用类型：五段-サ行。",
+        "example": "日本経済新聞は「市場が動かす政治 後退する株主重視（下）統治指針、まるで「行政指導」 経営の自主性、弱める恐れ」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 48.567005379166666
+  },
+  {
+    "category": "经济",
+    "title": "中小企業は「人」で勝つ 岡田幸士氏",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2WjZGQjhvNWNHdHEwNXZOYnQ4UWIzYmV3ZlZSckZneFh2OFFCUGNPLUJXMnc2dXk5UXZ1eUZYOXJhaVJoRVNWLTJYUzM0SGpjUHU3OFFsR2s4bU9RUTdsLXB4Yms2WEdQMjhWOA?oc=5",
+    "published": "2026-10-01 00:00",
+    "japanese_summary": "中小企業は「人」で勝つ 岡田幸士氏 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2WjZGQjhvNWNHdHEwNXZOYnQ4UWIzYmV3ZlZSckZneFh2OFFCUGNPLUJXMnc2dXk5UXZ1eUZYOXJhaVJoRVNWLTJYUzM0SGpjUHU3OFFsR2s4bU9RUTdsLXB4Yms2WEdQMjhWOA?oc=5",
+    "chinese_title": "中小企业靠“人”取胜 冈田浩二",
+    "chinese_summary": "中小企业以“人”取胜冈田浩二日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「中小企業は「人」で勝つ 岡田幸士氏」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《日本经济新闻》报道称，“冈田浩司，中小企业与人共赢。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「中小企業は「人」で勝つ 岡田幸士氏」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "経済",
+        "reading": "けいざい",
+        "meaning": "经济",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「経済の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「中小企業は「人」で勝つ 岡田幸士氏」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 54.567005379166666
+  },
+  {
+    "category": "娱乐",
+    "title": "「唯一無二の存在」櫻坂46増本綺良、8年のアイドル人生に幕 「尊敬する先輩の最後の1曲」披露に感慨",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YUg5THIybXNqNnFmaHNoOVVCTzI0TjZyN2xnLUFvZzczZjhITWxaUW9lMEh0T0lwLXJESnVfVWtxZEdQeFZNRkxvWlFjVzlrY3NkWW1oTi1GMVdkeG5zNXFhNC1LOE5Q?oc=5",
+    "published": "2026-10-01 00:43",
+    "japanese_summary": "「唯一無二の存在」櫻坂46増本綺良、8年のアイドル人生に幕 「尊敬する先輩の最後の1曲」披露に感慨 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YUg5THIybXNqNnFmaHNoOVVCTzI0TjZyN2xnLUFvZzczZjhITWxaUW9lMEh0T0lwLXJESnVfVWtxZEdQeFZNRkxvWlFjVzlrY3NkWW1oTi1GMVdkeG5zNXFhNC1LOE5Q?oc=5",
+    "chinese_title": "“独一无二”的樱坂46增本吉拉结束了8年的偶像生涯，激动地演唱了“我尊敬的前辈的最后一首歌”",
+    "chinese_summary": "樱坂46“独一无二的存在”增本吉拉结束了8年的偶像生涯，在《每日新闻》上演唱了“我尊敬的前辈的最后一首歌”，情绪激动",
+    "detailed_japanese": "毎日新聞は「「唯一無二の存在」櫻坂46増本綺良、8年のアイドル人生に幕 「尊敬する先輩の最後の1曲」披露に感慨」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“唯一的”樱坂46增本基拉结束了她8年的偶像生涯，并被感动地表演了“她尊敬的前辈的最后一首歌”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "アイドル-idol",
+        "reading": "あいどる",
+        "meaning": "偶像-偶像",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「アイドル-idolの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「「唯一無二の存在」櫻坂46増本綺良、8年のアイドル人生に幕 「尊敬する先輩の最後の1曲」披露に感慨」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「「唯一無二の存在」櫻坂46増本綺良、8年のアイドル人生に幕 「尊敬する先輩の最後の1曲」披露に感慨」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 45.9253387125
+  },
+  {
+    "category": "体育",
+    "title": "サッカー最新FIFAランキング1位〜100位。北中米ワールドカップ出場国、サッカー日本代表の順位は？（2026年9月30日付）",
+    "source": "フットボールチャンネル",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GaDRKY1E5OVhnMTdjTFV1SVBkVUhKTGNfWXZueVJqMmZWS2lmbm5HUkQyU3ZQOUdtS0VpYnZfck1ZeGZucGFOTHVVSTJBTXRiZmM3cHBJWHdOb1BXVFZNUS1qQQ?oc=5",
+    "published": "2026-10-01 04:01",
+    "japanese_summary": "サッカー最新FIFAランキング1位〜100位。北中米ワールドカップ出場国、サッカー日本代表の順位は？（2026年9月30日付） フットボールチャンネル",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GaDRKY1E5OVhnMTdjTFV1SVBkVUhKTGNfWXZueVJqMmZWS2lmbm5HUkQyU3ZQOUdtS0VpYnZfck1ZeGZucGFOTHVVSTJBTXRiZmM3cHBJWHdOb1BXVFZNUS1qQQ?oc=5",
+    "chinese_title": "最新国际足联足球排名第 1 至第 100。参加中北美洲世界杯的国家和日本国家足球队的排名如何？ （截至2026年9月30日）",
+    "chinese_summary": "最新国际足联足球排名第 1 至第 100。参加中北美洲世界杯的国家和日本国家足球队的排名如何？ （2026 年 9 月 30 日）足球频道",
+    "detailed_japanese": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。北中米ワールドカップ出場国、サッカー日本代表の順位は？（2026年9月30日付）」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "足球频道报道，“最新国际足联足球排名第1至第100位。参加北美和中美洲世界杯的国家和日本国家足球队的排名如何？”（截至2026年9月30日）。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "フットボール-football",
+        "reading": "ふっとぼーる",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「フットボール-footballの＋名词」构成修饰关系。",
+        "example": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。"
+      },
+      {
+        "word": "ランキング-ranking",
+        "reading": "らんきんぐ",
+        "meaning": "排名-排名",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ランキング-rankingの＋名词」构成修饰关系。",
+        "example": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。"
+      },
+      {
+        "word": "チャンネル-channel",
+        "reading": "ちゃんねる",
+        "meaning": "频道-频道",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「チャンネル-channelの＋名词」构成修饰关系。",
+        "example": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。"
+      },
+      {
+        "word": "ワールド-world",
+        "reading": "わーるど",
+        "meaning": "世界-世界",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ワールド-worldの＋名词」构成修饰关系。",
+        "example": "北中米ワールドカップ出場国、サッカー日本代表の順位は？"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.5753387125
+  },
+  {
+    "category": "社会",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOGpJTGhGQ1R4emstRTlSSkdtWEdaSVRNWWQzcGpxclZqZ1RBQTVqZlFlbDJBMUpjdHg2RDZwNENLRFJ1TEl1Y09WQlFwcjNmZXkxU3F1aUhvOFFkUXk1OFdoNUtBckhP?oc=5",
+    "published": "2026-10-01 01:01",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOGpJTGhGQ1R4emstRTlSSkdtWEdaSVRNWWQzcGpxclZqZ1RBQTVqZlFlbDJBMUpjdHg2RDZwNENLRFJ1TEl1Y09WQlFwcjNmZXkxU3F1aUhvOFFkUXk1OFdoNUtBckhP?oc=5",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 57.0753387125
+  },
+  {
+    "category": "数码科技",
+    "title": "Airbnb「ミューズなど外部AIに宿泊予約させず」 アプリ素通り警戒",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPXzBObmlHQmdYU0hzMTdwYVBvTGVibGg3M0VvY2R2Yk4tdmVvSVJ2M0tnamNNdVJybUxhVjQtbFlGMmlNSENxSVQtb0VNRjBybWRPZWZTTGt2dkNiNXBicXBEWTJ3XzNVRU1ORg?oc=5",
+    "published": "2026-10-01 04:43",
+    "japanese_summary": "Airbnb「ミューズなど外部AIに宿泊予約させず」 アプリ素通り警戒 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPXzBObmlHQmdYU0hzMTdwYVBvTGVibGg3M0VvY2R2Yk4tdmVvSVJ2M0tnamNNdVJybUxhVjQtbFlGMmlNSENxSVQtb0VNRjBybWRPZWZTTGt2dkNiNXBicXBEWTJ3XzNVRU1ORg?oc=5",
+    "chinese_title": "Airbnb“不允许Muse等外部AI进行住宿预订”通过应用程序的警告",
+    "chinese_summary": "Airbnb“不允许Muse等外部人工智能预订住宿”通过应用程序的警告 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「Airbnb「ミューズなど外部AIに宿泊予約させず」 アプリ素通り警戒」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“Airbnb“不允许 Muse 等外部人工智能预订住宿”，警告不要通过该应用程序。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "アプリ-application",
+        "reading": "あぷり",
+        "meaning": "应用程序应用程序",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「アプリ-applicationの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「Airbnb「ミューズなど外部AIに宿泊予約させず」 アプリ素通り警戒」と報じました。"
+      },
+      {
+        "word": "ミューズ-Muse",
+        "reading": "みゅーず",
+        "meaning": "沉思",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ミューズ-Museの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「Airbnb「ミューズなど外部AIに宿泊予約させず」 アプリ素通り警戒」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "素通り",
+        "reading": "すどおり",
+        "meaning": "路过",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「素通りの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「Airbnb「ミューズなど外部AIに宿泊予約させず」 アプリ素通り警戒」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「Airbnb「ミューズなど外部AIに宿泊予約させず」 アプリ素通り警戒」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.9253387125
+  },
+  {
+    "category": "军事",
+    "title": "長射程ミサイルを日米共同演習に投入 熊本・健軍駐屯地でも訓練予定",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TdWV4SWlfZF91NzVYYU93aWhOZWY1UFp0b1Z1dWZIRFhuZG9rX0hocGZISEtyUXVDNnItUXhiZjZ0eC1vY3Q4TldUMnkyZw?oc=5",
+    "published": "2026-09-30 20:59",
+    "japanese_summary": "長射程ミサイルを日米共同演習に投入 熊本・健軍駐屯地でも訓練予定 FNNプライムオンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TdWV4SWlfZF91NzVYYU93aWhOZWY1UFp0b1Z1dWZIRFhuZG9rX0hocGZISEtyUXVDNnItUXhiZjZ0eC1vY3Q4TldUMnkyZw?oc=5",
+    "chinese_title": "日美联合演习将部署远程导弹；还计划在熊本健军驻地进行训练",
+    "chinese_summary": "日美联合演习将部署远程导弹；还计划在熊本健军驻地进行训练 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「長射程ミサイルを日米共同演習に投入 熊本・健軍駐屯地でも訓練予定」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "FNN Prime Online报道称，“日美联合演习将部署远程导弹；还计划在熊本的健军驻地进行训练。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ミサイル-missile",
+        "reading": "みさいる",
+        "meaning": "导弹-导弹",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ミサイル-missileの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「長射程ミサイルを日米共同演習に投入 熊本・健軍駐屯地でも訓練予定」と報じました。"
+      },
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「長射程ミサイルを日米共同演習に投入 熊本・健軍駐屯地でも訓練予定」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「長射程ミサイルを日米共同演習に投入 熊本・健軍駐屯地でも訓練予定」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "FNNプライムオンラインは「長射程ミサイルを日米共同演習に投入 熊本・健軍駐屯地でも訓練予定」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 48.05867204583333
+  }
+]
