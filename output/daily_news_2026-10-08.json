@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHajlkbjh2bzBZRjRBemxRdnkwd1B3RFgwRnZpUXM0aENDSUJlR2h1cDVLT24xZ1YzTnE3RTcyaWwySzhQdnFqTzZUZDlfc3NQaS1LUWEteHBtUXd4VG9zS3ktaGtDZHNE?oc=5",
+    "published": "2026-10-08 04:17",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHajlkbjh2bzBZRjRBemxRdnkwd1B3RFgwRnZpUXM0aENDSUJlR2h1cDVLT24xZ1YzTnE3RTcyaWwySzhQdnFqTzZUZDlfc3NQaS1LUWEteHBtUXd4VG9zS3ktaGtDZHNE?oc=5",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 58.42726452375
+  },
+  {
+    "category": "政治",
+    "title": "読む政治：高市首相「レクチャー受けない」？ 歴代と比べ官僚との面会激減",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2N3hGUU9nSHgyN0FicXlNWi10cklmOWQ5RjNxVjBXQXJpZTdfNTdzMklBUWxpYVNLbEdMbWJveEpnZkpJX1hRTlBoNWFMN0tmNFUyVXBkUEstZTY2RmFwZHd2MzI1ZUIz?oc=5",
+    "published": "2026-10-08 05:01",
+    "japanese_summary": "読む政治：高市首相「レクチャー受けない」？ 歴代と比べ官僚との面会激減 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2N3hGUU9nSHgyN0FicXlNWi10cklmOWQ5RjNxVjBXQXJpZTdfNTdzMklBUWxpYVNLbEdMbWJveEpnZkpJX1hRTlBoNWFMN0tmNFUyVXBkUEstZTY2RmFwZHd2MzI1ZUIz?oc=5",
+    "chinese_title": "政读：首相高市“不会讲课”？与前几代人相比，与官僚的会面大幅减少。",
+    "chinese_summary": "政读：首相高市“不会讲课”？与前代相比，与官僚的会面大幅减少 《每日新闻》",
+    "detailed_japanese": "毎日新聞は「読む政治：高市首相「レクチャー受けない」？ 歴代と比べ官僚との面会激減」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道“读政治：高市首相不听课”？ “与前几代人相比，他与官僚的会面大幅减少。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "レクチャー-lecture",
+        "reading": "れくちゃー",
+        "meaning": "讲座-讲座",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「レクチャー-lectureの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「読む政治：高市首相「レクチャー受けない」？"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "比べる",
+        "reading": "くらべ",
+        "meaning": "比较",
+        "pos": "动词",
+        "usage": "原形是「比べる」，文中形式是「比べ」。活用类型：下一段-バ行。",
+        "example": "歴代と比べ官僚との面会激減」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "歴代と比べ官僚との面会激減」と報じました。"
+      },
+      {
+        "word": "受ける",
+        "reading": "うけ",
+        "meaning": "收到",
+        "pos": "动词",
+        "usage": "原形是「受ける」，文中形式是「受け」。活用类型：下一段-カ行。",
+        "example": "毎日新聞は「読む政治：高市首相「レクチャー受けない」？"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 54.79393119041667
+  },
+  {
+    "category": "经济",
+    "title": "ＮＹ各市場 ４時台 ダウ平均は３２４ドル安 シカゴ日経平均先物は６万９８５５円",
+    "source": "みんかぶ FX/為替",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93MktlSUdYc3pPSG5pRUxaWFRLVWJmODNKRlpEUG9YSk9qSkVmb05TY3RRemdqMXA5cm5hdDlvOFREMnY4MTltZg?oc=5",
+    "published": "2026-10-08 04:13",
+    "japanese_summary": "ＮＹ各市場 ４時台 ダウ平均は３２４ドル安 シカゴ日経平均先物は６万９８５５円 みんかぶ FX/為替",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93MktlSUdYc3pPSG5pRUxaWFRLVWJmODNKRlpEUG9YSk9qSkVmb05TY3RRemdqMXA5cm5hdDlvOFREMnY4MTltZg?oc=5",
+    "chinese_title": "纽约市场 4 点 道琼斯工业平均指数下跌 324 点 芝加哥日经指数期货 69,855 日元",
+    "chinese_summary": "纽约市场 4 点 道琼斯工业平均指数下跌 324 美元 芝加哥日经平均指数期货 69,855 日元 Minkabu FX/Forex",
+    "detailed_japanese": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は３２４ドル安 シカゴ日経平均先物は６万９８５５円」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "Minkabu FX/Forex 报道称，“纽约市场 4 点道琼斯工业平均指数下跌 324 美元，芝加哥日经平均期货价格为 69,855 日元。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "シカゴ-Chicago",
+        "reading": "しかご",
+        "meaning": "芝加哥-芝加哥",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「シカゴ-Chicagoの＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は３２４ドル安 シカゴ日経平均先物は６万９８５５円」と報じました。"
+      },
+      {
+        "word": "ドル-dollar",
+        "reading": "どる",
+        "meaning": "美元-美元",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ドル-dollarの＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は３２４ドル安 シカゴ日経平均先物は６万９８５５円」と報じました。"
+      },
+      {
+        "word": "平均",
+        "reading": "へいきん",
+        "meaning": "平均的",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「平均の＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は３２４ドル安 シカゴ日経平均先物は６万９８５５円」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は３２４ドル安 シカゴ日経平均先物は６万９８５５円」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は３２４ドル安 シカゴ日経平均先物は６万９８５５円」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.393931190416666
+  },
+  {
+    "category": "娱乐",
+    "title": "オリコンニュース：北村匠海、USJのクリスマスに向け呼びかけ 家族の距離を近づける“一言”を披露［メッセージ全文］",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tTHh0d3pDVU1tcGFpSjgxV2VZMG9McVlseHp5VVJHRHpNV0FUbWN2bmliSkxGMGRZOVpUWUdvVEViTmhDQ2xwa01HdzZLZFh4WUNUNlVCOU80bzhRc2pWQXV1V0R1dWNx?oc=5",
+    "published": "2026-10-08 04:00",
+    "japanese_summary": "オリコンニュース：北村匠海、USJのクリスマスに向け呼びかけ 家族の距離を近づける“一言”を披露［メッセージ全文］ 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tTHh0d3pDVU1tcGFpSjgxV2VZMG9McVlseHp5VVJHRHpNV0FUbWN2bmliSkxGMGRZOVpUWUdvVEViTmhDQ2xwa01HdzZLZFh4WUNUNlVCOU80bzhRc2pWQXV1V0R1dWNx?oc=5",
+    "chinese_title": "Oricon新闻：北村匠美为圣诞节呼唤USJ并分享一个让家人更亲密的“话语”[全文]",
+    "chinese_summary": "Oricon新闻：北村匠海呼唤USJ过圣诞，并分享一个让家人更亲密的“话语”[全文]每日新闻",
+    "detailed_japanese": "毎日新聞は「オリコンニュース：北村匠海、USJのクリスマスに向け呼びかけ 家族の距離を近づける“一言”を披露［メッセージ全文］」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“Oricon 新闻：北村匠美在圣诞节期间向 USJ 致敬，并分享了一个可以拉近家庭距离的“话语”[完整消息]。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "クリスマス-Christmas",
+        "reading": "くりすます",
+        "meaning": "圣诞节-圣诞节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「クリスマス-Christmasの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：北村匠海、USJのクリスマスに向け呼びかけ 家族の距離を近づける“一言”を披露［メッセージ全文］」と報じました"
+      },
+      {
+        "word": "メッセージ-message",
+        "reading": "めっせーじ",
+        "meaning": "消息-消息",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「メッセージ-messageの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：北村匠海、USJのクリスマスに向け呼びかけ 家族の距離を近づける“一言”を披露［メッセージ全文］」と報じました"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：北村匠海、USJのクリスマスに向け呼びかけ 家族の距離を近づける“一言”を披露［メッセージ全文］」と報じました"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "近付ける",
+        "reading": "ちかづける",
+        "meaning": "拉近",
+        "pos": "动词",
+        "usage": "原形是「近付ける」，文中形式是「近づける」。活用类型：下一段-カ行。",
+        "example": "毎日新聞は「オリコンニュース：北村匠海、USJのクリスマスに向け呼びかけ 家族の距離を近づける“一言”を披露［メッセージ全文］」と報じました"
+      },
+      {
+        "word": "呼び掛け",
+        "reading": "よびかけ",
+        "meaning": "呼唤",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「呼び掛けの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：北村匠海、USJのクリスマスに向け呼びかけ 家族の距離を近づける“一言”を披露［メッセージ全文］」と報じました"
+      }
+    ],
+    "grammar": [],
+    "score": 47.28559785708333
+  },
+  {
+    "category": "体育",
+    "title": "サッカー最新FIFAランキング1位〜100位。北中米ワールドカップ出場国、サッカー日本代表の順位は？（2026年10月7日付）",
+    "source": "フットボールチャンネル",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KUEFVQk93T3ZpNGRURVdRb05rV0NZQXZBbXcyQUpPWTR2ZVI2WXVPRmxfTHpyb1lRa1Q2M1dDQ3Rvb21HNUJiTG52X0g2Y0JkV1BrU2JtT3c1YlFocGJtMWc1cw?oc=5",
+    "published": "2026-10-08 03:52",
+    "japanese_summary": "サッカー最新FIFAランキング1位〜100位。北中米ワールドカップ出場国、サッカー日本代表の順位は？（2026年10月7日付） フットボールチャンネル",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KUEFVQk93T3ZpNGRURVdRb05rV0NZQXZBbXcyQUpPWTR2ZVI2WXVPRmxfTHpyb1lRa1Q2M1dDQ3Rvb21HNUJiTG52X0g2Y0JkV1BrU2JtT3c1YlFocGJtMWc1cw?oc=5",
+    "chinese_title": "最新国际足联足球排名第 1 至第 100。参加中北美洲世界杯的国家和日本国家足球队的排名如何？ （截至2026年10月7日）",
+    "chinese_summary": "最新国际足联足球排名第 1 至第 100。参加中北美洲世界杯的国家和日本国家足球队的排名如何？ （2026 年 10 月 7 日）足球频道",
+    "detailed_japanese": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。北中米ワールドカップ出場国、サッカー日本代表の順位は？（2026年10月7日付）」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "足球频道报道称，“最新的国际足联足球排名第1至第100位。参加北美和中美洲世界杯的国家和日本国家足球队的排名如何？”（截至2026年10月7日）。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "フットボール-football",
+        "reading": "ふっとぼーる",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「フットボール-footballの＋名词」构成修饰关系。",
+        "example": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。"
+      },
+      {
+        "word": "ランキング-ranking",
+        "reading": "らんきんぐ",
+        "meaning": "排名-排名",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ランキング-rankingの＋名词」构成修饰关系。",
+        "example": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。"
+      },
+      {
+        "word": "チャンネル-channel",
+        "reading": "ちゃんねる",
+        "meaning": "频道-频道",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「チャンネル-channelの＋名词」构成修饰关系。",
+        "example": "フットボールチャンネルは「サッカー最新FIFAランキング1位〜100位。"
+      },
+      {
+        "word": "ワールド-world",
+        "reading": "わーるど",
+        "meaning": "世界-世界",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ワールド-worldの＋名词」构成修饰关系。",
+        "example": "北中米ワールドカップ出場国、サッカー日本代表の順位は？"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.21893119041667
+  },
+  {
+    "category": "社会",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHajlkbjh2bzBZRjRBemxRdnkwd1B3RFgwRnZpUXM0aENDSUJlR2h1cDVLT24xZ1YzTnE3RTcyaWwySzhQdnFqTzZUZDlfc3NQaS1LUWEteHBtUXd4VG9zS3ktaGtDZHNE?oc=5",
+    "published": "2026-10-08 04:17",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHajlkbjh2bzBZRjRBemxRdnkwd1B3RFgwRnZpUXM0aENDSUJlR2h1cDVLT24xZ1YzTnE3RTcyaWwySzhQdnFqTzZUZDlfc3NQaS1LUWEteHBtUXd4VG9zS3ktaGtDZHNE?oc=5",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 58.42726452375
+  },
+  {
+    "category": "数码科技",
+    "title": "電子部品ロボのFUJI、AIサーバー向け好調 今期業績に上振れ余地",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HemtkSlprZUhwMzRfUHc3WHZiLUNkRF9HMGJLSWVqWG1LaWYxN0xqX0Z6NDQtclJNNW96NTY3ZDF5Q2htcjRjakNNelJsV3JjZFdBNzZLaE44R3gwVkVKdmdVdklFTnhZMzgyZDU4MmVEaFRUMnBTVUViTHp0Zw?oc=5",
+    "published": "2026-10-08 05:00",
+    "japanese_summary": "電子部品ロボのFUJI、AIサーバー向け好調 今期業績に上振れ余地 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HemtkSlprZUhwMzRfUHc3WHZiLUNkRF9HMGJLSWVqWG1LaWYxN0xqX0Z6NDQtclJNNW96NTY3ZDF5Q2htcjRjakNNelJsV3JjZFdBNzZLaE44R3gwVkVKdmdVdklFTnhZMzgyZDU4MmVEaFRUMnBTVUViTHp0Zw?oc=5",
+    "chinese_title": "电子零件机器人制造商FUJI在AI服务器方面表现良好，本财年业绩还有提升空间",
+    "chinese_summary": "电子零件机器人制造商FUJI在AI服务器方面表现良好，本财年业绩还有提升空间 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「電子部品ロボのFUJI、AIサーバー向け好調 今期業績に上振れ余地」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“电子零件机器人制造商富士在人工智能服务器方面表现良好，为该术语的结果留下了上升空间。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "サーバー-server",
+        "reading": "さーばー",
+        "meaning": "服务器-服务器",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サーバー-serverの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「電子部品ロボのFUJI、AIサーバー向け好調 今期業績に上振れ余地」と報じました。"
+      },
+      {
+        "word": "ロボ-robot",
+        "reading": "ろぼ",
+        "meaning": "机器人",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロボ-robotの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「電子部品ロボのFUJI、AIサーバー向け好調 今期業績に上振れ余地」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「電子部品ロボのFUJI、AIサーバー向け好調 今期業績に上振れ余地」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.78559785708333
+  },
+  {
+    "category": "军事",
+    "title": "米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表",
+    "source": "ニューズウィーク日本版",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qYzhDWXN5U1ROOHB1X2gtbGQ1dmhMYUF4U3pqN3BnV0FTZ1Y5WUY4QkxiVmpDaldwTDVTUjVfbDJPaGFERDZZSEpDRXZRUU85SXQzYmNYRkV1QQ?oc=5",
+    "published": "2026-10-08 04:16",
+    "japanese_summary": "米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表 ニューズウィーク日本版",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qYzhDWXN5U1ROOHB1X2gtbGQ1dmhMYUF4U3pqN3BnV0FTZ1Y5WUY4QkxiVmpDaldwTDVTUjVfbDJPaGFERDZZSEpDRXZRUU85SXQzYmNYRkV1QQ?oc=5",
+    "chinese_title": "美中峰会后美台关系依然强劲，及时交付国防设备很重要=驻美代表",
+    "chinese_summary": "美中峰会后，美台关系依然强劲；及时移交国防装备很重要；美国新闻周刊日本版代表",
+    "detailed_japanese": "ニューズウィーク日本版は「米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本版《新闻周刊》报道称，“即使在美中峰会之后，美台关系仍然强劲；”及时移交国防装备很重要；美国代表说。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーず",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "ニューズウィーク日本版は「米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表」と報じました。"
+      },
+      {
+        "word": "ウイーク-week",
+        "reading": "うぃーく",
+        "meaning": "一周一周",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ウイーク-weekの＋名词」构成修饰关系。",
+        "example": "ニューズウィーク日本版は「米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "引き渡し",
+        "reading": "ひきわたし",
+        "meaning": "送货",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「引き渡しの＋名词」构成修饰关系。",
+        "example": "ニューズウィーク日本版は「米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "ニューズウィーク日本版は「米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 41.41893119041667
+  }
+]
