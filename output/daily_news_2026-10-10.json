@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzSTItb0Zray1BNDJCX1ZBWjkxcWVqZUNURUY0VlFDNGpHeFZOMDJwY1pYWGRhSjR5bkJyVWZGM0N3OFBYeXhqRFlXSXlKTHQyZ1JfcXNfaw?oc=5",
+    "published": "2026-10-10 04:11",
+    "japanese_summary": "【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzSTItb0Zray1BNDJCX1ZBWjkxcWVqZUNURUY0VlFDNGpHeFZOMDJwY1pYWGRhSjR5bkJyVWZGM0N3OFBYeXhqRFlXSXlKTHQyZ1JfcXNfaw?oc=5",
+    "chinese_title": "【突发新闻】巴拿马发生7.7级地震。日本沿海可能会出现轻微的海平面变化，但不用担心受到损害。",
+    "chinese_summary": "【突发新闻】巴拿马发生7.7级地震。日本沿海可能会出现轻微的海平面变化，但不用担心受到损害 TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TBS NEWS DIG 报道，“[突发新闻]巴拿马发生 7.7 级地震。日本沿海海平面可能会出现轻微变化，但不必担心受到损害。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "マグニチュード-magnitude",
+        "reading": "まぐにちゅーど",
+        "meaning": "震级-震级",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マグニチュード-magnitudeの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」"
+      },
+      {
+        "word": "パナマ-Panama",
+        "reading": "ぱなま",
+        "meaning": "巴拿马-巴拿马",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「パナマ-Panamaの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "起床",
+        "pos": "动词",
+        "usage": "原形是「起きる」，文中形式是「起きる」。活用类型：上一段-カ行。",
+        "example": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 67.58698964319444
+  },
+  {
+    "category": "政治",
+    "title": "米政府がICCを制裁対象に指定 高市首相「日本の立場と相容れるものではなく深く懸念」自身のSNSで表明",
+    "source": "日テレNEWS NNN",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdVI2NnpqdkY5WlJ2SXRkdkRJUUtKMkd0b0JiSWs2bVVGemxUMHJUcWFkT2VIR19FaWxnSHltMUhvY0tET2FoSC1tNEx0OUcyaGVZSHNMRjlYcE9wVUdndkRBZ0ZudWFOUVAtc2JTOFhNa01yVEhxUE1tTXpXQQ?oc=5",
+    "published": "2026-10-10 01:02",
+    "japanese_summary": "米政府がICCを制裁対象に指定 高市首相「日本の立場と相容れるものではなく深く懸念」自身のSNSで表明 日テレNEWS NNN",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdVI2NnpqdkY5WlJ2SXRkdkRJUUtKMkd0b0JiSWs2bVVGemxUMHJUcWFkT2VIR19FaWxnSHltMUhvY0tET2FoSC1tNEx0OUcyaGVZSHNMRjlYcE9wVUdndkRBZ0ZudWFOUVAtc2JTOFhNa01yVEhxUE1tTXpXQQ?oc=5",
+    "chinese_title": "美国政府指定国际刑事法院为制裁对象；日本首相高市在自己的社交媒体上表达了“深切关注，因为这与日本的立场不符”",
+    "chinese_summary": "美国政府指定国际刑事法院为制裁对象，日本首相高市在社交媒体上表示“深感担忧，因为这与日本的立场不符” NTV NEWS NNN",
+    "detailed_japanese": "日テレNEWS NNNは「米政府がICCを制裁対象に指定 高市首相「日本の立場と相容れるものではなく深く懸念」自身のSNSで表明」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "NTV NEWS NNN报道称，日本首相高市在其社交媒体账户上表示，“美国政府已将国际刑事法院指定为制裁目标”，并表示“这与日本的立场不符，我深感担忧。”由于我们无法从原文中检索到足够的文字，请检查来源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "日テレ",
+        "reading": "にってれ",
+        "meaning": "国家电视台",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「日テレの＋名词」构成修饰关系。",
+        "example": "日テレNEWS NNNは「米政府がICCを制裁対象に指定 高市首相「日本の立場と相容れるものではなく深く懸念」自身のSNSで表明」と報じまし"
+      },
+      {
+        "word": "容れる",
+        "reading": "いれる",
+        "meaning": "可以忍受的",
+        "pos": "动词",
+        "usage": "原形是「容れる」，文中形式是「容れる」。活用类型：下一段-ラ行。",
+        "example": "日テレNEWS NNNは「米政府がICCを制裁対象に指定 高市首相「日本の立場と相容れるものではなく深く懸念」自身のSNSで表明」と報じまし"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日テレNEWS NNNは「米政府がICCを制裁対象に指定 高市首相「日本の立場と相容れるものではなく深く懸念」自身のSNSで表明」と報じまし"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 45.01198964319444
+  },
+  {
+    "category": "经济",
+    "title": "ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円",
+    "source": "みんかぶ FX/為替",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11RFVYUlZlQmtWdlFiLVhSQmhfT2hGdGs3RF9hMzFkbzIyN0l6Um5nVlhaUV9GQlBNcWNqanJkU3NfMlhnc3NXSg?oc=5",
+    "published": "2026-10-10 04:22",
+    "japanese_summary": "ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円 みんかぶ FX/為替",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11RFVYUlZlQmtWdlFiLVhSQmhfT2hGdGs3RF9hMzFkbzIyN0l6Um5nVlhaUV9GQlBNcWNqanJkU3NfMlhnc3NXSg?oc=5",
+    "chinese_title": "纽约市场 4 点 道琼斯工业平均指数上涨 512 美元 芝加哥日经指数期货 69,100 日元",
+    "chinese_summary": "纽约市场 4 点道琼斯工业平均指数上涨 512 美元 芝加哥日经股指期货上涨至 69,100 日元 Minkabu FX/Forex",
+    "detailed_japanese": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "Minkabu FX/Forex 报道称，“纽约市场 4 点道琼斯工业平均指数上涨 512 美元，芝加哥日经平均期货价格为 69,100 日元。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "シカゴ-Chicago",
+        "reading": "しかご",
+        "meaning": "芝加哥-芝加哥",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「シカゴ-Chicagoの＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円」と報じました。"
+      },
+      {
+        "word": "ドル-dollar",
+        "reading": "どる",
+        "meaning": "美元-美元",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ドル-dollarの＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円」と報じました。"
+      },
+      {
+        "word": "平均",
+        "reading": "へいきん",
+        "meaning": "平均的",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「平均の＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.67865630986111
+  },
+  {
+    "category": "娱乐",
+    "title": "『ホタルの嫁入り』ノンクレジットOP＆ED公開 Blu-ray＆DVD発売も決定",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uUWFSM1VVc2tBQkphTDJPRFpFRHlxZ3RzelFWODJOWnMwdXlIcHhjTHRnU3lBa2ZtdWpPamxqTWdpWkNRMHBzWHhZZDB5RDJCeS1GLVczS01PcDlEcE9Ec0h5M0dxRTNz?oc=5",
+    "published": "2026-10-10 00:05",
+    "japanese_summary": "『ホタルの嫁入り』ノンクレジットOP＆ED公開 Blu-ray＆DVD発売も決定 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uUWFSM1VVc2tBQkphTDJPRFpFRHlxZ3RzelFWODJOWnMwdXlIcHhjTHRnU3lBa2ZtdWpPamxqTWdpWkNRMHBzWHhZZDB5RDJCeS1GLVczS01PcDlEcE9Ec0h5M0dxRTNz?oc=5",
+    "chinese_title": "《萤火虫的婚礼》非片尾OP＆ED发行Blu-ray＆DVD也决定发行",
+    "chinese_summary": "《萤火虫的婚礼》非片尾OP＆ED发行Blu-ray＆DVD发行也决定每日新闻",
+    "detailed_japanese": "毎日新聞は「『ホタルの嫁入り』ノンクレジットOP＆ED公開 Blu-ray＆DVD発売も決定」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "据《每日新闻》报道，“《萤之夜》的非片尾OP和ED即将发行，蓝光和DVD发行也已确定。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "クレジット-credit",
+        "reading": "くれじっと",
+        "meaning": "信用-信用",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「クレジット-creditの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「『ホタルの嫁入り』ノンクレジットOP＆ED公開 Blu-ray＆DVD発売も決定」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "嫁入り",
+        "reading": "よめいり",
+        "meaning": "婚姻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「嫁入りの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「『ホタルの嫁入り』ノンクレジットOP＆ED公開 Blu-ray＆DVD発売も決定」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「『ホタルの嫁入り』ノンクレジットOP＆ED公開 Blu-ray＆DVD発売も決定」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 54.536989643194445
+  },
+  {
+    "category": "体育",
+    "title": "【最新版】2026年サッカー日本代表（各カテゴリー）試合日程・大会スケジュール・放送予定まとめ",
+    "source": "サッカーキング",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ialF6YWhPdWdGTWxLdGR1QzFwbUNCd2dqY0dZbU84eEtlb1k2SWdTMnNFRHUtRDVXYVhXeXNFaWpIU0dFYzlFNWE5dXRRdGtnT01ybG94RTJkalBtdXh1ZzdHVXU4R2RTMG5PZnZjeHhMMkU?oc=5",
+    "published": "2026-10-10 01:17",
+    "japanese_summary": "【最新版】2026年サッカー日本代表（各カテゴリー）試合日程・大会スケジュール・放送予定まとめ サッカーキング",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ialF6YWhPdWdGTWxLdGR1QzFwbUNCd2dqY0dZbU84eEtlb1k2SWdTMnNFRHUtRDVXYVhXeXNFaWpIU0dFYzlFNWE5dXRRdGtnT01ybG94RTJkalBtdXh1ZzdHVXU4R2RTMG5PZnZjeHhMMkU?oc=5",
+    "chinese_title": "[最新版本]2026年日本国家足球队（各组别的）比赛日程、比赛日程、转播日程汇总",
+    "chinese_summary": "[最新版本] 2026年日本国家足球队（各组别）比赛日程、比赛日程、转播日程汇总足球王",
+    "detailed_japanese": "サッカーキングは「【最新版】2026年サッカー日本代表（各カテゴリー）試合日程・大会スケジュール・放送予定まとめ」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《足球王》报道称，“[最新版本]2026年日本国家足球国家队（各类别）比赛日程、锦标赛日程和广播日程摘要。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "スケジュール-schedule",
+        "reading": "すけじゅーる",
+        "meaning": "时间表-时间表",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「スケジュール-scheduleの＋名词」构成修饰关系。",
+        "example": "サッカーキングは「【最新版】2026年サッカー日本代表（各カテゴリー）試合日程・大会スケジュール・放送予定まとめ」と報じました。"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "サッカーキングは「【最新版】2026年サッカー日本代表（各カテゴリー）試合日程・大会スケジュール・放送予定まとめ」と報じました。"
+      },
+      {
+        "word": "カテゴリー-category",
+        "reading": "かてごりー",
+        "meaning": "类别-类别",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「カテゴリー-categoryの＋名词」构成修饰关系。",
+        "example": "サッカーキングは「【最新版】2026年サッカー日本代表（各カテゴリー）試合日程・大会スケジュール・放送予定まとめ」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "キング-king",
+        "reading": "きんぐ",
+        "meaning": "王王",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「キング-kingの＋名词」构成修饰关系。",
+        "example": "サッカーキングは「【最新版】2026年サッカー日本代表（各カテゴリー）試合日程・大会スケジュール・放送予定まとめ」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "サッカーキングは「【最新版】2026年サッカー日本代表（各カテゴリー）試合日程・大会スケジュール・放送予定まとめ」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 38.13698964319444
+  },
+  {
+    "category": "社会",
+    "title": "【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzSTItb0Zray1BNDJCX1ZBWjkxcWVqZUNURUY0VlFDNGpHeFZOMDJwY1pYWGRhSjR5bkJyVWZGM0N3OFBYeXhqRFlXSXlKTHQyZ1JfcXNfaw?oc=5",
+    "published": "2026-10-10 04:11",
+    "japanese_summary": "【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzSTItb0Zray1BNDJCX1ZBWjkxcWVqZUNURUY0VlFDNGpHeFZOMDJwY1pYWGRhSjR5bkJyVWZGM0N3OFBYeXhqRFlXSXlKTHQyZ1JfcXNfaw?oc=5",
+    "chinese_title": "【突发新闻】巴拿马发生7.7级地震。日本沿海可能会出现轻微的海平面变化，但不用担心受到损害。",
+    "chinese_summary": "【突发新闻】巴拿马发生7.7级地震。日本沿海可能会出现轻微的海平面变化，但不用担心受到损害 TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TBS NEWS DIG 报道，“[突发新闻]巴拿马发生 7.7 级地震。日本沿海海平面可能会出现轻微变化，但不必担心受到损害。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "マグニチュード-magnitude",
+        "reading": "まぐにちゅーど",
+        "meaning": "震级-震级",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マグニチュード-magnitudeの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」"
+      },
+      {
+        "word": "パナマ-Panama",
+        "reading": "ぱなま",
+        "meaning": "巴拿马-巴拿马",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「パナマ-Panamaの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "起床",
+        "pos": "动词",
+        "usage": "原形是「起きる」，文中形式是「起きる」。活用类型：上一段-カ行。",
+        "example": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "TBS NEWS DIGは「【速報】パナマでマグニチュード7.7の地震 日本沿岸では若干の海面変動が起きる可能性があるものの被害の心配なし」"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 67.58698964319444
+  },
+  {
+    "category": "数码科技",
+    "title": "AIエージェント競争、誰が勝っても半導体株に追い風－需要持続に期待",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMFhUNFh6bW5OX3NScFFkUlNLMy1CUmFYal9aVDhmYXVjTEdmQ1hMNWx5d3lnUkxaVDZ4WV9ySUJtV0VvVktUdG8tUDVtZTB0YWpJcjg3LTJRb1ViNDhsY0FCT29hUnM?oc=5",
+    "published": "2026-10-10 01:30",
+    "japanese_summary": "AIエージェント競争、誰が勝っても半導体株に追い風－需要持続に期待 TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMFhUNFh6bW5OX3NScFFkUlNLMy1CUmFYal9aVDhmYXVjTEdmQ1hMNWx5d3lnUkxaVDZ4WV9ySUJtV0VvVktUdG8tUDVtZTB0YWpJcjg3LTJRb1ViNDhsY0FCT29hUnM?oc=5",
+    "chinese_title": "无论谁胜出，AI代理竞争对半导体股票来说都是顺风——对持续需求的预期",
+    "chinese_summary": "AI代理竞争，无论谁获胜，都将给半导体股票带来顺风 - 预计需求将持续 TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「AIエージェント競争、誰が勝っても半導体株に追い風－需要持続に期待」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TBS NEWS DIG 报道称，“人工智能代理竞争，无论谁获胜，都将为半导体股票带来顺风 - 预计需求将持续增长。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "エージェント-agent",
+        "reading": "えーじぇんと",
+        "meaning": "代理-代理",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「エージェント-agentの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「AIエージェント競争、誰が勝っても半導体株に追い風－需要持続に期待」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "追い風",
+        "reading": "おいかぜ",
+        "meaning": "顺风",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「追い風の＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「AIエージェント競争、誰が勝っても半導体株に追い風－需要持続に期待」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "TBS NEWS DIGは「AIエージェント競争、誰が勝っても半導体株に追い風－需要持続に期待」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 57.245322976527774
+  },
+  {
+    "category": "军事",
+    "title": "日米共同演習で在沖米兵の参加・内容は変更せず 自衛隊・制服組トップ",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zNE1jRG43UlFDbXpKMFlZb3E2VEI1Q0VuZWNvVTNOVnIyY3EzRXlmLWdjTGJZa21Odm1kdU9kSjl1NEdwaXVKYlhzTnluVWxpX3U1Zl9Ebw?oc=5",
+    "published": "2026-10-09 16:57",
+    "japanese_summary": "日米共同演習で在沖米兵の参加・内容は変更せず 自衛隊・制服組トップ TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zNE1jRG43UlFDbXpKMFlZb3E2VEI1Q0VuZWNvVTNOVnIyY3EzRXlmLWdjTGJZa21Odm1kdU9kSjl1NEdwaXVKYlhzTnluVWxpX3U1Zl9Ebw?oc=5",
+    "chinese_title": "驻冲绳美军参与日美联合演习的情况和内容保持不变。自卫队/制服上衣",
+    "chinese_summary": "驻冲绳美军参与日美联合演习的情况和内容保持不变。自卫队/制服组顶级 TBS 新闻 DIG",
+    "detailed_japanese": "TBS NEWS DIGは「日米共同演習で在沖米兵の参加・内容は変更せず 自衛隊・制服組トップ」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TBS NEWS DIG 报道称，“据自卫队和军装领导人称，驻冲绳美军士兵在日美联合演习中的参与和内容将保持不变。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "トップ-top",
+        "reading": "とっぷ",
+        "meaning": "顶顶",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「トップ-topの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「日米共同演習で在沖米兵の参加・内容は変更せず 自衛隊・制服組トップ」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "TBS NEWS DIGは「日米共同演習で在沖米兵の参加・内容は変更せず 自衛隊・制服組トップ」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 45.970322976527775
+  }
+]
