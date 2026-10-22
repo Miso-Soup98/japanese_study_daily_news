@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "日経平均、27年3月末に8万3000円 大和証券の壁谷氏",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQTlBDZE1oTVdpZ0JKaEtzQ1ZpMXViYVduZWpneE92YzZMRnNURlNZR1drNzY2dXQ3MThwT3dUYVp3MEN0empDSm9XTDh6ekY1bGxHWmxTak1xRW5kUDRDLVdLQ0ZFNnRZMkZJeA?oc=5",
+    "published": "2026-10-23 04:00",
+    "japanese_summary": "日経平均、27年3月末に8万3000円 大和証券の壁谷氏 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQTlBDZE1oTVdpZ0JKaEtzQ1ZpMXViYVduZWpneE92YzZMRnNURlNZR1drNzY2dXQ3MThwT3dUYVp3MEN0empDSm9XTDh6ekY1bGxHWmxTak1xRW5kUDRDLVdLQ0ZFNnRZMkZJeA?oc=5",
+    "chinese_title": "2027 年 3 月末日经平均指数 83,000 日元 大和证券 Kabetani 先生",
+    "chinese_summary": "2017 年 3 月末日经平均指数 83,000 日元 大和证券 Kabetani 先生 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「日経平均、27年3月末に8万3000円 大和証券の壁谷氏」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“大和证券的 Kabetani 表示，截至 2027 年 3 月，日经平均指数为 83,000 日元。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「日経平均、27年3月末に8万3000円 大和証券の壁谷氏」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "証券",
+        "reading": "しょうけん",
+        "meaning": "证券",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「証券の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「日経平均、27年3月末に8万3000円 大和証券の壁谷氏」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 63.96897777402778
+  },
+  {
+    "category": "政治",
+    "title": "社説：政治家と官僚の接触 全て記録し公開すべきだ",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkaWtPbU9UWkRjeUpkeTFZSkJSNUk0QzE0R003Y0JHc0E5YWpud1lkdzJma2VWbFkza0w2dkxNcTJTc3dNQ0NfUk5Ea2UtY3pWZERDbnpmUFJsZUdMMjFVMVJESjc4NUdP?oc=5",
+    "published": "2026-10-23 02:01",
+    "japanese_summary": "社説：政治家と官僚の接触 全て記録し公開すべきだ 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkaWtPbU9UWkRjeUpkeTFZSkJSNUk0QzE0R003Y0JHc0E5YWpud1lkdzJma2VWbFkza0w2dkxNcTJTc3dNQ0NfUk5Ea2UtY3pWZERDbnpmUFJsZUdMMjFVMVJESjc4NUdP?oc=5",
+    "chinese_title": "社论：政治家和官僚之间的所有接触都应该记录并公开。",
+    "chinese_summary": "社论：政治家和官僚之间的所有接触都应记录并公开每日新闻",
+    "detailed_japanese": "毎日新聞は「社説：政治家と官僚の接触 全て記録し公開すべきだ」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“社论：政客和官僚之间的所有接触都应记录并公开。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「社説：政治家と官僚の接触 全て記録し公開すべきだ」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "記録",
+        "reading": "きろく",
+        "meaning": "记录",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「記録の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「社説：政治家と官僚の接触 全て記録し公開すべきだ」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 46.97731110736111
+  },
+  {
+    "category": "经济",
+    "title": "日経平均、27年3月末に8万3000円 大和証券の壁谷氏",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQTlBDZE1oTVdpZ0JKaEtzQ1ZpMXViYVduZWpneE92YzZMRnNURlNZR1drNzY2dXQ3MThwT3dUYVp3MEN0empDSm9XTDh6ekY1bGxHWmxTak1xRW5kUDRDLVdLQ0ZFNnRZMkZJeA?oc=5",
+    "published": "2026-10-23 04:00",
+    "japanese_summary": "日経平均、27年3月末に8万3000円 大和証券の壁谷氏 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQTlBDZE1oTVdpZ0JKaEtzQ1ZpMXViYVduZWpneE92YzZMRnNURlNZR1drNzY2dXQ3MThwT3dUYVp3MEN0empDSm9XTDh6ekY1bGxHWmxTak1xRW5kUDRDLVdLQ0ZFNnRZMkZJeA?oc=5",
+    "chinese_title": "2027 年 3 月末日经平均指数 83,000 日元 大和证券 Kabetani 先生",
+    "chinese_summary": "2017 年 3 月末日经平均指数 83,000 日元 大和证券 Kabetani 先生 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「日経平均、27年3月末に8万3000円 大和証券の壁谷氏」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“大和证券的 Kabetani 表示，截至 2027 年 3 月，日经平均指数为 83,000 日元。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「日経平均、27年3月末に8万3000円 大和証券の壁谷氏」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "証券",
+        "reading": "しょうけん",
+        "meaning": "证券",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「証券の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「日経平均、27年3月末に8万3000円 大和証券の壁谷氏」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 63.96897777402778
+  },
+  {
+    "category": "娱乐",
+    "title": "オリコンニュース：映画『タコピーの原罪』新ビジュアル＆予告映像解禁 主題歌はTele「らびゅー」",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EUEhDbUtnNXFWRWp2NzJjZUg3RW5zdmxSZ2VjelZGbXp3VmxBOHlVbk1HaVlTazNGVkF1c3YwMExsZDNUeU1DNVl3THItVjRBYmZSR2dTd3ZSS1N0SzNmOHJMSF82OGpm?oc=5",
+    "published": "2026-10-23 00:00",
+    "japanese_summary": "オリコンニュース：映画『タコピーの原罪』新ビジュアル＆予告映像解禁 主題歌はTele「らびゅー」 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EUEhDbUtnNXFWRWp2NzJjZUg3RW5zdmxSZ2VjelZGbXp3VmxBOHlVbk1HaVlTazNGVkF1c3YwMExsZDNUeU1DNVl3THItVjRBYmZSR2dTd3ZSS1N0SzNmOHJMSF82OGpm?oc=5",
+    "chinese_title": "Oricon新闻：电影《Tacopee no Original Sin》新视觉图和预告片公开，主题曲为Tele“Raview”",
+    "chinese_summary": "Oricon新闻：电影《Tacopee no Original Sin》的新视觉和预览视频公开，主题曲为Tele“Rabyu”每日新闻",
+    "detailed_japanese": "毎日新聞は「オリコンニュース：映画『タコピーの原罪』新ビジュアル＆予告映像解禁 主題歌はTele「らびゅー」」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“Oricon新闻：电影《Tacopee's Original Sin》的新视觉和预览视频发布，主题曲是Tele ``Rabyu''。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "ビジュアル-visual",
+        "reading": "びじゅある",
+        "meaning": "视觉-视觉",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ビジュアル-visualの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：映画『タコピーの原罪』新ビジュアル＆予告映像解禁 主題歌はTele「らびゅー」」と報じました。"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：映画『タコピーの原罪』新ビジュアル＆予告映像解禁 主題歌はTele「らびゅー」」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "コピー-copy",
+        "reading": "こぴー",
+        "meaning": "复制复制",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「コピー-copyの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：映画『タコピーの原罪』新ビジュアル＆予告映像解禁 主題歌はTele「らびゅー」」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「オリコンニュース：映画『タコピーの原罪』新ビジュアル＆予告映像解禁 主題歌はTele「らびゅー」」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 52.96897777402778
+  },
+  {
+    "category": "体育",
+    "title": "【W杯2026】影山優佳、日本代表ゴールに喜び爆発 動画公開に反響相次ぐ",
+    "source": "山陽新聞デジタル｜さんデジ",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RV3NJcmlXY25CNS1URkVTMzNfa0pjZDlkSVZ6R3c0encxTzlPWFhVRUpCYWthNy1sZHFLTG5xM050NUdKbElQZUVqdk1YakUtYXhKcWhmcmdPTnhuQTNfWWs3dVRvalc2YkotUTdES3hRNElBQWV1aHVn?oc=5",
+    "published": "2026-10-23 00:23",
+    "japanese_summary": "【W杯2026】影山優佳、日本代表ゴールに喜び爆発 動画公開に反響相次ぐ 山陽新聞デジタル｜さんデジ",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RV3NJcmlXY25CNS1URkVTMzNfa0pjZDlkSVZ6R3c0encxTzlPWFhVRUpCYWthNy1sZHFLTG5xM050NUdKbElQZUVqdk1YakUtYXhKcWhmcmdPTnhuQTNfWWs3dVRvalc2YkotUTdES3hRNElBQWV1aHVn?oc=5",
+    "chinese_title": "[2026年世界杯] 影山由香为日本国家队进球后欣喜若狂。视频发布后反应纷纷",
+    "chinese_summary": "[2026 年世界杯] 影山由香为日本国家队进球后欣喜若狂。对视频发布的反应继续 三洋新闻数字 |圣迪吉",
+    "detailed_japanese": "山陽新聞デジタル｜さんデジは「【W杯2026】影山優佳、日本代表ゴールに喜び爆発 動画公開に反響相次ぐ」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "三洋新闻数码| SanDigi 报道称，“[2026 年世界杯] 影山由香为日本国家队进球后欣喜若狂。视频发布后，反应热烈。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "デジタル-digital",
+        "reading": "でじたる",
+        "meaning": "数字-数字",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「デジタル-digitalの＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「【W杯2026】影山優佳、日本代表ゴールに喜び爆発 動画公開に反響相次ぐ」と報じました。"
+      },
+      {
+        "word": "デジ-digital",
+        "reading": "でじ",
+        "meaning": "数字数字",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「デジ-digitalの＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「【W杯2026】影山優佳、日本代表ゴールに喜び爆発 動画公開に反響相次ぐ」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ゴール-goal",
+        "reading": "ごーる",
+        "meaning": "目标-目标",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ゴール-goalの＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「【W杯2026】影山優佳、日本代表ゴールに喜び爆発 動画公開に反響相次ぐ」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "山陽新聞デジタル｜さんデジは「【W杯2026】影山優佳、日本代表ゴールに喜び爆発 動画公開に反響相次ぐ」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 38.16064444069444
+  },
+  {
+    "category": "社会",
+    "title": "中国チベットでＭ7の地震、人的・物的被害は不明",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOWgtb3ZSVGtJWDFtUnYtcVVVclNJaS1oeUNhUl9YeUlnTkRrbFVIdG0xenpqWUxaY1V2SkExWUFmbnVTdlV1aXh4bkZJcWd3UE5qVVNSLTF4QzRqbW44alZUZHVZcWNyQnljaGFNVXl6cE5vN3VyRE1XV2s2Q0djM3BGQQ?oc=5",
+    "published": "2026-10-23 00:59",
+    "japanese_summary": "中国チベットでＭ7の地震、人的・物的被害は不明 Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOWgtb3ZSVGtJWDFtUnYtcVVVclNJaS1oeUNhUl9YeUlnTkRrbFVIdG0xenpqWUxaY1V2SkExWUFmbnVTdlV1aXh4bkZJcWd3UE5qVVNSLTF4QzRqbW44alZUZHVZcWNyQnljaGFNVXl6cE5vN3VyRE1XV2s2Q0djM3BGQQ?oc=5",
+    "chinese_title": "中国西藏发生 M7 级地震；人员和财产损失未知",
+    "chinese_summary": "中国西藏发生 M7 级地震，造成人员和财产损失未知 路透",
+    "detailed_japanese": "Reutersは「中国チベットでＭ7の地震、人的・物的被害は不明」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "路透社报道称，“中国西藏发生 M7 级地震；人员和财产损失未知。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "Reutersは「中国チベットでＭ7の地震、人的・物的被害は不明」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "被害",
+        "reading": "ひがい",
+        "meaning": "损害",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「被害の＋名词」构成修饰关系。",
+        "example": "Reutersは「中国チベットでＭ7の地震、人的・物的被害は不明」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 62.460644440694445
+  },
+  {
+    "category": "数码科技",
+    "title": "米ナスダック急落で一時2.8%安 メタは8%安、AI巨額投資に警戒再燃",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNWJZZjhaX2pEeDZUVGxDNFR2MmZzeTNnTi1fVG1pQ3lCQ2JnWERfUXlLQUhRWUdqUFBrc3czRjkwMVBaYVExWl9MUGt1OFBzMDctb2tHck85aE9JVUpoRTQ4S2o5emZmTzdPdQ?oc=5",
+    "published": "2026-10-23 03:33",
+    "japanese_summary": "米ナスダック急落で一時2.8%安 メタは8%安、AI巨額投資に警戒再燃 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNWJZZjhaX2pEeDZUVGxDNFR2MmZzeTNnTi1fVG1pQ3lCQ2JnWERfUXlLQUhRWUdqUFBrc3czRjkwMVBaYVExWl9MUGt1OFBzMDctb2tHck85aE9JVUpoRTQ4S2o5emZmTzdPdQ?oc=5",
+    "chinese_title": "美国纳斯达克暴跌，暂跌2.8%，Meta跌8%，对巨额AI投资重新警惕",
+    "chinese_summary": "美国纳斯达克暴跌，暂时下跌2.8%，Meta下跌8%，对巨额AI投资再次保持谨慎 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「米ナスダック急落で一時2.8%安 メタは8%安、AI巨額投資に警戒再燃」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“美国纳斯达克指数暴跌，暂时下跌 2.8%，Meta 下跌 8%，再次引发人们对大规模 AI 投资的警惕。”由于我们无法从原始文章中检索到足够的文字，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "メタ-meta",
+        "reading": "めた",
+        "meaning": "元元",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「メタ-metaの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「米ナスダック急落で一時2.8%安 メタは8%安、AI巨額投資に警戒再燃」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「米ナスダック急落で一時2.8%安 メタは8%安、AI巨額投資に警戒再燃」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "警戒",
+        "reading": "けいかい",
+        "meaning": "警觉",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「警戒の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「米ナスダック急落で一時2.8%安 メタは8%安、AI巨額投資に警戒再燃」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.743977774027776
+  },
+  {
+    "category": "军事",
+    "title": "中国軍哨戒機と情報収集機が沖縄本島・宮古島間や東シナ海を飛行（10月20日、Y-9）",
+    "source": "J ディフェンス ニュース",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2cmtwbS1abDBrZHpsTURRb04xLVVPYVdzbllGMm9saE85RFNJY0FmSU51X29fT1p4ZnYwN3ZkSzBYTGE3M2l1MWVUd3NMSk11dnNteVBlalktb2k0?oc=5",
+    "published": "2026-10-22 20:31",
+    "japanese_summary": "中国軍哨戒機と情報収集機が沖縄本島・宮古島間や東シナ海を飛行（10月20日、Y-9） J ディフェンス ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2cmtwbS1abDBrZHpsTURRb04xLVVPYVdzbllGMm9saE85RFNJY0FmSU51X29fT1p4ZnYwN3ZkSzBYTGE3M2l1MWVUd3NMSk11dnNteVBlalktb2k0?oc=5",
+    "chinese_title": "中国军用巡逻机和情报收集机在冲绳本岛、宫古岛和东海之间飞行（10月20日Y-9）",
+    "chinese_summary": "中国军用巡逻机和情报收集机在冲绳岛、宫古岛和东海之间飞行（10月20日，Y-9） J防务新闻",
+    "detailed_japanese": "J ディフェンス ニュースは「中国軍哨戒機と情報収集機が沖縄本島・宮古島間や東シナ海を飛行（10月20日、Y-9）」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《J防务新闻》报道称，“中国军用巡逻机和情报收集机在冲绳本岛、宫古岛和东海之间飞行（10月20日，Y-9）。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ディフェンス-defense",
+        "reading": "でぃふぇんす",
+        "meaning": "防御-防御",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ディフェンス-defenseの＋名词」构成修饰关系。",
+        "example": "J ディフェンス ニュースは「中国軍哨戒機と情報収集機が沖縄本島・宮古島間や東シナ海を飛行（10月20日、Y-9）」と報じました。"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "J ディフェンス ニュースは「中国軍哨戒機と情報収集機が沖縄本島・宮古島間や東シナ海を飛行（10月20日、Y-9）」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "J ディフェンス ニュースは「中国軍哨戒機と情報収集機が沖縄本島・宮古島間や東シナ海を飛行（10月20日、Y-9）」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 36.22731110736111
+  }
+]
