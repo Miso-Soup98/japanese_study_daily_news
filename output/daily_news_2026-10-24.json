@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRkY3SXp0YldDOGQwZWNKWnZPU1djZk9veGdnTlBST0FqRy1wZFRjV2RnRUhGRXMtcEdoclZ0TmJSczdQa01iTDlsdk5xSWJRTmJ5dUN5dkxRY09na3R2MWNlSk1wczU2?oc=5",
+    "published": "2026-10-24 01:12",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRkY3SXp0YldDOGQwZWNKWnZPU1djZk9veGdnTlBST0FqRy1wZFRjV2RnRUhGRXMtcEdoclZ0TmJSczdQa01iTDlsdk5xSWJRTmJ5dUN5dkxRY09na3R2MWNlSk1wczU2?oc=5",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 57.65107438208334
+  },
+  {
+    "category": "政治",
+    "title": "呉世勲ソウル市長、政治人生3度目の起死回生…野党「保守統合の求心点に」",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDVMRERNVkdZTmEyWC1ld0p3ZWtDaEp2LVc1Qm8zRjFWNkxjbkhYa1JXLWNQYXpCLTktb1F1UlJzcV9oRTlaSlJHRHQ0NVRMcjlsUVZmUGpncGVtQ3ZLMVc4a0pnZGxVbTg1cHQ3cHNhYVBkdEt2WFJRNnJBcUtEbDRpY3hDeWRKNVVUS21B?oc=5",
+    "published": "2026-10-24 00:38",
+    "japanese_summary": "呉世勲ソウル市長、政治人生3度目の起死回生…野党「保守統合の求心点に」 조선일보",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDVMRERNVkdZTmEyWC1ld0p3ZWtDaEp2LVc1Qm8zRjFWNkxjbkhYa1JXLWNQYXpCLTktb1F1UlJzcV9oRTlaSlJHRHQ0NVRMcjlsUVZmUGpncGVtQ3ZLMVc4a0pnZGxVbTg1cHQ3cHNhYVBkdEt2WFJRNnJBcUtEbDRpY3hDeWRKNVVUS21B?oc=5",
+    "chinese_title": "首尔市长吴世勋政治生涯第三次复出...在野党称他将成为保守派统一的焦点",
+    "chinese_summary": "首尔市长吴世勋政治生涯第三次复出...在野党称他将成为保守派统一的焦点",
+    "detailed_japanese": "조선일보は「呉世勲ソウル市長、政治人生3度目の起死回生…野党「保守統合の求心点に」」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "조선일보报道称，“首尔市长吴世勋政治生涯第三次复出……成为在野党保守统一的焦点”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "조선일보は「呉世勲ソウル市長、政治人生3度目の起死回生…野党「保守統合の求心点に」」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "野党",
+        "reading": "やとう",
+        "meaning": "反对党",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「野党の＋名词」构成修饰关系。",
+        "example": "조선일보は「呉世勲ソウル市長、政治人生3度目の起死回生…野党「保守統合の求心点に」」と報じました。"
+      },
+      {
+        "word": "起死",
+        "reading": "きし",
+        "meaning": "升起与死亡",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「起死の＋名词」构成修饰关系。",
+        "example": "조선일보は「呉世勲ソウル市長、政治人生3度目の起死回生…野党「保守統合の求心点に」」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 38.36774104875
+  },
+  {
+    "category": "经济",
+    "title": "米中間選挙後の金融市場",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sMy1VVWVDQjlnUS0ydzdXbjlhQ185SXU2UmF5YzBWeU02VmgxcUFSY3FaaTFhaTNRaWJMaDY1WkJ1c1VJYTZuOFFyYVdoSFA5UnlCRHpjeXQ5QXNvaDB0alJXZzZ5cGR0dEx5aQ?oc=5",
+    "published": "2026-10-24 02:00",
+    "japanese_summary": "米中間選挙後の金融市場 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sMy1VVWVDQjlnUS0ydzdXbjlhQ185SXU2UmF5YzBWeU02VmgxcUFSY3FaaTFhaTNRaWJMaDY1WkJ1c1VJYTZuOFFyYVdoSFA5UnlCRHpjeXQ5QXNvaDB0alJXZzZ5cGR0dEx5aQ?oc=5",
+    "chinese_title": "美国中期选举后的金融市场",
+    "chinese_summary": "美国中期选举后的金融市场 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「米中間選挙後の金融市場」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道了“美国中期选举后的金融市场”。由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「米中間選挙後の金融市場」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "金融",
+        "reading": "きんゆう",
+        "meaning": "金融",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「金融の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「米中間選挙後の金融市場」と報じました。"
+      },
+      {
+        "word": "選挙",
+        "reading": "せんきょ",
+        "meaning": "选举",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「選挙の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「米中間選挙後の金融市場」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.05107438208333
+  },
+  {
+    "category": "娱乐",
+    "title": "BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【オリコンランキング】",
+    "source": "山陽新聞デジタル｜さんデジ",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFNMVzZOQWJvLU9rWVEzTlJ1TVpOWHFWQ3FNeGtNYVdqQzRDQTJ3TWxUQ2ZWZEx0ZXVtaUprYk9KZVpJcUw4YzF3UDduR1RxUjB3U2ItN2ZISzBFbEw0T1kxYmdZVG5BbE9mNVBudkZiNVZpVzM1eXUxVXF6QW03aGpBY1lLUQ?oc=5",
+    "published": "2026-10-24 01:41",
+    "japanese_summary": "BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【オリコンランキング】 山陽新聞デジタル｜さんデジ",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFNMVzZOQWJvLU9rWVEzTlJ1TVpOWHFWQ3FNeGtNYVdqQzRDQTJ3TWxUQ2ZWZEx0ZXVtaUprYk9KZVpJcUw4YzF3UDduR1RxUjB3U2ItN2ZISzBFbEw0T1kxYmdZVG5BbE9mNVBudkZiNVZpVzM1eXUxVXF6QW03aGpBY1lLUQ?oc=5",
+    "chinese_title": "BE:FIRST新歌出道第36位 新组合A2O LITE出道歌曲、Travis Japan新歌也[Oricon排名]",
+    "chinese_summary": "BE:FIRST新歌出道第36名 新组合A2O LITE出道歌曲、Travis Japan新歌也【Oricon排名】三洋新闻数码|圣迪吉",
+    "detailed_japanese": "山陽新聞デジタル｜さんデジは「BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【オリコンランキング】」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "三洋新闻数码| San Digi 报道称，“BE:FIRST 的新歌首次亮相排名第 36 位，新组合 A2O LITE 的出道歌曲以及 Travis Japan 的新歌也在 [Oricon 排名]。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "ランキング-ranking",
+        "reading": "らんきんぐ",
+        "meaning": "排名-排名",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ランキング-rankingの＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【"
+      },
+      {
+        "word": "デジタル-digital",
+        "reading": "でじたる",
+        "meaning": "数字-数字",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「デジタル-digitalの＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【"
+      },
+      {
+        "word": "デビュー-debut",
+        "reading": "でびゅー",
+        "meaning": "首次亮相-首次亮相",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「デビュー-debutの＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【"
+      },
+      {
+        "word": "デジ-digital",
+        "reading": "でじ",
+        "meaning": "数字数字",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「デジ-digitalの＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【"
+      },
+      {
+        "word": "グループ-group",
+        "reading": "ぐるーぷ",
+        "meaning": "组-组",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「グループ-groupの＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【"
+      },
+      {
+        "word": "新曲",
+        "reading": "しんきょく",
+        "meaning": "新歌",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「新曲の＋名词」构成修饰关系。",
+        "example": "山陽新聞デジタル｜さんデジは「BE:FIRST新曲、36位に初登場 新グループ・A2O LITEデビュー曲、Travis Japan新曲も【"
+      }
+    ],
+    "grammar": [],
+    "score": 38.89274104875
+  },
+  {
+    "category": "体育",
+    "title": "FIFA U-17女子ワールドカップ2026丨結果速報・リトルなでしこ・日本代表・順位・成績一覧",
+    "source": "Olympics",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQkdRZ0hQVkVTekd4V1Y5S0ZxRkY5WUtxR0I1MnZYNWNfTE9XOVhBWnZEaVoxSHBNWkJ0c3B5TWI4ckNnZ2ZfUTZpaFZkWlY2emYwcmdBNnU0dDdXYkQ4U0EzNHRKRW5aTEpkWms4NDNiazZPQkt4QWVFZU54ekEyUlFBeTNmZw?oc=5",
+    "published": "2026-10-23 10:10",
+    "japanese_summary": "FIFA U-17女子ワールドカップ2026丨結果速報・リトルなでしこ・日本代表・順位・成績一覧 Olympics",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQkdRZ0hQVkVTekd4V1Y5S0ZxRkY5WUtxR0I1MnZYNWNfTE9XOVhBWnZEaVoxSHBNWkJ0c3B5TWI4ckNnZ2ZfUTZpaFZkWlY2emYwcmdBNnU0dDdXYkQ4U0EzNHRKRW5aTEpkWms4NDNiazZPQkt4QWVFZU54ekEyUlFBeTNmZw?oc=5",
+    "chinese_title": "2026年FIFA U-17女足世界杯丨成绩、小抚子、日本国家队、排名、成绩表",
+    "chinese_summary": "FIFA U-17 女子世界杯 2026 丨成绩/小抚子/日本国家队/排名/成绩 奥运会",
+    "detailed_japanese": "Olympicsは「FIFA U-17女子ワールドカップ2026丨結果速報・リトルなでしこ・日本代表・順位・成績一覧」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "Olympics 报道，“FIFA U-17 女子世界杯 2026 丨 结果，小抚子，日本国家队，排名，结果列表。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ワールド-world",
+        "reading": "わーるど",
+        "meaning": "世界-世界",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ワールド-worldの＋名词」构成修饰关系。",
+        "example": "Olympicsは「FIFA U-17女子ワールドカップ2026丨結果速報・リトルなでしこ・日本代表・順位・成績一覧」と報じました。"
+      },
+      {
+        "word": "リトル-little",
+        "reading": "りとる",
+        "meaning": "小小",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リトル-littleの＋名词」构成修饰关系。",
+        "example": "Olympicsは「FIFA U-17女子ワールドカップ2026丨結果速報・リトルなでしこ・日本代表・順位・成績一覧」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "カップ-cup",
+        "reading": "かっぷ",
+        "meaning": "杯杯",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「カップ-cupの＋名词」构成修饰关系。",
+        "example": "Olympicsは「FIFA U-17女子ワールドカップ2026丨結果速報・リトルなでしこ・日本代表・順位・成績一覧」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "Olympicsは「FIFA U-17女子ワールドカップ2026丨結果速報・リトルなでしこ・日本代表・順位・成績一覧」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 47.134407715416664
+  },
+  {
+    "category": "社会",
+    "title": "災害情報：地震",
+    "source": "FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRkY3SXp0YldDOGQwZWNKWnZPU1djZk9veGdnTlBST0FqRy1wZFRjV2RnRUhGRXMtcEdoclZ0TmJSczdQa01iTDlsdk5xSWJRTmJ5dUN5dkxRY09na3R2MWNlSk1wczU2?oc=5",
+    "published": "2026-10-24 01:12",
+    "japanese_summary": "災害情報：地震 FNNプライムオンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRkY3SXp0YldDOGQwZWNKWnZPU1djZk9veGdnTlBST0FqRy1wZFRjV2RnRUhGRXMtcEdoclZ0TmJSczdQa01iTDlsdk5xSWJRTmJ5dUN5dkxRY09na3R2MWNlSk1wczU2?oc=5",
+    "chinese_title": "灾害信息：地震",
+    "chinese_summary": "灾害信息：地震 FNN Prime Online",
+    "detailed_japanese": "FNNプライムオンラインは「災害情報：地震」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "FNN Prime Online报道了“灾害信息：地震”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "プライム-prime",
+        "reading": "ぷらいむ",
+        "meaning": "素数素数",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プライム-primeの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ライン-line",
+        "reading": "らいん",
+        "meaning": "线-线",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ライン-lineの＋名词」构成修饰关系。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "FNNプライムオンラインは「災害情報：地震」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 57.65107438208334
+  },
+  {
+    "category": "数码科技",
+    "title": "‍‍‍NSFW AI Image Generator Review：免費存取",
+    "source": "小豆島町",
+    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNRlVSUmpBYU1tU3dVMXRzNXdfQ1dIQ0ppUGFqQ3l0bjZZNGVSamZUUWJfTGtTRTEwQmVsVmMzYV85VWFkaXY4d1ZtX1VWbkpEQlZTNktQamRhby14YmZMREJjZmNfQ2dJLTZQSkRhY0pwWXBtUVdGcDhha0lDR2laV2VCSkdONlB4cC13Z3BWbkdTS09VQ0dza0owYTdMb092TFV2MzIweU1Mc1NlNktFMnh5MzRBWml2dnRveTJCZTFQMVVNVGc0OXlncENUUmQ5THBEQzZFaHFDMWtuSkJfaEdUQnpCVU9scldSUmVnalRZMlBSb1VXVzNRV2NWaEUtcG5kTmM0OHh4NUplOUpsMmh0S0t6OUEwVmltQmlRdk9nSTY4MlZ2V2c3cEowOU0?oc=5",
+    "published": "2026-10-24 03:50",
+    "japanese_summary": "‍‍‍NSFW AI Image Generator Review：免費存取 小豆島町",
+    "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNRlVSUmpBYU1tU3dVMXRzNXdfQ1dIQ0ppUGFqQ3l0bjZZNGVSamZUUWJfTGtTRTEwQmVsVmMzYV85VWFkaXY4d1ZtX1VWbkpEQlZTNktQamRhby14YmZMREJjZmNfQ2dJLTZQSkRhY0pwWXBtUVdGcDhha0lDR2laV2VCSkdONlB4cC13Z3BWbkdTS09VQ0dza0owYTdMb092TFV2MzIweU1Mc1NlNktFMnh5MzRBWml2dnRveTJCZTFQMVVNVGc0OXlncENUUmQ5THBEQzZFaHFDMWtuSkJfaEdUQnpCVU9scldSUmVnalRZMlBSb1VXVzNRV2NWaEUtcG5kTmM0OHh4NUplOUpsMmh0S0t6OUEwVmltQmlRdk9nSTY4MlZ2V2c3cEowOU0?oc=5",
+    "chinese_title": "‍‍‍NSFW AI 图像生成器评测：免费",
+    "chinese_summary": "‍‍‍NSFW AI图像生成器评测：免费进入小豆岛町",
+    "detailed_japanese": "小豆島町は「‍‍‍NSFW AI Image Generator Review：免費存取」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "小豆岛镇报道称，“NSFW AI 图像生成器评论：免费收集”。由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "小豆島町は「‍‍‍NSFW AI Image Generator Review：免費存取」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ショウドシマ",
+        "reading": "しょうどしま",
+        "meaning": "小豆岛",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ショウドシマの＋名词」构成修饰关系。",
+        "example": "小豆島町は「‍‍‍NSFW AI Image Generator Review：免費存取」と報じました。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 39.96774104875
+  },
+  {
+    "category": "军事",
+    "title": "小泉防衛相、防衛装備庁の研究所体制を改編へ 機能別に再編",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mQUJjdS0wY3ZlN3R5emV3dXYzNEI3N2R0bVZvSDRXN0hrS0F5cEs4Z3pJbHA5RG9CVUxIUGR4QzdPbTRtMW5DYXRrQmhQemFPQXYzTllwMXI4aWwzLWc2WGV6MWVWQmhz?oc=5",
+    "published": "2026-10-23 17:38",
+    "japanese_summary": "小泉防衛相、防衛装備庁の研究所体制を改編へ 機能別に再編 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mQUJjdS0wY3ZlN3R5emV3dXYzNEI3N2R0bVZvSDRXN0hrS0F5cEs4Z3pJbHA5RG9CVUxIUGR4QzdPbTRtMW5DYXRrQmhQemFPQXYzTllwMXI4aWwzLWc2WGV6MWVWQmhz?oc=5",
+    "chinese_title": "防卫大臣小泉计划按职能重组防卫装备厅研究所结构",
+    "chinese_summary": "防卫大臣小泉计划按职能重组防卫装备厅研究所结构每日新闻",
+    "detailed_japanese": "毎日新聞は「小泉防衛相、防衛装備庁の研究所体制を改編へ 機能別に再編」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“防卫大臣小泉计划按职能重组防卫装备厅的研究所结构。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "防衛",
+        "reading": "ぼうえい",
+        "meaning": "防御",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「防衛の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「小泉防衛相、防衛装備庁の研究所体制を改編へ 機能別に再編」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「小泉防衛相、防衛装備庁の研究所体制を改編へ 機能別に再編」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 42.86774104875
+  }
+]
