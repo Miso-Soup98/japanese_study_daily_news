@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "NYダウ一進一退、決算発表のボーイングに売り AI株高が支え",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43QS1UN2lqcF9NUmVEa2NkQzBEMW1fbm10Y0RUNG1YOFMwZ2REUzdxUWYyYUZQNGE2Z25TeW9CUTgzZEhoaFpKbFlBN0phb1ZkNU9aMXZ2OHgzU1lNUUQ5dnAyN1JkY2x3UW9mbA?oc=5",
+    "published": "2026-10-28 00:14",
+    "japanese_summary": "NYダウ一進一退、決算発表のボーイングに売り AI株高が支え 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43QS1UN2lqcF9NUmVEa2NkQzBEMW1fbm10Y0RUNG1YOFMwZ2REUzdxUWYyYUZQNGE2Z25TeW9CUTgzZEhoaFpKbFlBN0phb1ZkNU9aMXZ2OHgzU1lNUUQ5dnAyN1JkY2x3UW9mbA?oc=5",
+    "chinese_title": "受人工智能股价上涨的支撑，纽约道指波动，公布财务业绩后抛售波音",
+    "chinese_summary": "受人工智能股上涨的支撑，纽约道指波动，公布财务业绩后抛售波音 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「NYダウ一進一退、決算発表のボーイングに売り AI株高が支え」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“在人工智能股票上涨的支撑下，纽约道琼斯指数波动，波音公司在公布财务业绩后卖出。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ボーイング-Boeing",
+        "reading": "ぼーいんぐ",
+        "meaning": "波音公司",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ボーイング-Boeingの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「NYダウ一進一退、決算発表のボーイングに売り AI株高が支え」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「NYダウ一進一退、決算発表のボーイングに売り AI株高が支え」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ダウ-Dow",
+        "reading": "だう",
+        "meaning": "陶氏化学",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ダウ-Dowの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「NYダウ一進一退、決算発表のボーイングに売り AI株高が支え」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 63.6935358525
+  },
+  {
+    "category": "政治",
+    "title": "「情熱の連鎖」 足跡たどる 明治の民権家・石阪昌孝の家族史 記事や書簡140点、町田で企画展 ／東京",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zQm12ekZKb2ZLaHV3OTZYN3NObHNYWjVOa2dVYU9rUmhDbzRGT3lPaEx4c3BpaUhnbDVlVDlHRGV5T1JYRFk3TVhWdm9HVFJmQndXSmZ6VlJzNGMzaHRMUUR6X2IyUUM0?oc=5",
+    "published": "2026-10-28 03:24",
+    "japanese_summary": "「情熱の連鎖」 足跡たどる 明治の民権家・石阪昌孝の家族史 記事や書簡140点、町田で企画展 ／東京 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zQm12ekZKb2ZLaHV3OTZYN3NObHNYWjVOa2dVYU9rUmhDbzRGT3lPaEx4c3BpaUhnbDVlVDlHRGV5T1JYRFk3TVhWdm9HVFJmQndXSmZ6VlJzNGMzaHRMUUR6X2IyUUM0?oc=5",
+    "chinese_title": "“激情之链”：追踪明治民权活动家石坂正孝的足迹：140篇文章和信件的家族史，计划在町田/东京举办展览",
+    "chinese_summary": "“激情之链”：追寻明治民权活动家石坂正孝的家族历史——町田/东京每日新闻上展出的 140 篇文章和信件",
+    "detailed_japanese": "毎日新聞は「「情熱の連鎖」 足跡たどる 明治の民権家・石阪昌孝の家族史 記事や書簡140点、町田で企画展 ／東京」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“追随激情链条的脚步：明治民权活动家石坂正孝的家族史：将在町田/东京展出的 140 篇文章和信件。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「「情熱の連鎖」 足跡たどる 明治の民権家・石阪昌孝の家族史 記事や書簡140点、町田で企画展 ／東京」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "連鎖",
+        "reading": "れんさ",
+        "meaning": "链",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「連鎖の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「「情熱の連鎖」 足跡たどる 明治の民権家・石阪昌孝の家族史 記事や書簡140点、町田で企画展 ／東京」と報じました。"
+      },
+      {
+        "word": "辿る",
+        "reading": "たどる",
+        "meaning": "跟随",
+        "pos": "动词",
+        "usage": "原形是「辿る」，文中形式是「たどる」。活用类型：五段-ラ行。",
+        "example": "毎日新聞は「「情熱の連鎖」 足跡たどる 明治の民権家・石阪昌孝の家族史 記事や書簡140点、町田で企画展 ／東京」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 47.276869185833334
+  },
+  {
+    "category": "经济",
+    "title": "ＮＹ各市場 ４時台 ダウ平均は小幅高 シカゴ日経平均先物は６万４３４０円",
+    "source": "みんかぶ FX/為替",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CZHNicUt1WUt2eFdJbUtjVXQxQ2oyOE14YlVINmpUQ21jMmotNVNEX05XRGlua3hRdXhyU1J3NGpRUTVQSHRncA?oc=5",
+    "published": "2026-10-28 04:03",
+    "japanese_summary": "ＮＹ各市場 ４時台 ダウ平均は小幅高 シカゴ日経平均先物は６万４３４０円 みんかぶ FX/為替",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CZHNicUt1WUt2eFdJbUtjVXQxQ2oyOE14YlVINmpUQ21jMmotNVNEX05XRGlua3hRdXhyU1J3NGpRUTVQSHRncA?oc=5",
+    "chinese_title": "纽约市场4点道指小幅走高芝加哥日经平均期货64,340日元",
+    "chinese_summary": "纽约市场 4 点道指小幅走高 芝加哥日经平均指数期货 64,340 日元 Minkabu FX/Forex",
+    "detailed_japanese": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は小幅高 シカゴ日経平均先物は６万４３４０円」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "Minkabu FX/Forex 报道称，“纽约市场 4 点道琼斯平均指数小幅走高，芝加哥日经指数期货平均价格为 64,340 日元。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "シカゴ-Chicago",
+        "reading": "しかご",
+        "meaning": "（在线翻译暂时不可用，请稍后重新生成。）",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「シカゴ-Chicagoの＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は小幅高 シカゴ日経平均先物は６万４３４０円」と報じました。"
+      },
+      {
+        "word": "平均",
+        "reading": "へいきん",
+        "meaning": "平均的",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「平均の＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は小幅高 シカゴ日経平均先物は６万４３４０円」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は小幅高 シカゴ日経平均先物は６万４３４０円」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ４時台 ダウ平均は小幅高 シカゴ日経平均先物は６万４３４０円」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.60186918583334
+  },
+  {
+    "category": "娱乐",
+    "title": "日テレ系M!LK冠番組『ザッツ M!LK』正月特番放送決定 吉田仁人「全力で頑張ります！」【コメント全文】（オリコン）",
+    "source": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaaW5MXzBvMUEyY3hoc0Y1b0RnNHlzYzdGckZNMlFRMUlFZmZyeHN2allFLXhtVllQQS1FRzJkTHFzTVlwSTkzRlVlVW0yZVdIWnhlN1BfNVJ2V0F5LW5qUmIxY3FsNkRsb0pnZEgyY2dyWWlaSmg2LTc4em9KTzQ?oc=5",
+    "published": "2026-10-28 00:59",
+    "japanese_summary": "日テレ系M!LK冠番組『ザッツ M!LK』正月特番放送決定 吉田仁人「全力で頑張ります！」【コメント全文】（オリコン） Yahoo!ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaaW5MXzBvMUEyY3hoc0Y1b0RnNHlzYzdGckZNMlFRMUlFZmZyeHN2allFLXhtVllQQS1FRzJkTHFzTVlwSTkzRlVlVW0yZVdIWnhlN1BfNVJ2V0F5LW5qUmIxY3FsNkRsb0pnZEgyY2dyWWlaSmg2LTc4em9KTzQ?oc=5",
+    "chinese_title": "日本电视台M!LK赞助节目《That's M!LK》新年特别节目即将播出吉田仁“我会努力的！” [完整评论]（Oricon）",
+    "chinese_summary": "日本电视台的M!LK赞助节目《That's M!LK》将作为新年特别节目播出。吉田仁：“我会尽力的！” [完整评论]（Oricon）雅虎！消息",
+    "detailed_japanese": "Yahoo!ニュースは「日テレ系M!LK冠番組『ザッツ M!LK』正月特番放送決定 吉田仁人「全力で頑張ります！」【コメント全文】（オリコン）」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "雅虎！新闻报道称，“日本电视台的 M!LK 赞助节目《That's M!LK》将作为新年特别节目播出。吉田人“我会尽力而为！”[完整评论]（Oricon）。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "コメント-comment",
+        "reading": "こめんと",
+        "meaning": "评论-评论",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「コメント-commentの＋名词」构成修饰关系。",
+        "example": "」【コメント全文】（オリコン）」と報じました。"
+      },
+      {
+        "word": "ザッツ-That's",
+        "reading": "ざっつ",
+        "meaning": "那是",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ザッツ-That'sの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「日テレ系M!LK冠番組『ザッツ M!LK』正月特番放送決定 吉田仁人「全力で頑張ります！"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「日テレ系M!LK冠番組『ザッツ M!LK』正月特番放送決定 吉田仁人「全力で頑張ります！"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "頑張る",
+        "reading": "がんばり",
+        "meaning": "尽力而为",
+        "pos": "动词",
+        "usage": "原形是「頑張る」，文中形式是「頑張り」。活用类型：五段-ラ行。",
+        "example": "Yahoo!ニュースは「日テレ系M!LK冠番組『ザッツ M!LK』正月特番放送決定 吉田仁人「全力で頑張ります！"
+      },
+      {
+        "word": "日テレ",
+        "reading": "にってれ",
+        "meaning": "国家电视台",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「日テレの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「日テレ系M!LK冠番組『ザッツ M!LK』正月特番放送決定 吉田仁人「全力で頑張ります！"
+      }
+    ],
+    "grammar": [],
+    "score": 40.0685358525
+  },
+  {
+    "category": "体育",
+    "title": "【サッカー日本代表】Ｗ杯の荷物は１０トン超え 代表の元キットマネージャーが明かした舞台裏",
+    "source": "読売新聞",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0aEViTzREVmNaLUVDLXdPNlEwcDA2RlRyc29INTdtczNaVFB6U0x6cHdsczNZZ096cHViN3hFNzkxZUN1aS16T28zejg0NnRjektOeVV5RGdNUGRZLURFVG5pV05HOGhlY2RiVVpYaU5GZw?oc=5",
+    "published": "2026-10-27 11:00",
+    "japanese_summary": "【サッカー日本代表】Ｗ杯の荷物は１０トン超え 代表の元キットマネージャーが明かした舞台裏 読売新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0aEViTzREVmNaLUVDLXdPNlEwcDA2RlRyc29INTdtczNaVFB6U0x6cHdsczNZZ096cHViN3hFNzkxZUN1aS16T28zejg0NnRjektOeVV5RGdNUGRZLURFVG5pV05HOGhlY2RiVVpYaU5GZw?oc=5",
+    "chinese_title": "【日本国足国家队】世界杯行李超10吨，国家队前装备经理幕后揭秘",
+    "chinese_summary": "【日本国足国家队】世界杯行李超10吨，球队前装备经理幕后揭秘 读卖新闻",
+    "detailed_japanese": "読売新聞は「【サッカー日本代表】Ｗ杯の荷物は１０トン超え 代表の元キットマネージャーが明かした舞台裏」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《读卖新闻》报道称，“[日本国家足球队]世界杯行李重量超过10吨；国家队前球衣经理透露的幕后故事。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "マネージャー-manager",
+        "reading": "まねーじゃー",
+        "meaning": "经理-经理",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マネージャー-managerの＋名词」构成修饰关系。",
+        "example": "読売新聞は「【サッカー日本代表】Ｗ杯の荷物は１０トン超え 代表の元キットマネージャーが明かした舞台裏」と報じました。"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "読売新聞は「【サッカー日本代表】Ｗ杯の荷物は１０トン超え 代表の元キットマネージャーが明かした舞台裏」と報じました。"
+      },
+      {
+        "word": "代表",
+        "reading": "だいひょう",
+        "meaning": "代表",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「代表の＋名词」构成修饰关系。",
+        "example": "読売新聞は「【サッカー日本代表】Ｗ杯の荷物は１０トン超え 代表の元キットマネージャーが明かした舞台裏」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "読み売り",
+        "reading": "よみうり",
+        "meaning": "读卖",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「読み売りの＋名词」构成修饰关系。",
+        "example": "読売新聞は「【サッカー日本代表】Ｗ杯の荷物は１０トン超え 代表の元キットマネージャーが明かした舞台裏」と報じました。"
+      },
+      {
+        "word": "キット-kit",
+        "reading": "きっと",
+        "meaning": "套件",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「キット-kitの＋名词」构成修饰关系。",
+        "example": "読売新聞は「【サッカー日本代表】Ｗ杯の荷物は１０トン超え 代表の元キットマネージャーが明かした舞台裏」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.07686918583333
+  },
+  {
+    "category": "社会",
+    "title": "被災文化財修復にクラウドファンディング 熊本、能登地震で活用広がる",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XNU9ZNjNhVFVjd2pFQmxXT3c0R2JTVUFlU3k2SXlBWGZxU0c5c0x5bEYtWjVRZkt1NWtiWTNTTVZfMGJOOVJOLTJBc2dmUUpkcHdyMU4waUhZT3JJRnlobFVxdE0yX3VqSDNYSg?oc=5",
+    "published": "2026-10-28 02:00",
+    "japanese_summary": "被災文化財修復にクラウドファンディング 熊本、能登地震で活用広がる 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XNU9ZNjNhVFVjd2pFQmxXT3c0R2JTVUFlU3k2SXlBWGZxU0c5c0x5bEYtWjVRZkt1NWtiWTNTTVZfMGJOOVJOLTJBc2dmUUpkcHdyMU4waUhZT3JJRnlobFVxdE0yX3VqSDNYSg?oc=5",
+    "chinese_title": "熊本和能登地震后受损文化财产修复的众筹活动蔓延",
+    "chinese_summary": "熊本地震和能登地震后，为修复受损文化财产而开展的众筹活动 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「被災文化財修復にクラウドファンディング 熊本、能登地震で活用広がる」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“熊本地震和能登地震后，用于恢复受灾文化财产的众筹得到了扩展。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "クラウド-crowd",
+        "reading": "くらうど",
+        "meaning": "云人群",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「クラウド-crowdの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「被災文化財修復にクラウドファンディング 熊本、能登地震で活用広がる」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ファンディング",
+        "reading": "ふぁんでぃんぐ",
+        "meaning": "资金",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ファンディングの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「被災文化財修復にクラウドファンディング 熊本、能登地震で活用広がる」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「被災文化財修復にクラウドファンディング 熊本、能登地震で活用広がる」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 55.57686918583333
+  },
+  {
+    "category": "数码科技",
+    "title": "NYダウ一進一退、決算発表のボーイングに売り AI株高が支え",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43QS1UN2lqcF9NUmVEa2NkQzBEMW1fbm10Y0RUNG1YOFMwZ2REUzdxUWYyYUZQNGE2Z25TeW9CUTgzZEhoaFpKbFlBN0phb1ZkNU9aMXZ2OHgzU1lNUUQ5dnAyN1JkY2x3UW9mbA?oc=5",
+    "published": "2026-10-28 00:14",
+    "japanese_summary": "NYダウ一進一退、決算発表のボーイングに売り AI株高が支え 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43QS1UN2lqcF9NUmVEa2NkQzBEMW1fbm10Y0RUNG1YOFMwZ2REUzdxUWYyYUZQNGE2Z25TeW9CUTgzZEhoaFpKbFlBN0phb1ZkNU9aMXZ2OHgzU1lNUUQ5dnAyN1JkY2x3UW9mbA?oc=5",
+    "chinese_title": "受人工智能股价上涨的支撑，纽约道指波动，公布财务业绩后抛售波音",
+    "chinese_summary": "受人工智能股上涨的支撑，纽约道指波动，公布财务业绩后抛售波音 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「NYダウ一進一退、決算発表のボーイングに売り AI株高が支え」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“在人工智能股票上涨的支撑下，纽约道琼斯指数波动，波音公司在公布财务业绩后卖出。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ボーイング-Boeing",
+        "reading": "ぼーいんぐ",
+        "meaning": "波音公司",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ボーイング-Boeingの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「NYダウ一進一退、決算発表のボーイングに売り AI株高が支え」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「NYダウ一進一退、決算発表のボーイングに売り AI株高が支え」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ダウ-Dow",
+        "reading": "だう",
+        "meaning": "陶氏化学",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ダウ-Dowの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「NYダウ一進一退、決算発表のボーイングに売り AI株高が支え」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 63.6935358525
+  },
+  {
+    "category": "军事",
+    "title": "自衛隊の長距離ミサイル「25式地対艦誘導弾の展開手順を確認」日米共同訓練を公開《長崎》",
+    "source": "日テレNEWS NNN",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeDBndEV6N3pMQUtzZDBfSGxzVkRjWXJMMXAzSkZTUUViNHNXZ2JkM2EzMTZPYU5hTjY2cWd5ZjJDYVVFM2J4Tkc4VTVkbDYyVUZlMkJRU1RENm0xZTRibUhxaGdnVDRuVGhWMmpqUzhWUWxtcnVFdkptbFpJMmQ1aWlPWHJZenM?oc=5",
+    "published": "2026-10-26 20:05",
+    "japanese_summary": "自衛隊の長距離ミサイル「25式地対艦誘導弾の展開手順を確認」日米共同訓練を公開《長崎》 日テレNEWS NNN",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeDBndEV6N3pMQUtzZDBfSGxzVkRjWXJMMXAzSkZTUUViNHNXZ2JkM2EzMTZPYU5hTjY2cWd5ZjJDYVVFM2J4Tkc4VTVkbDYyVUZlMkJRU1RENm0xZTRibUhxaGdnVDRuVGhWMmpqUzhWUWxtcnVFdkptbFpJMmQ1aWlPWHJZenM?oc=5",
+    "chinese_title": "自卫队远程导弹“25型地对舰导弹部署程序确认”日美联合演习发布 [长崎]",
+    "chinese_summary": "自卫队远程导弹“25型地对舰导弹部署程序确认”日美联合演习发布（长崎） NTV NEWS NNN",
+    "detailed_japanese": "日テレNEWS NNNは「自衛隊の長距離ミサイル「25式地対艦誘導弾の展開手順を確認」日米共同訓練を公開《長崎》」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "NTV NEWS NNN报道称，日美联合演习透露“确认了自卫队远程导弹‘25型地对舰导弹’的部署程序”[长崎]。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ミサイル-missile",
+        "reading": "みさいる",
+        "meaning": "导弹-导弹",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ミサイル-missileの＋名词」构成修饰关系。",
+        "example": "日テレNEWS NNNは「自衛隊の長距離ミサイル「25式地対艦誘導弾の展開手順を確認」日米共同訓練を公開《長崎》」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "日テレ",
+        "reading": "にってれ",
+        "meaning": "国家电视台",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「日テレの＋名词」构成修饰关系。",
+        "example": "日テレNEWS NNNは「自衛隊の長距離ミサイル「25式地対艦誘導弾の展開手順を確認」日米共同訓練を公開《長崎》」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日テレNEWS NNNは「自衛隊の長距離ミサイル「25式地対艦誘導弾の展開手順を確認」日米共同訓練を公開《長崎》」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 37.6185358525
+  }
+]
