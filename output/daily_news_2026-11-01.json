@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmEwcW81eUtWZVA5djVHOTM2VV8zU3p0YXBGd1dTM0xTSUJfdUZKYlNJWkpHUExsa0NtU0h6MmRvUFdjTHBSSTRIbWVsRHdqd1ZfbXFQWS1fMXJYeXRZa1I5S1A1aFhMWVl0Vw?oc=5",
+    "published": "2026-11-01 02:00",
+    "japanese_summary": "AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmEwcW81eUtWZVA5djVHOTM2VV8zU3p0YXBGd1dTM0xTSUJfdUZKYlNJWkpHUExsa0NtU0h6MmRvUFdjTHBSSTRIbWVsRHdqd1ZfbXFQWS1fMXJYeXRZa1I5S1A1aFhMWVl0Vw?oc=5",
+    "chinese_title": "AI货币争夺战蔓延至日本，日元计价债券发行规模达2.5万亿日元，创有史以来规模最大",
+    "chinese_summary": "AI货币争夺战蔓延至日本，发行2.5万亿日元日元计价债券，创日本经济新闻史上规模最大",
+    "detailed_japanese": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“人工智能货币之战蔓延至日本，以日元计价的债券发行量创历史新高，达到 2.5 万亿日元。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "マネー-money",
+        "reading": "まねー",
+        "meaning": "钱钱",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マネー-moneyの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "円建て",
+        "reading": "えんだて",
+        "meaning": "以日元计价",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円建ての＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 55.936277618194445
+  },
+  {
+    "category": "政治",
+    "title": "変容するアメリカ：2026 中間選挙 MAGA戦士VS愛の政治 米政治占う4選挙区",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41YUkyQzdnYkRCNUFEeWdObVAwTkhtbDI1MFM1aHB2U1BLSldCcTRoaWZSM3YxcDBEU2xGZmdFa210ekprLVJhazYtalgyTHlidlhWSXl3NUpvLXdXZGppd1hqRnNtWUdt?oc=5",
+    "published": "2026-11-01 02:02",
+    "japanese_summary": "変容するアメリカ：2026 中間選挙 MAGA戦士VS愛の政治 米政治占う4選挙区 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41YUkyQzdnYkRCNUFEeWdObVAwTkhtbDI1MFM1aHB2U1BLSldCcTRoaWZSM3YxcDBEU2xGZmdFa210ekprLVJhazYtalgyTHlidlhWSXl3NUpvLXdXZGppd1hqRnNtWUdt?oc=5",
+    "chinese_title": "变革美国：2026 年中期选举 MAGA Warriors 与爱的政治 美国政治中的 4 个选区",
+    "chinese_summary": "变革美国：2026 年中期选举 MAGA Warriors vs. Politics of Love 预测美国 4 个选区的政治每日新闻",
+    "detailed_japanese": "毎日新聞は「変容するアメリカ：2026 中間選挙 MAGA戦士VS愛の政治 米政治占う4選挙区」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“变革美国：2026 年中期选举：MAGA 战士 vs. 爱的政治：美国政治的四个组成部分。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "アメリカ-America",
+        "reading": "あめりか",
+        "meaning": "美国-美国",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「アメリカ-Americaの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「変容するアメリカ：2026 中間選挙 MAGA戦士VS愛の政治 米政治占う4選挙区」と報じました。"
+      },
+      {
+        "word": "選挙",
+        "reading": "せんきょ",
+        "meaning": "选举",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「選挙の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「変容するアメリカ：2026 中間選挙 MAGA戦士VS愛の政治 米政治占う4選挙区」と報じました。"
+      },
+      {
+        "word": "政治",
+        "reading": "せいじ",
+        "meaning": "政治",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「政治の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「変容するアメリカ：2026 中間選挙 MAGA戦士VS愛の政治 米政治占う4選挙区」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「変容するアメリカ：2026 中間選挙 MAGA戦士VS愛の政治 米政治占う4選挙区」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.95294428486111
+  },
+  {
+    "category": "经济",
+    "title": "日経平均株価 一時1900円安 AI・半導体銘柄が下落 最新の経済ニュース【随時更新】",
+    "source": "ABEMA",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lZElwYmZ1aUxtTzlBNUlkUENBZjI0THZKZ1hMNU4zbWZWajR4UDZRaV9EZWZ4TVNhQkdGNWFBcEkxWldIN3RUYldpN2lTa3lGanlUbXpPT0FSWjg?oc=5",
+    "published": "2026-11-01 02:01",
+    "japanese_summary": "日経平均株価 一時1900円安 AI・半導体銘柄が下落 最新の経済ニュース【随時更新】 ABEMA",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lZElwYmZ1aUxtTzlBNUlkUENBZjI0THZKZ1hMNU4zbWZWajR4UDZRaV9EZWZ4TVNhQkdGNWFBcEkxWldIN3RUYldpN2lTa3lGanlUbXpPT0FSWjg?oc=5",
+    "chinese_title": "日经平均指数一度下跌1,900日元人工智能/半导体股下跌最新经济新闻[不时更新]",
+    "chinese_summary": "日经平均指数暂时下跌1,900日元人工智能和半导体股票下跌最新经济新闻[不时更新]ABEMA",
+    "detailed_japanese": "ABEMAは「日経平均株価 一時1900円安 AI・半導体銘柄が下落 最新の経済ニュース【随時更新】」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "ABEMA报道称，“日经平均股价暂时下跌1,900日元，人工智能和半导体股票下跌，最新经济新闻[不时更新]”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "ABEMAは「日経平均株価 一時1900円安 AI・半導体銘柄が下落 最新の経済ニュース【随時更新】」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "ABEMAは「日経平均株価 一時1900円安 AI・半導体銘柄が下落 最新の経済ニュース【随時更新】」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "随時",
+        "reading": "ずいじ",
+        "meaning": "随时",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「随時の＋名词」构成修饰关系。",
+        "example": "ABEMAは「日経平均株価 一時1900円安 AI・半導体銘柄が下落 最新の経済ニュース【随時更新】」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 52.94461095152778
+  },
+  {
+    "category": "娱乐",
+    "title": "A.B.C-Z、ファンへの“愛”と“感謝” 来年のデビュー15周年に向け「気合い入れていきます」（オリコン）",
+    "source": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JRS1sbDRQT25oMWNNQnZCS2xHTlpaS0tzcXY1S1VOQ0dxUHhTZ2FDWkN4aGhJZnVqanhXR0JRMXhuS09zdDhCbGpRNWdRSERMU1ZhMFI5Q1k4QXdycUJPOFlQXzJnUm1sV2JDV2g0bjNzaEFxYkpaZTEtZHpmNFk?oc=5",
+    "published": "2026-11-01 04:03",
+    "japanese_summary": "A.B.C-Z、ファンへの“愛”と“感謝” 来年のデビュー15周年に向け「気合い入れていきます」（オリコン） Yahoo!ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JRS1sbDRQT25oMWNNQnZCS2xHTlpaS0tzcXY1S1VOQ0dxUHhTZ2FDWkN4aGhJZnVqanhXR0JRMXhuS09zdDhCbGpRNWdRSERMU1ZhMFI5Q1k4QXdycUJPOFlQXzJnUm1sV2JDV2g0bjNzaEFxYkpaZTEtZHpmNFk?oc=5",
+    "chinese_title": "A.B.C-Z向粉丝表达“爱”和“感谢”，明年出道15周年“我们会继续保持斗志”（Oricon）",
+    "chinese_summary": "A.B.C-Z向粉丝表达“爱”和“感谢”，明年出道15周年“我们会继续努力”（Oricon）雅虎！消息",
+    "detailed_japanese": "Yahoo!ニュースは「A.B.C-Z、ファンへの“愛”と“感謝” 来年のデビュー15周年に向け「気合い入れていきます」（オリコン）」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "雅虎！据新闻报道，“A.B.C-Z向粉丝表达了他们的爱和感谢，并将继续为明年的出道15周年而努力”（Oricon）。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ファン-fan（熱狂者）",
+        "reading": "ふぁん",
+        "meaning": "粉丝（爱好者）",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ファン-fan（熱狂者）の＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「A.B.C-Z、ファンへの“愛”と“感謝” 来年のデビュー15周年に向け「気合い入れていきます」（オリコン）」と報じ"
+      },
+      {
+        "word": "デビュー-debut",
+        "reading": "でびゅー",
+        "meaning": "首次亮相-首次亮相",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「デビュー-debutの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「A.B.C-Z、ファンへの“愛”と“感謝” 来年のデビュー15周年に向け「気合い入れていきます」（オリコン）」と報じ"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「A.B.C-Z、ファンへの“愛”と“感謝” 来年のデビュー15周年に向け「気合い入れていきます」（オリコン）」と報じ"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "気合い",
+        "reading": "きあい",
+        "meaning": "精神",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「気合いの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「A.B.C-Z、ファンへの“愛”と“感謝” 来年のデビュー15周年に向け「気合い入れていきます」（オリコン）」と報じ"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "Yahoo!ニュースは「A.B.C-Z、ファンへの“愛”と“感謝” 来年のデビュー15周年に向け「気合い入れていきます」（オリコン）」と報じ"
+      }
+    ],
+    "grammar": [],
+    "score": 32.961277618194444
+  },
+  {
+    "category": "体育",
+    "title": "サッカー日本代表・佐野海舟と結婚 モデル美人妻が「可愛い」ドイツでの休日ショット！おしゃれな木下桜",
+    "source": "スポーツ報知",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KaXdJQ3FfOXNSeHpiOE5xUUc4eVBOXzFlRndRdndKUmFzNGUxRE4ySkdvVnRsYTlKTXFldnM3VFVqelYzSUlkNGtqTjY1V1NhTHVIbUpvMU1VNDUyQ1I4empR?oc=5",
+    "published": "2026-10-31 06:20",
+    "japanese_summary": "サッカー日本代表・佐野海舟と結婚 モデル美人妻が「可愛い」ドイツでの休日ショット！おしゃれな木下桜 スポーツ報知",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KaXdJQ3FfOXNSeHpiOE5xUUc4eVBOXzFlRndRdndKUmFzNGUxRE4ySkdvVnRsYTlKTXFldnM3VFVqelYzSUlkNGtqTjY1V1NhTHVIbUpvMU1VNDUyQ1I4empR?oc=5",
+    "chinese_title": "与日本足球运动员佐野海周结婚。美丽模范人妻在“可爱”德国度假被拍！时尚的木下樱",
+    "chinese_summary": "与日本足球运动员佐野海周结婚。美丽模范人妻在“可爱”德国度假被拍！时尚的木下樱花运动保知",
+    "detailed_japanese": "スポーツ報知は「サッカー日本代表・佐野海舟と結婚 モデル美人妻が「可愛い」ドイツでの休日ショット！おしゃれな木下桜」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《Sports Hochi》报道称，“与日本国家足球队成员佐野海舟结婚的美丽模特在“可爱”的德国度假被拍摄！ “时尚的木下樱”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "スポーツ報知は「サッカー日本代表・佐野海舟と結婚 モデル美人妻が「可愛い」ドイツでの休日ショット！"
+      },
+      {
+        "word": "スポーツ-sport",
+        "reading": "すぽーつ",
+        "meaning": "体育运动",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「スポーツ-sportの＋名词」构成修饰关系。",
+        "example": "スポーツ報知は「サッカー日本代表・佐野海舟と結婚 モデル美人妻が「可愛い」ドイツでの休日ショット！"
+      },
+      {
+        "word": "モデル-model",
+        "reading": "もでる",
+        "meaning": "模型-模型",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「モデル-modelの＋名词」构成修饰关系。",
+        "example": "スポーツ報知は「サッカー日本代表・佐野海舟と結婚 モデル美人妻が「可愛い」ドイツでの休日ショット！"
+      },
+      {
+        "word": "ドイツ-Duits",
+        "reading": "どいつ",
+        "meaning": "德国杜伊茨",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ドイツ-Duitsの＋名词」构成修饰关系。",
+        "example": "スポーツ報知は「サッカー日本代表・佐野海舟と結婚 モデル美人妻が「可愛い」ドイツでの休日ショット！"
+      },
+      {
+        "word": "ショット-shot",
+        "reading": "しょっと",
+        "meaning": "射击射击",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ショット-shotの＋名词」构成修饰关系。",
+        "example": "スポーツ報知は「サッカー日本代表・佐野海舟と結婚 モデル美人妻が「可愛い」ドイツでの休日ショット！"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 45.10294428486111
+  },
+  {
+    "category": "社会",
+    "title": "社説：熊本地震の被災者支援 生活の再建へ切れ目なく",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3MUFVX1hkTU1YMmRkSm9rV25IbzlGLUg2Xzk2QWNISkgwSk9xR3pQSVRVY24zMmgxd2ExUjh6dE1Lb0RPVTNKNmVmWThCVE03WXMwWlVXZE9uT3NGR0VldWc4V0JiNmpU?oc=5",
+    "published": "2026-11-01 02:01",
+    "japanese_summary": "社説：熊本地震の被災者支援 生活の再建へ切れ目なく 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3MUFVX1hkTU1YMmRkSm9rV25IbzlGLUg2Xzk2QWNISkgwSk9xR3pQSVRVY24zMmgxd2ExUjh6dE1Lb0RPVTNKNmVmWThCVE03WXMwWlVXZE9uT3NGR0VldWc4V0JiNmpU?oc=5",
+    "chinese_title": "社论：支持熊本地震受害者：不断重建生活",
+    "chinese_summary": "社论：支援熊本地震灾民：持续重建生活 《每日新闻》",
+    "detailed_japanese": "毎日新聞は「社説：熊本地震の被災者支援 生活の再建へ切れ目なく」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“社论：支持熊本地震受害者：不断重建生活。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「社説：熊本地震の被災者支援 生活の再建へ切れ目なく」と報じました。"
+      },
+      {
+        "word": "切れ目",
+        "reading": "きれめ",
+        "meaning": "休息",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「切れ目の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「社説：熊本地震の被災者支援 生活の再建へ切れ目なく」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.94461095152778
+  },
+  {
+    "category": "数码科技",
+    "title": "AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmEwcW81eUtWZVA5djVHOTM2VV8zU3p0YXBGd1dTM0xTSUJfdUZKYlNJWkpHUExsa0NtU0h6MmRvUFdjTHBSSTRIbWVsRHdqd1ZfbXFQWS1fMXJYeXRZa1I5S1A1aFhMWVl0Vw?oc=5",
+    "published": "2026-11-01 02:00",
+    "japanese_summary": "AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmEwcW81eUtWZVA5djVHOTM2VV8zU3p0YXBGd1dTM0xTSUJfdUZKYlNJWkpHUExsa0NtU0h6MmRvUFdjTHBSSTRIbWVsRHdqd1ZfbXFQWS1fMXJYeXRZa1I5S1A1aFhMWVl0Vw?oc=5",
+    "chinese_title": "AI货币争夺战蔓延至日本，日元计价债券发行规模达2.5万亿日元，创有史以来规模最大",
+    "chinese_summary": "AI货币争夺战蔓延至日本，发行2.5万亿日元日元计价债券，创日本经济新闻史上规模最大",
+    "detailed_japanese": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“人工智能货币之战蔓延至日本，以日元计价的债券发行量创历史新高，达到 2.5 万亿日元。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "マネー-money",
+        "reading": "まねー",
+        "meaning": "钱钱",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マネー-moneyの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "円建て",
+        "reading": "えんだて",
+        "meaning": "以日元计价",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円建ての＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 55.936277618194445
+  },
+  {
+    "category": "军事",
+    "title": "中国軍、スカボロー礁で戦闘即応パトロール フィリピンに対抗 | ロイター",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONnBKUE9uLTh3RHU0TE9DYUMzQ3p1dzFQZGFjd29BbGxXZ2JXVmFJS2lvUGlFZE9vMk42OGZGV0hEdEJlajU3SE5ob0l0MUloSFQ3RGNvWVMzUEh2UWdHNTUweWxfMG9hVEtCY196ejBER1NaZ01PYjhCaUwzVXhfeGRUSXo?oc=5",
+    "published": "2026-10-30 20:25",
+    "japanese_summary": "中国軍、スカボロー礁で戦闘即応パトロール フィリピンに対抗 | ロイター Reuters",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONnBKUE9uLTh3RHU0TE9DYUMzQ3p1dzFQZGFjd29BbGxXZ2JXVmFJS2lvUGlFZE9vMk42OGZGV0hEdEJlajU3SE5ob0l0MUloSFQ3RGNvWVMzUEh2UWdHNTUweWxfMG9hVEtCY196ejBER1NaZ01PYjhCaUwzVXhfeGRUSXo?oc=5",
+    "chinese_title": "中国军队在黄岩岛对菲律宾进行战备巡逻路透社",
+    "chinese_summary": "中国军队在黄岩岛对菲律宾进行战备巡逻路透社 路透社",
+    "detailed_japanese": "Reutersは「中国軍、スカボロー礁で戦闘即応パトロール フィリピンに対抗 | ロイター」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "路透社报道称，“中国军队在黄岩岛对菲律宾进行战备巡逻”路透社。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "フィリピン-Philippines",
+        "reading": "ふぃりぴん",
+        "meaning": "菲律宾-菲律宾",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「フィリピン-Philippinesの＋名词」构成修饰关系。",
+        "example": "Reutersは「中国軍、スカボロー礁で戦闘即応パトロール フィリピンに対抗 | ロイター」と報じました。"
+      },
+      {
+        "word": "スカボロー-Scarborough",
+        "reading": "すかぼろー",
+        "meaning": "士嘉堡",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「スカボロー-Scarboroughの＋名词」构成修饰关系。",
+        "example": "Reutersは「中国軍、スカボロー礁で戦闘即応パトロール フィリピンに対抗 | ロイター」と報じました。"
+      },
+      {
+        "word": "ロイター-Reuters",
+        "reading": "ろいたー",
+        "meaning": "路透社-路透社",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロイター-Reutersの＋名词」构成修饰关系。",
+        "example": "Reutersは「中国軍、スカボロー礁で戦闘即応パトロール フィリピンに対抗 | ロイター」と報じました。"
+      },
+      {
+        "word": "パトロール-patrol",
+        "reading": "ぱとろーる",
+        "meaning": "巡逻巡逻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「パトロール-patrolの＋名词」构成修饰关系。",
+        "example": "Reutersは「中国軍、スカボロー礁で戦闘即応パトロール フィリピンに対抗 | ロイター」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "Reutersは「中国軍、スカボロー礁で戦闘即応パトロール フィリピンに対抗 | ロイター」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 41.14461095152778
+  }
+]
