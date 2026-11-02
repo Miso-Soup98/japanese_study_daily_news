@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4aW1ITDNkNTk4VGZDVmFiUjJKZmk5NmlvX084VWppWGRoWjBlb1o3S3BGcWdZd291UXBCTGx3S1dldldPNkU0eWVLQkwwZVhyN1o0V1czcnlvcnE2cWpQVXJfSmt4dUNLWHhFMg?oc=5",
+    "published": "2026-11-03 04:15",
+    "japanese_summary": "米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4aW1ITDNkNTk4VGZDVmFiUjJKZmk5NmlvX084VWppWGRoWjBlb1o3S3BGcWdZd291UXBCTGx3S1dldldPNkU0eWVLQkwwZVhyN1o0V1czcnlvcnE2cWpQVXJfSmt4dUNLWHhFMg?oc=5",
+    "chinese_title": "美国半导体Marvell 18万亿日元收购Lumentum，为AI设备采用光连接",
+    "chinese_summary": "美国半导体Marvell 18万亿日元收购Lumentum，为AI设备采用光连接 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“美国半导体 Marvell 以 18 万亿日元收购 Lumentum，以利用人工智能设备的光学连接。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "マーベル-外国",
+        "reading": "まーべる",
+        "meaning": "漫威-外国",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マーベル-外国の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 62.12587036236111
+  },
+  {
+    "category": "政治",
+    "title": "公明、消費減税法案に衆院では反対で調整 参院での対応には含み [高市早苗首相][公明党]",
+    "source": "朝日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SVjR1TzA0UkhRQkp1ZS1UQVhIdzAzdVJvQ0ltNHRaSHR2MEp6bEtqVVlpeW1NTFJzS215VmN0NWtVVEh2QjBNdllIcUxmMjJYMlJFUWlFQXdLd2gzZEI2bmdmWkp4S0U?oc=5",
+    "published": "2026-11-03 05:00",
+    "japanese_summary": "公明、消費減税法案に衆院では反対で調整 参院での対応には含み [高市早苗首相][公明党] 朝日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SVjR1TzA0UkhRQkp1ZS1UQVhIdzAzdVJvQ0ltNHRaSHR2MEp6bEtqVVlpeW1NTFJzS215VmN0NWtVVEh2QjBNdllIcUxmMjJYMlJFUWlFQXdLd2gzZEI2bmdmWkp4S0U?oc=5",
+    "chinese_title": "公明党在众议院对消费税削减法案进行调整，包括参议院的回应[首相高市早苗][公明党]",
+    "chinese_summary": "公明党在众议院对消费税削减法案进行调整，包括参议院的回应[首相高市早苗][公明党]朝日新闻",
+    "detailed_japanese": "朝日新聞は「公明、消費減税法案に衆院では反対で調整 参院での対応には含み [高市早苗首相][公明党]」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "据《朝日新闻》报道，“由于众议院[首相高市早苗][公明党]的反对，公明调整消费税削减法案，包括参议院的回应。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "公明",
+        "reading": "こうめい",
+        "meaning": "科明",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「公明の＋名词」构成修饰关系。",
+        "example": "朝日新聞は「公明、消費減税法案に衆院では反対で調整 参院での対応には含み [高市早苗首相][公明党]」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "朝日新聞は「公明、消費減税法案に衆院では反対で調整 参院での対応には含み [高市早苗首相][公明党]」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "首相",
+        "reading": "しゅしょう",
+        "meaning": "总理",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「首相の＋名词」构成修饰关系。",
+        "example": "朝日新聞は「公明、消費減税法案に衆院では反対で調整 参院での対応には含み [高市早苗首相][公明党]」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 60.50087036236111
+  },
+  {
+    "category": "经济",
+    "title": "毎小ニュース：経済 日銀 物価目標「2％達した」",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mOEtXbWFkbVI5aFY1ZWtxS0hSS0gtZ3VpNkt6Y2VjUlNDUnhnUEVCRm1Kei1KOVpHWkRrbFZXTVYxMzdTSW1oM29NZ204MHA2b2V4MC1udVl0TFNGVGNEbkxfS2FGemN0Z1NZSWNfbF9zZw?oc=5",
+    "published": "2026-11-03 06:04",
+    "japanese_summary": "毎小ニュース：経済 日銀 物価目標「2％達した」 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mOEtXbWFkbVI5aFY1ZWtxS0hSS0gtZ3VpNkt6Y2VjUlNDUnhnUEVCRm1Kei1KOVpHWkRrbFZXTVYxMzdTSW1oM29NZ204MHA2b2V4MC1udVl0TFNGVGNEbkxfS2FGemN0Z1NZSWNfbF9zZw?oc=5",
+    "chinese_title": "主要新闻：日本经济央行的物价目标“达到2%”",
+    "chinese_summary": "每日新闻：日本经济央行物价目标“达到2%”每日新闻",
+    "detailed_japanese": "毎日新聞は「毎小ニュース：経済 日銀 物価目標「2％達した」」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“舞商新闻：日本经济银行的通胀目标达到了2%”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "パーセント-percent",
+        "reading": "ぱーせんと",
+        "meaning": "百分比-百分比",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「パーセント-percentの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「毎小ニュース：経済 日銀 物価目標「2％達した」」と報じました。"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「毎小ニュース：経済 日銀 物価目標「2％達した」」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "達する",
+        "reading": "たっし",
+        "meaning": "抵达",
+        "pos": "动词",
+        "usage": "原形是「達する」，文中形式是「達し」。活用类型：サ行変格。",
+        "example": "毎日新聞は「毎小ニュース：経済 日銀 物価目標「2％達した」」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「毎小ニュース：経済 日銀 物価目標「2％達した」」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 61.034203695694444
+  },
+  {
+    "category": "娱乐",
+    "title": "『FNS歌謡祭』2週連続生放送決定 第1弾出演アーティストにSixTONES、Snow Man、Number_i、HANA、M!LK、モナキら36組［出演一覧］",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hcE1aUV9CbjE4RHJJek5qYmlTQ2gtRm5uSXh2V1V1X0ZWVWpsNTlGelBLelEwVkVSQjRheGRvdk03NTl2RldaZzAtRVdjajhhdmgxNXR3MHJhWWxWNjBGVF92VnZMVjNy?oc=5",
+    "published": "2026-11-03 06:00",
+    "japanese_summary": "『FNS歌謡祭』2週連続生放送決定 第1弾出演アーティストにSixTONES、Snow Man、Number_i、HANA、M!LK、モナキら36組［出演一覧］ 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hcE1aUV9CbjE4RHJJek5qYmlTQ2gtRm5uSXh2V1V1X0ZWVWpsNTlGelBLelEwVkVSQjRheGRvdk03NTl2RldaZzAtRVdjajhhdmgxNXR3MHJhWWxWNjBGVF92VnZMVjNy?oc=5",
+    "chinese_title": "（在线翻译暂时不可用，请稍后重新生成。）",
+    "chinese_summary": "《FNS Kayousai》将连续两周进行现场直播。首批表演者为SixTONES、Snow Man、Number_i、HANA、M!LK、Monaki等36个团体 [出场名单]每日新闻",
+    "detailed_japanese": "毎日新聞は「『FNS歌謡祭』2週連続生放送決定 第1弾出演アーティストにSixTONES、Snow Man、Number_i、HANA、M!LK、モナキら36組［出演一覧］」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "毎日新闻は「『FNS歌謡祭』2周连続生放送决定第1弾登场アーティsutoにSixTONES、Snow Man、Number_i、HANA、M!LK、モナキら36组［登场一覧］」と报じました。更多信息请查看来源链接。因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "アーチスト-artist",
+        "reading": "あーてぃすと",
+        "meaning": "艺术家-艺术家",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「アーチスト-artistの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「『FNS歌謡祭』2週連続生放送決定 第1弾出演アーティストにSixTONES、Snow Man、Number_i、HANA、M!"
+      },
+      {
+        "word": "出演",
+        "reading": "しゅつえん",
+        "meaning": "外貌",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「出演の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「『FNS歌謡祭』2週連続生放送決定 第1弾出演アーティストにSixTONES、Snow Man、Number_i、HANA、M!"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「『FNS歌謡祭』2週連続生放送決定 第1弾出演アーティストにSixTONES、Snow Man、Number_i、HANA、M!"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.00087036236111
+  },
+  {
+    "category": "体育",
+    "title": "サッカーＷ杯日本代表に谷口彰悟選手 熊本・大津高校出身 恩師や後輩が称賛 2022年のカタール大会に続き2大会連続",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOHZHTlB6X0ZUdmhfXzNXOFVpeWpOanctamhoWGQ2Rm5uR0NtaV9aQW1IWFpzWlFRbjZsTE9ob2pLY1pqREIxU3NTaDd0RE12ZklaenNpTTc3RnUyWjlz?oc=5",
+    "published": "2026-11-02 15:36",
+    "japanese_summary": "サッカーＷ杯日本代表に谷口彰悟選手 熊本・大津高校出身 恩師や後輩が称賛 2022年のカタール大会に続き2大会連続 TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOHZHTlB6X0ZUdmhfXzNXOFVpeWpOanctamhoWGQ2Rm5uR0NtaV9aQW1IWFpzWlFRbjZsTE9ob2pLY1pqREIxU3NTaDd0RE12ZklaenNpTTc3RnUyWjlz?oc=5",
+    "chinese_title": "（在线翻译暂时不可用，请稍后重新生成。）",
+    "chinese_summary": "谷口正吾毕业于熊本大津高中，现效力于日本国家足球队参加世界杯。继2022年卡塔尔锦标赛之后，他的老师和后辈们对他连续第二次参加比赛表示赞赏。 TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「サッカーＷ杯日本代表に谷口彰悟選手 熊本・大津高校出身 恩師や後輩が称賛 2022年のカタール大会に続き2大会連続」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TBS NEWS DIG 报道称：“熊本大津高中毕业生谷口正吾将参加日本足球世界杯。继 2022 年卡塔尔世界杯之后，他的老师和后辈们称赞他连续第二次参加世界杯。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「サッカーＷ杯日本代表に谷口彰悟選手 熊本・大津高校出身 恩師や後輩が称賛 2022年のカタール大会に続き2大会連"
+      },
+      {
+        "word": "カタール-Qatar",
+        "reading": "かたーる",
+        "meaning": "卡塔尔",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「カタール-Qatarの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「サッカーＷ杯日本代表に谷口彰悟選手 熊本・大津高校出身 恩師や後輩が称賛 2022年のカタール大会に続き2大会連"
+      },
+      {
+        "word": "大会",
+        "reading": "たいかい",
+        "meaning": "比赛",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「大会の＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「サッカーＷ杯日本代表に谷口彰悟選手 熊本・大津高校出身 恩師や後輩が称賛 2022年のカタール大会に続き2大会連"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "TBS NEWS DIGは「サッカーＷ杯日本代表に谷口彰悟選手 熊本・大津高校出身 恩師や後輩が称賛 2022年のカタール大会に続き2大会連"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 50.80087036236111
+  },
+  {
+    "category": "社会",
+    "title": "【防災庁】“災害対応の司令塔”発足で何が変わる？…最優先は“避難所の改善”と細野防災大臣 国民に水や食料など備蓄「緊急要請」も【news23】",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zUFZfVVJpRTcybEpiSnpfYUw5LXUxbDI5d3hXWjZIeTR2bFFrTTB0dG8zLS0tZzdkTml4OC1SYTZBWlltZDFYTlpOVjdRamtWNnoxRlpJTQ?oc=5",
+    "published": "2026-11-03 00:50",
+    "japanese_summary": "【防災庁】“災害対応の司令塔”発足で何が変わる？…最優先は“避難所の改善”と細野防災大臣 国民に水や食料など備蓄「緊急要請」も【news23】 TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zUFZfVVJpRTcybEpiSnpfYUw5LXUxbDI5d3hXWjZIeTR2bFFrTTB0dG8zLS0tZzdkTml4OC1SYTZBWlltZDFYTlpOVjdRamtWNnoxRlpJTQ?oc=5",
+    "chinese_title": "【防灾厅】“灾害应对控制塔”的设立会带来什么变化？ ...防灾大臣细野表示，当务之急是“改善疏散中心”，并向人们提出“紧急要求”，以储存水、食物等。 [news23]",
+    "chinese_summary": "【防灾厅】“灾害应对控制塔”的设立会带来什么变化？ ...防灾大臣细野表示，当务之急是“改善疏散中心”，并“紧急要求”人们储备水、食物等。 [news23] TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「【防災庁】“災害対応の司令塔”発足で何が変わる？…最優先は“避難所の改善”と細野防災大臣 国民に水や食料など備蓄「緊急要請」も【news23】」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TBS NEWS DIG 报道称，“[防灾厅]建立‘灾害响应控制塔’会带来什么变化？……防灾大臣细野表示，‘改善疏散中心’是首要任务，‘紧急要求’人们储备水和食物 [news23]。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "防災",
+        "reading": "ぼうさい",
+        "meaning": "防灾",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「防災の＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【防災庁】“災害対応の司令塔”発足で何が変わる？"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "変わる",
+        "reading": "かわる",
+        "meaning": "改变",
+        "pos": "动词",
+        "usage": "原形是「変わる」，文中形式是「変わる」。活用类型：五段-ラ行。",
+        "example": "TBS NEWS DIGは「【防災庁】“災害対応の司令塔”発足で何が変わる？"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "…最優先は“避難所の改善”と細野防災大臣 国民に水や食料など備蓄「緊急要請」も【news23】」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 55.41753702902778
+  },
+  {
+    "category": "数码科技",
+    "title": "米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4aW1ITDNkNTk4VGZDVmFiUjJKZmk5NmlvX084VWppWGRoWjBlb1o3S3BGcWdZd291UXBCTGx3S1dldldPNkU0eWVLQkwwZVhyN1o0V1czcnlvcnE2cWpQVXJfSmt4dUNLWHhFMg?oc=5",
+    "published": "2026-11-03 04:15",
+    "japanese_summary": "米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4aW1ITDNkNTk4VGZDVmFiUjJKZmk5NmlvX084VWppWGRoWjBlb1o3S3BGcWdZd291UXBCTGx3S1dldldPNkU0eWVLQkwwZVhyN1o0V1czcnlvcnE2cWpQVXJfSmt4dUNLWHhFMg?oc=5",
+    "chinese_title": "美国半导体Marvell 18万亿日元收购Lumentum，为AI设备采用光连接",
+    "chinese_summary": "美国半导体Marvell 18万亿日元收购Lumentum，为AI设备采用光连接 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "日本经济新闻报道称，“美国半导体 Marvell 以 18 万亿日元收购 Lumentum，以利用人工智能设备的光学连接。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "マーベル-外国",
+        "reading": "まーべる",
+        "meaning": "漫威-外国",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マーベル-外国の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 62.12587036236111
+  },
+  {
+    "category": "军事",
+    "title": "中国軍、幹部空洞化 汚職捜査で失脚、補充なし",
+    "source": "福井新聞社",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2RFVpczRIQV90Skg2dno1S0hpWnVkRFFjUXF2YkstSWN3UThURS01N1pPVHRraGk5QkNlTHQwZHJyTE9mYWdxemI4VmVoaFRxX29NVWpYR2FsaDVwS3c?oc=5",
+    "published": "2026-11-03 05:00",
+    "japanese_summary": "中国軍、幹部空洞化 汚職捜査で失脚、補充なし 福井新聞社",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2RFVpczRIQV90Skg2dno1S0hpWnVkRFFjUXF2YkstSWN3UThURS01N1pPVHRraGk5QkNlTHQwZHJyTE9mYWdxemI4VmVoaFRxX29NVWpYR2FsaDVwS3c?oc=5",
+    "chinese_title": "中国军队领导层空心化；因腐败调查而失去职位，没有替代者",
+    "chinese_summary": "中国军方领导层空心化，因腐败调查而被罢黜，无人接替 福井新闻",
+    "detailed_japanese": "福井新聞社は「中国軍、幹部空洞化 汚職捜査で失脚、補充なし」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《福井新闻》报道称，“中国军队的领导层已被掏空，因腐败调查而被罢黜，没有替代者。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "福井新聞社は「中国軍、幹部空洞化 汚職捜査で失脚、補充なし」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "補充",
+        "reading": "ほじゅう",
+        "meaning": "补货",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「補充の＋名词」构成修饰关系。",
+        "example": "福井新聞社は「中国軍、幹部空洞化 汚職捜査で失脚、補充なし」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 38.50087036236111
+  }
+]
