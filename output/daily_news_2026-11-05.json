@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04b0pHenhvaFY4ZGVTSWRxS3kyXzZvNy1CSWRKYXdqLWZhWnhEWWI5bEVwTVBNYnRUTFVWekx3bFRnMEZ4WXJpVndGNmFValRfWGtWMUw2aFFHMXVCYWhXazB4TWY?oc=5",
+    "published": "2026-11-05 02:02",
+    "japanese_summary": "【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点 TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04b0pHenhvaFY4ZGVTSWRxS3kyXzZvNy1CSWRKYXdqLWZhWnhEWWI5bEVwTVBNYnRUTFVWekx3bFRnMEZ4WXJpVndGNmFValRfWGtWMUw2aFFHMXVCYWhXazB4TWY?oc=5",
+    "chinese_title": "[3级山体滑坡警报] 东京御藏岛村于02:02发布",
+    "chinese_summary": "[3 级山体滑坡警报] 东京御藏岛村于 02:02 发布 TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TBS NEWS DIG 报道称，“截至 02 点 02 分，东京御仓岛村发布了[3 级山体滑坡警报]。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "レベル-level",
+        "reading": "れべる",
+        "meaning": "级别级别",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「レベル-levelの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "TBS NEWS DIGは「【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "警報",
+        "reading": "けいほう",
+        "meaning": "警报",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「警報の＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 65.98254547236111
+  },
+  {
+    "category": "政治",
+    "title": "社説：米中間選挙で与党敗北 トランプ政治へのノーだ",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3MUZMalRuS3AyWFBxVVFtcnlfenVHOFpTZXlLTnFsc3NqSE1zWUhtY1B2ek1KMEFEQ0ZEek1EQ1JBWm9BQzdmSVB3UGRja085LS1sc3BXaHhhM25MejZBUHVTeEFvOElM?oc=5",
+    "published": "2026-11-05 02:02",
+    "japanese_summary": "社説：米中間選挙で与党敗北 トランプ政治へのノーだ 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3MUZMalRuS3AyWFBxVVFtcnlfenVHOFpTZXlLTnFsc3NqSE1zWUhtY1B2ek1KMEFEQ0ZEek1EQ1JBWm9BQzdmSVB3UGRja085LS1sc3BXaHhhM25MejZBUHVTeEFvOElM?oc=5",
+    "chinese_title": "社论：美国中期选举执政党失利；对特朗普政治说不",
+    "chinese_summary": "社论：执政党在美国中期选举中失利，对特朗普政治说不 《每日新闻》",
+    "detailed_japanese": "毎日新聞は「社説：米中間選挙で与党敗北 トランプ政治へのノーだ」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“社论：美国中期选举执政党失利；对特朗普的政治说不。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "トランプ-trump",
+        "reading": "とらんぷ",
+        "meaning": "特朗普-特朗普",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「トランプ-trumpの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「社説：米中間選挙で与党敗北 トランプ政治へのノーだ」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「社説：米中間選挙で与党敗北 トランプ政治へのノーだ」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "選挙",
+        "reading": "せんきょ",
+        "meaning": "选举",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「選挙の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「社説：米中間選挙で与党敗北 トランプ政治へのノーだ」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 59.98254547236111
+  },
+  {
+    "category": "经济",
+    "title": "ＮＹ各市場 ５時台 ダウ平均は１５６８ドル高 シカゴ日経平均先物は６万３０３５円 -",
+    "source": "みんかぶ FX/為替",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0cE9SUE1QVmlocXVCaW93RmkzbnE4WG5Ib2JYNnFFbFU2c1JjcnE4Q2FLTERyd1ZoQU9IUjJpeE85dkhFSVdQMA?oc=5",
+    "published": "2026-11-05 05:08",
+    "japanese_summary": "ＮＹ各市場 ５時台 ダウ平均は１５６８ドル高 シカゴ日経平均先物は６万３０３５円 - みんかぶ FX/為替",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0cE9SUE1QVmlocXVCaW93RmkzbnE4WG5Ib2JYNnFFbFU2c1JjcnE4Q2FLTERyd1ZoQU9IUjJpeE85dkhFSVdQMA?oc=5",
+    "chinese_title": "纽约市场 5 点，道琼斯工业平均指数上涨 1,568 美元，芝加哥日经指数期货上涨 63,035 日元 -",
+    "chinese_summary": "纽约市场 5 点道琼斯工业平均指数上涨 1,568 美元 芝加哥日经股指期货上涨至 63,035 日元 - Minkabu FX/Forex",
+    "detailed_japanese": "みんかぶ FX/為替は「ＮＹ各市場 ５時台 ダウ平均は１５６８ドル高 シカゴ日経平均先物は６万３０３５円 -」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "Minkabu FX/Forex 报道称，“纽约市场 5 点钟道琼斯工业平均指数上涨 1,568 美元，芝加哥日经平均指数期货上涨 63,035 日元”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "シカゴ-Chicago",
+        "reading": "しかご",
+        "meaning": "芝加哥-芝加哥",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「シカゴ-Chicagoの＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ５時台 ダウ平均は１５６８ドル高 シカゴ日経平均先物は６万３０３５円 -」と報じました。"
+      },
+      {
+        "word": "ドル-dollar",
+        "reading": "どる",
+        "meaning": "美元-美元",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ドル-dollarの＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ５時台 ダウ平均は１５６８ドル高 シカゴ日経平均先物は６万３０３５円 -」と報じました。"
+      },
+      {
+        "word": "平均",
+        "reading": "へいきん",
+        "meaning": "平均的",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「平均の＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ５時台 ダウ平均は１５６８ドル高 シカゴ日経平均先物は６万３０３５円 -」と報じました。"
+      },
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ５時台 ダウ平均は１５６８ドル高 シカゴ日経平均先物は６万３０３５円 -」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "みんかぶ FX/為替は「ＮＹ各市場 ５時台 ダウ平均は１５６８ドル高 シカゴ日経平均先物は６万３０３５円 -」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.53254547236111
+  },
+  {
+    "category": "娱乐",
+    "title": "オリコンニュース：JO1「IGNITE」、「ストリーミング急上昇」1位 上昇率100.6％［オリコンランキング］",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERjZoRVJLSnNTWFEyZ0Q0ZzdrZ0FESlFsUmxpd05YSVpxdzA5UFZfMFU1TUo0NERLdFVSM21wQ0VQVDVqZnN4U3UyakswOVItdFEzUVg4SlBLc3ZPTlVVcG1yemFuTkV6?oc=5",
+    "published": "2026-11-05 04:00",
+    "japanese_summary": "オリコンニュース：JO1「IGNITE」、「ストリーミング急上昇」1位 上昇率100.6％［オリコンランキング］ 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERjZoRVJLSnNTWFEyZ0Q0ZzdrZ0FESlFsUmxpd05YSVpxdzA5UFZfMFU1TUo0NERLdFVSM21wQ0VQVDVqZnN4U3UyakswOVItdFEzUVg4SlBLc3ZPTlVVcG1yemFuTkV6?oc=5",
+    "chinese_title": "Oricon新闻：JO1《IGNITE》“流媒体激增”排名第一，增幅100.6%【Oricon排行榜】",
+    "chinese_summary": "Oricon新闻：JO1《IGNITE》“流媒体激增”排名第一，增长率100.6% [Oricon排名]每日新闻",
+    "detailed_japanese": "毎日新聞は「オリコンニュース：JO1「IGNITE」、「ストリーミング急上昇」1位 上昇率100.6％［オリコンランキング］」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“Oricon News：JO1的《IGNITE》在‘流媒体激增’中排名第一，增长率为100.6%[Oricon排名]”。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ランキング-ranking",
+        "reading": "らんきんぐ",
+        "meaning": "排名-排名",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ランキング-rankingの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：JO1「IGNITE」、「ストリーミング急上昇」1位 上昇率100.6％［オリコンランキング］」と報じました。"
+      },
+      {
+        "word": "パーセント-percent",
+        "reading": "ぱーせんと",
+        "meaning": "百分比-百分比",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「パーセント-percentの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：JO1「IGNITE」、「ストリーミング急上昇」1位 上昇率100.6％［オリコンランキング］」と報じました。"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：JO1「IGNITE」、「ストリーミング急上昇」1位 上昇率100.6％［オリコンランキング］」と報じました。"
+      },
+      {
+        "word": "上昇",
+        "reading": "じょうしょう",
+        "meaning": "上升",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「上昇の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：JO1「IGNITE」、「ストリーミング急上昇」1位 上昇率100.6％［オリコンランキング］」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "ストリーミング",
+        "reading": "すとりーみんぐ",
+        "meaning": "流媒体",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ストリーミングの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「オリコンニュース：JO1「IGNITE」、「ストリーミング急上昇」1位 上昇率100.6％［オリコンランキング］」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 53.965878805694445
+  },
+  {
+    "category": "体育",
+    "title": "サッカー日本代表に南野拓実が復帰 W杯で敗れたブラジルと14日に再戦",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94ZTBkdlZBQlFyVWZNdFFYQldpM1U3NVJJNUdiZTJjTkFPajdlYkVaN0NlWXBVQ3JEX2Y0SENxb3lOdGpyMFNRT2Q5cUpzZ3JreXVEV3RfYm00MTVMcjFlMVBXb0RPU1BkY280VA?oc=5",
+    "published": "2026-11-04 15:42",
+    "japanese_summary": "サッカー日本代表に南野拓実が復帰 W杯で敗れたブラジルと14日に再戦 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94ZTBkdlZBQlFyVWZNdFFYQldpM1U3NVJJNUdiZTJjTkFPajdlYkVaN0NlWXBVQ3JEX2Y0SENxb3lOdGpyMFNRT2Q5cUpzZ3JreXVEV3RfYm00MTVMcjFlMVBXb0RPU1BkY280VA?oc=5",
+    "chinese_title": "南野拓美重返日本国家足球队； 14日与世界杯失利的巴西队重赛",
+    "chinese_summary": "南野拓实重返日本国家足球队；世界杯失利后14日与巴西队再战 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「サッカー日本代表に南野拓実が復帰 W杯で敗れたブラジルと14日に再戦」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《日本经济新闻》报道称，“南野拓美将于 14 日重返日本国家足球队，与在世界杯上失利的巴西队进行复赛。”由于我们无法从原始文章中检索到足够的文本，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "ブラジル-Brazil",
+        "reading": "ぶらじる",
+        "meaning": "巴西-巴西",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ブラジル-Brazilの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「サッカー日本代表に南野拓実が復帰 W杯で敗れたブラジルと14日に再戦」と報じました。"
+      },
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「サッカー日本代表に南野拓実が復帰 W杯で敗れたブラジルと14日に再戦」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "敗れる",
+        "reading": "やぶれ",
+        "meaning": "被击败",
+        "pos": "动词",
+        "usage": "原形是「敗れる」，文中形式是「敗れ」。活用类型：下一段-ラ行。",
+        "example": "日本経済新聞は「サッカー日本代表に南野拓実が復帰 W杯で敗れたブラジルと14日に再戦」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「サッカー日本代表に南野拓実が復帰 W杯で敗れたブラジルと14日に再戦」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 56.815878805694446
+  },
+  {
+    "category": "社会",
+    "title": "【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点",
+    "source": "TBS NEWS DIG",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04b0pHenhvaFY4ZGVTSWRxS3kyXzZvNy1CSWRKYXdqLWZhWnhEWWI5bEVwTVBNYnRUTFVWekx3bFRnMEZ4WXJpVndGNmFValRfWGtWMUw2aFFHMXVCYWhXazB4TWY?oc=5",
+    "published": "2026-11-05 02:02",
+    "japanese_summary": "【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点 TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04b0pHenhvaFY4ZGVTSWRxS3kyXzZvNy1CSWRKYXdqLWZhWnhEWWI5bEVwTVBNYnRUTFVWekx3bFRnMEZ4WXJpVndGNmFValRfWGtWMUw2aFFHMXVCYWhXazB4TWY?oc=5",
+    "chinese_title": "[3级山体滑坡警报] 东京御藏岛村于02:02发布",
+    "chinese_summary": "[3 级山体滑坡警报] 东京御藏岛村于 02:02 发布 TBS NEWS DIG",
+    "detailed_japanese": "TBS NEWS DIGは「【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "TBS NEWS DIG 报道称，“截至 02 点 02 分，东京御仓岛村发布了[3 级山体滑坡警报]。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "レベル-level",
+        "reading": "れべる",
+        "meaning": "级别级别",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「レベル-levelの＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "TBS NEWS DIGは「【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "警報",
+        "reading": "けいほう",
+        "meaning": "警报",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「警報の＋名词」构成修饰关系。",
+        "example": "TBS NEWS DIGは「【レベル３土砂災害警報】東京都・御蔵島村に発表 02:02時点」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 65.98254547236111
+  },
+  {
+    "category": "数码科技",
+    "title": "プレスリリース：（一社）教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表（PR TIMES）",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tNk40OVR0aUNOOW92Qm9LUmVVVUlLWGQxNms0TFpucnYxX21qOVNvYy1TV2tiQ2UzZ0VyYzU4cGVZZ1JHWExjMThsUWZiSzZ4ZGxYUkdsZWRTdldITk40RFh0NGJQeXQ1?oc=5",
+    "published": "2026-11-05 04:40",
+    "japanese_summary": "プレスリリース：（一社）教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表（PR TIMES） 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tNk40OVR0aUNOOW92Qm9LUmVVVUlLWGQxNms0TFpucnYxX21qOVNvYy1TV2tiQ2UzZ0VyYzU4cGVZZ1JHWExjMThsUWZiSzZ4ZGxYUkdsZWRTdldITk40RFh0NGJQeXQ1?oc=5",
+    "chinese_title": "新闻稿：教育人工智能运用协会宣布推出连接全国教师的“人工智能人力资源开发计划”（PR TIMES）",
+    "chinese_summary": "新闻稿：教育人工智能活用协会宣布提供连接全国教师的“人工智能人力资源开发计划”（PR TIMES）每日新闻",
+    "detailed_japanese": "毎日新聞は「プレスリリース：（一社）教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表（PR TIMES）」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“新闻稿：教育人工智能利用协会宣布提供一项连接全国教师的‘人工智能人力资源开发计划’”（PR TIMES）。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "プログラム-program",
+        "reading": "ぷろぐらむ",
+        "meaning": "程序-程序",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プログラム-programの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：（一社）教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表（PR TIMES）」と報じ"
+      },
+      {
+        "word": "リリース-release",
+        "reading": "りりーす",
+        "meaning": "释放-释放",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リリース-releaseの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：（一社）教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表（PR TIMES）」と報じ"
+      },
+      {
+        "word": "プレス-press",
+        "reading": "ぷれす",
+        "meaning": "压压",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「プレス-pressの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：（一社）教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表（PR TIMES）」と報じ"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "繋がる",
+        "reading": "つながる",
+        "meaning": "连接",
+        "pos": "动词",
+        "usage": "原形是「繋がる」，文中形式是「つながる」。活用类型：五段-ラ行。",
+        "example": "毎日新聞は「プレスリリース：（一社）教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表（PR TIMES）」と報じ"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "毎日新聞は「プレスリリース：（一社）教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表（PR TIMES）」と報じ"
+      }
+    ],
+    "grammar": [],
+    "score": 63.29921213902777
+  },
+  {
+    "category": "军事",
+    "title": "巨悪・院政潰す暗闘が起点の習式統治、党大会前の意外な壁は中国軍",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSS1ub1ZYdHRwcmVZWURHd19CZU9qcVNBVFJmUmpBMGZ0NHZ3QWdKOWM4NEp2c1dZUVlQX2d6U1g5LU5kTHZPLVk2aWxLV1k4OURUQkhTMjRZVExyNXlMdEQzTnc5aDJxUl9oWQ?oc=5",
+    "published": "2026-11-04 05:00",
+    "japanese_summary": "巨悪・院政潰す暗闘が起点の習式統治、党大会前の意外な壁は中国軍 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSS1ub1ZYdHRwcmVZWURHd19CZU9qcVNBVFJmUmpBMGZ0NHZ3QWdKOWM4NEp2c1dZUVlQX2d6U1g5LU5kTHZPLVk2aWxLV1k4OURUQkhTMjRZVExyNXlMdEQzTnc5aDJxUl9oWQ?oc=5",
+    "chinese_title": "习惯治理始于摧毁闭关政府的秘密斗争，而党代表大会前意想不到的障碍是中国军队",
+    "chinese_summary": "习惯治理从摧毁隐世政府的秘密斗争开始，党代表大会前中国军队在意想不到的墙后 日本经济新闻",
+    "detailed_japanese": "日本経済新聞は「巨悪・院政潰す暗闘が起点の習式統治、党大会前の意外な壁は中国軍」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《日本经济新闻》报道称，“按照惯例，中国军队是党代表大会的意外障碍，这一规则始于一场旨在镇压与世隔绝的政府的秘密斗争。”由于我们无法从原始文章中检索到足够的文本，因此请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「巨悪・院政潰す暗闘が起点の習式統治、党大会前の意外な壁は中国軍」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "院政",
+        "reading": "いんせい",
+        "meaning": "修道院政府",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「院政の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「巨悪・院政潰す暗闘が起点の習式統治、党大会前の意外な壁は中国軍」と報じました。"
+      },
+      {
+        "word": "起点",
+        "reading": "きてん",
+        "meaning": "起点",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「起点の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「巨悪・院政潰す暗闘が起点の習式統治、党大会前の意外な壁は中国軍」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 44.465878805694445
+  }
+]
