@@ -1,0 +1,522 @@
+[
+  {
+    "category": "新闻",
+    "title": "プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発表（PR TIMES）",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zU3pZUV9haDR3Z0Frb25XdXpPYURDN3RhLWIxSTFaZmpuNU9XRmNaLWlRMkRjLXlIcW5iYWcwUHFESHpuaV96cUtyTFJmaklKYjFzb2pqMEdWZ3R4dkZoSTFNN2ctc210?oc=5",
+    "published": "2026-11-06 05:10",
+    "japanese_summary": "プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発表（PR TIMES） 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zU3pZUV9haDR3Z0Frb25XdXpPYURDN3RhLWIxSTFaZmpuNU9XRmNaLWlRMkRjLXlIcW5iYWcwUHFESHpuaV96cUtyTFJmaklKYjFzb2pqMEdWZ3R4dkZoSTFNN2ctc210?oc=5",
+    "chinese_title": "新闻稿：意法半导体推出用于人工智能数据中心和机器人实时控制的先进微控制器 (PR TIMES)",
+    "chinese_summary": "新闻稿：意法半导体宣布推出支持人工智能数据中心和机器人实时控制的先进微控制器 (PR TIMES) Mainichi Shimbun",
+    "detailed_japanese": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発表（PR TIMES）」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“新闻稿：意法半导体宣布推出与人工智能数据中心和机器人实时控制兼容的高级微控制器（PR TIMES）。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "エレクトロニクス-electronics",
+        "reading": "えれくとろにくす",
+        "meaning": "电子-电子",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「エレクトロニクス-electronicsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "マイコン-microcomputer",
+        "reading": "まいこん",
+        "meaning": "微型计算机-微型计算机",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マイコン-microcomputerの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "ロボティクス-robotics",
+        "reading": "ろぼてぃくす",
+        "meaning": "机器人技术-机器人技术",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロボティクス-roboticsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "リリース-release",
+        "reading": "りりーす",
+        "meaning": "释放-释放",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リリース-releaseの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "センター-center",
+        "reading": "せんたー",
+        "meaning": "中心对中心",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「センター-centerの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "マイクロ-micro",
+        "reading": "まいくろ",
+        "meaning": "微微",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マイクロ-microの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      }
+    ],
+    "grammar": [],
+    "score": 63.41119164930556
+  },
+  {
+    "category": "政治",
+    "title": "基地負担減に影響懸念 政府与党 米中間選挙で トランプ氏動向焦点",
+    "source": "沖縄タイムス社",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hM3p4UDZyamhYQ1E4RlpNYU1Mb1BhWGRJQnBzMkNzYkxxQnY4Y29hZzhPUFU5VUVYRXVscW9pc1k1bVloVWdEMEJNTE1CU0lSSmpja293UDVOa0dhamc?oc=5",
+    "published": "2026-11-06 04:00",
+    "japanese_summary": "基地負担減に影響懸念 政府与党 米中間選挙で トランプ氏動向焦点 沖縄タイムス社",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hM3p4UDZyamhYQ1E4RlpNYU1Mb1BhWGRJQnBzMkNzYkxxQnY4Y29hZzhPUFU5VUVYRXVscW9pc1k1bVloVWdEMEJNTE1CU0lSSmpja293UDVOa0dhamc?oc=5",
+    "chinese_title": "担心影响基层减负，政府及执政党关注美国中期选举特朗普动向",
+    "chinese_summary": "担心基层减负影响，政府及执政党关注美国中期选举特朗普动向 冲绳时报",
+    "detailed_japanese": "沖縄タイムス社は「基地負担減に影響懸念 政府与党 米中間選挙で トランプ氏動向焦点」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《冲绳时报》报道称，“政府和执政党担心影响基层负担，关注美国中期选举中的特朗普动向。”由于我们无法从原始文章中检索到足够的文字，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "トランプ-trump",
+        "reading": "とらんぷ",
+        "meaning": "特朗普-特朗普",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「トランプ-trumpの＋名词」构成修饰关系。",
+        "example": "沖縄タイムス社は「基地負担減に影響懸念 政府与党 米中間選挙で トランプ氏動向焦点」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "タイム-time",
+        "reading": "たいむす",
+        "meaning": "时间-时间",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「タイム-timeの＋名词」构成修饰关系。",
+        "example": "沖縄タイムス社は「基地負担減に影響懸念 政府与党 米中間選挙で トランプ氏動向焦点」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "沖縄タイムス社は「基地負担減に影響懸念 政府与党 米中間選挙で トランプ氏動向焦点」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 52.82785831597222
+  },
+  {
+    "category": "经济",
+    "title": "日経平均、2027年末に7万5000円 アセマネOneの吉沢氏",
+    "source": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95blB4LUhfNXU1UUdBekNkdG16eVRsQWR0bTg3azJodlpOM2JqZFpscVl3QVFva1FPT3VCM295bWRMX3ROOTVDcEZSUUF6RDdjaG1tZEpQWWFUODBOZDd4YnlCQkt3b2QtUVNLZQ?oc=5",
+    "published": "2026-11-06 04:00",
+    "japanese_summary": "日経平均、2027年末に7万5000円 アセマネOneの吉沢氏 日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95blB4LUhfNXU1UUdBekNkdG16eVRsQWR0bTg3azJodlpOM2JqZFpscVl3QVFva1FPT3VCM295bWRMX3ROOTVDcEZSUUF6RDdjaG1tZEpQWWFUODBOZDd4YnlCQkt3b2QtUVNLZQ?oc=5",
+    "chinese_title": "Asemane One 的吉泽先生表示，日经平均指数将在 2027 年底达到 75,000 日元",
+    "chinese_summary": "《资产管理一号日本经济新闻》吉泽先生表示，日经平均指数将于 2027 年底达到 75,000 日元",
+    "detailed_japanese": "日本経済新聞は「日経平均、2027年末に7万5000円 アセマネOneの吉沢氏」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "据《日本经济新闻》报道，“日经平均指数将在 2027 年底达到 75,000 日元”，Asset Management One 的吉泽表示。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "円-助数詞",
+        "reading": "えん",
+        "meaning": "圆对应",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「円-助数詞の＋名词」构成修饰关系。",
+        "example": "日本経済新聞は「日経平均、2027年末に7万5000円 アセマネOneの吉沢氏」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "日本経済新聞は「日経平均、2027年末に7万5000円 アセマネOneの吉沢氏」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "下さる",
+        "reading": "ください",
+        "meaning": "把它给我",
+        "pos": "动词",
+        "usage": "原形是「下さる」，文中形式是「ください」。活用类型：五段-ラ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "细节",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「詳細の＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 62.82785831597222
+  },
+  {
+    "category": "娱乐",
+    "title": "城桧吏、映画『リバイアサン』出演決定 生徒役最年少「楽しく撮影に臨むことができました！」［コメント全文＆生徒役一覧掲載］",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56LTFxeWg1X3dneDFVTnRvVmhGUVJpMmd3WG9vcXVVNkhEbDJwNGJrcUlzdlUyc0hkMGgxVWI1WVl5MEQ4eTZqakpaZDV4aXR3NzdZWVA2NVprNlcteFBvRHN3RG1BYUpp?oc=5",
+    "published": "2026-11-06 05:00",
+    "japanese_summary": "城桧吏、映画『リバイアサン』出演決定 生徒役最年少「楽しく撮影に臨むことができました！」［コメント全文＆生徒役一覧掲載］ 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56LTFxeWg1X3dneDFVTnRvVmhGUVJpMmd3WG9vcXVVNkhEbDJwNGJrcUlzdlUyc0hkMGgxVWI1WVl5MEQ4eTZqakpaZDV4aXR3NzdZWVA2NVprNlcteFBvRHN3RG1BYUpp?oc=5",
+    "chinese_title": "电影《利维坦》中最年轻的学生圣城：“拍得很开心！” [已发布完整评论和学生角色列表]",
+    "chinese_summary": "电影《利维坦》中最年轻的学生圣城“拍摄得很开心！”[完整评论和学生角色列表]每日新闻",
+    "detailed_japanese": "毎日新聞は「城桧吏、映画『リバイアサン』出演決定 生徒役最年少「楽しく撮影に臨むことができました！」［コメント全文＆生徒役一覧掲載］」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“城宏将作为最年轻的学生出演电影《利维坦》，“拍摄得很开心！”[包含完整评论和学生角色列表]。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "リバイアサン-Leviathan",
+        "reading": "りばいあさん",
+        "meaning": "Leviathan-利维坦",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リバイアサン-Leviathanの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「城桧吏、映画『リバイアサン』出演決定 生徒役最年少「楽しく撮影に臨むことができました！"
+      },
+      {
+        "word": "コメント-comment",
+        "reading": "こめんと",
+        "meaning": "评论-评论",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「コメント-commentの＋名词」构成修饰关系。",
+        "example": "」［コメント全文＆生徒役一覧掲載］」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "毎日新聞は「城桧吏、映画『リバイアサン』出演決定 生徒役最年少「楽しく撮影に臨むことができました！"
+      },
+      {
+        "word": "生徒",
+        "reading": "せいと",
+        "meaning": "学生",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「生徒の＋名词」构成修饰关系。",
+        "example": "毎日新聞は「城桧吏、映画『リバイアサン』出演決定 生徒役最年少「楽しく撮影に臨むことができました！"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "楽しい",
+        "reading": "たのしく",
+        "meaning": "乐趣",
+        "pos": "形容词",
+        "usage": "原形是「楽しい」，可按语境变为过去式、否定式或副词形式。",
+        "example": "毎日新聞は「城桧吏、映画『リバイアサン』出演決定 生徒役最年少「楽しく撮影に臨むことができました！"
+      }
+    ],
+    "grammar": [],
+    "score": 63.32785831597222
+  },
+  {
+    "category": "体育",
+    "title": "【トルシエ氏講演】失敗恐れず挑戦を 日韓W杯当時も回顧／サッカー元日本代表監督",
+    "source": "デーリー東北",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1Q3Vtc2dNbEREOTlYS1NjaFl4eGs3R0drSUt5VzdyU2lpSE8zdzRvX1F1dlNQN2NMeW9yWjFHWlFrSW9fZ0VpZjVYSmpWYUNtemRuamFqV1pKSzdxTG13U0dnczNyQTA?oc=5",
+    "published": "2026-11-06 05:02",
+    "japanese_summary": "【トルシエ氏講演】失敗恐れず挑戦を 日韓W杯当時も回顧／サッカー元日本代表監督 デーリー東北",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1Q3Vtc2dNbEREOTlYS1NjaFl4eGs3R0drSUt5VzdyU2lpSE8zdzRvX1F1dlNQN2NMeW9yWjFHWlFrSW9fZ0VpZjVYSmpWYUNtemRuamFqV1pKSzdxTG13U0dnczNyQTA?oc=5",
+    "chinese_title": "【特鲁西埃先生讲座】回忆日韩世界杯时光：勇于挑战，不畏失败 / 前日本国家足球队主帅",
+    "chinese_summary": "【特鲁西埃先生讲座】回忆日韩世界杯时光，不惧失败/日本前国家足球队主帅东北日报",
+    "detailed_japanese": "デーリー東北は「【トルシエ氏講演】失敗恐れず挑戦を 日韓W杯当時も回顧／サッカー元日本代表監督」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《东北日报》报道称：“[先生。特鲁西埃演讲】勇于挑战，不畏失败——日韩世界杯回忆/前日本国家足球队主教练。”由于我们无法从原始文章中检索到足够的文字，请检查源链接以获取更多信息。",
+    "vocabulary": [
+      {
+        "word": "サッカー-soccer",
+        "reading": "さっかー",
+        "meaning": "足球-足球",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「サッカー-soccerの＋名词」构成修饰关系。",
+        "example": "デーリー東北は「【トルシエ氏講演】失敗恐れず挑戦を 日韓W杯当時も回顧／サッカー元日本代表監督」と報じました。"
+      },
+      {
+        "word": "トルシエ-外国",
+        "reading": "とるしえ",
+        "meaning": "特鲁西耶-弗莱恩",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「トルシエ-外国の＋名词」构成修饰关系。",
+        "example": "デーリー東北は「【トルシエ氏講演】失敗恐れず挑戦を 日韓W杯当時も回顧／サッカー元日本代表監督」と報じました。"
+      },
+      {
+        "word": "デーリー-daily",
+        "reading": "でーりー",
+        "meaning": "每日每日",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「デーリー-dailyの＋名词」构成修饰关系。",
+        "example": "デーリー東北は「【トルシエ氏講演】失敗恐れず挑戦を 日韓W杯当時も回顧／サッカー元日本代表監督」と報じました。"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "恐れる",
+        "reading": "おそれ",
+        "meaning": "害怕",
+        "pos": "动词",
+        "usage": "原形是「恐れる」，文中形式是「恐れ」。活用类型：下一段-ラ行。",
+        "example": "デーリー東北は「【トルシエ氏講演】失敗恐れず挑戦を 日韓W杯当時も回顧／サッカー元日本代表監督」と報じました。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "デーリー東北は「【トルシエ氏講演】失敗恐れず挑戦を 日韓W杯当時も回顧／サッカー元日本代表監督」と報じました。"
+      }
+    ],
+    "grammar": [],
+    "score": 46.34452498263889
+  },
+  {
+    "category": "社会",
+    "title": "災害時のモバイルバッテリーの使い方！スマホ充電だけじゃない意外な活用法",
+    "source": "読売新聞",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNmgxak54Ymo2WW5DNWRudjZJOEhSTlVmdUxfNkJ0S0NzcWFvVFpoSHZiQmdrUkFXWjNodWZ5M1dDcFlOZEoyNm5wS0wyaVEzclRwV0JRdDJJRVJZR0FZOUJB?oc=5",
+    "published": "2026-11-06 06:01",
+    "japanese_summary": "災害時のモバイルバッテリーの使い方！スマホ充電だけじゃない意外な活用法 読売新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNmgxak54Ymo2WW5DNWRudjZJOEhSTlVmdUxfNkJ0S0NzcWFvVFpoSHZiQmdrUkFXWjNodWZ5M1dDcFlOZEoyNm5wS0wyaVEzclRwV0JRdDJJRVJZR0FZOUJB?oc=5",
+    "chinese_title": "灾难发生时手机电池的使用方法！除了为智能手机充电之外还有令人惊奇的用途",
+    "chinese_summary": "灾难发生时手机电池的使用方法！除了给智能手机充电之外，还有令人惊奇的使用方式 读卖新闻",
+    "detailed_japanese": "読売新聞は「災害時のモバイルバッテリーの使い方！スマホ充電だけじゃない意外な活用法」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《读卖新闻》报道“灾难时手机电池的使用方法！”令人惊讶的用途不仅仅是为智能手机充电。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "バッテリー-battery",
+        "reading": "ばってりー",
+        "meaning": "电池-电池",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「バッテリー-batteryの＋名词」构成修饰关系。",
+        "example": "読売新聞は「災害時のモバイルバッテリーの使い方！"
+      },
+      {
+        "word": "モビール-mobile",
+        "reading": "もばいる",
+        "meaning": "移动-移动",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「モビール-mobileの＋名词」构成修饰关系。",
+        "example": "読売新聞は「災害時のモバイルバッテリーの使い方！"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "読み売り",
+        "reading": "よみうり",
+        "meaning": "读卖",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「読み売りの＋名词」构成修饰关系。",
+        "example": "読売新聞は「災害時のモバイルバッテリーの使い方！"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "スマホ充電だけじゃない意外な活用法」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 54.836191649305555
+  },
+  {
+    "category": "数码科技",
+    "title": "プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発表（PR TIMES）",
+    "source": "毎日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zU3pZUV9haDR3Z0Frb25XdXpPYURDN3RhLWIxSTFaZmpuNU9XRmNaLWlRMkRjLXlIcW5iYWcwUHFESHpuaV96cUtyTFJmaklKYjFzb2pqMEdWZ3R4dkZoSTFNN2ctc210?oc=5",
+    "published": "2026-11-06 05:10",
+    "japanese_summary": "プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発表（PR TIMES） 毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zU3pZUV9haDR3Z0Frb25XdXpPYURDN3RhLWIxSTFaZmpuNU9XRmNaLWlRMkRjLXlIcW5iYWcwUHFESHpuaV96cUtyTFJmaklKYjFzb2pqMEdWZ3R4dkZoSTFNN2ctc210?oc=5",
+    "chinese_title": "新闻稿：意法半导体推出用于人工智能数据中心和机器人实时控制的先进微控制器 (PR TIMES)",
+    "chinese_summary": "新闻稿：意法半导体宣布推出支持人工智能数据中心和机器人实时控制的先进微控制器 (PR TIMES) Mainichi Shimbun",
+    "detailed_japanese": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発表（PR TIMES）」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "《每日新闻》报道称，“新闻稿：意法半导体宣布推出与人工智能数据中心和机器人实时控制兼容的高级微控制器（PR TIMES）。”请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "エレクトロニクス-electronics",
+        "reading": "えれくとろにくす",
+        "meaning": "电子-电子",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「エレクトロニクス-electronicsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "マイコン-microcomputer",
+        "reading": "まいこん",
+        "meaning": "微型计算机-微型计算机",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マイコン-microcomputerの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "ロボティクス-robotics",
+        "reading": "ろぼてぃくす",
+        "meaning": "机器人技术-机器人技术",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ロボティクス-roboticsの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "リリース-release",
+        "reading": "りりーす",
+        "meaning": "释放-释放",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リリース-releaseの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "センター-center",
+        "reading": "せんたー",
+        "meaning": "中心对中心",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「センター-centerの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      },
+      {
+        "word": "マイクロ-micro",
+        "reading": "まいくろ",
+        "meaning": "微微",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「マイクロ-microの＋名词」构成修饰关系。",
+        "example": "毎日新聞は「プレスリリース：STマイクロエレクトロニクス、AIデータセンターとロボティクスでのリアルタイム制御に対応した先進的なマイコンを発"
+      }
+    ],
+    "grammar": [],
+    "score": 63.41119164930556
+  },
+  {
+    "category": "军事",
+    "title": "いよいよ実用化か！ 中国軍「無人機空母」でステルス無人機の発着艦に成功 これが次世代の運用法？",
+    "source": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbHQ5TnhaVVZyVXZNam9BaGhEdVhqaEVHVDJjb1hRZzhvU001b08xTTJXY0xlQzhsMUVEVmUtcVhjb0oxbDRXb0ViZWlWWHo1enlJRG1oSFFTNkxOSVJSdmFBclNuTXhEbjU5MmFkZ0FaQkJnbGtBWjI0ZXZNUW8?oc=5",
+    "published": "2026-11-05 17:12",
+    "japanese_summary": "いよいよ実用化か！ 中国軍「無人機空母」でステルス無人機の発着艦に成功 これが次世代の運用法？ Yahoo!ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbHQ5TnhaVVZyVXZNam9BaGhEdVhqaEVHVDJjb1hRZzhvU001b08xTTJXY0xlQzhsMUVEVmUtcVhjb0oxbDRXb0ViZWlWWHo1enlJRG1oSFFTNkxOSVJSdmFBclNuTXhEbjU5MmFkZ0FaQkJnbGtBWjI0ZXZNUW8?oc=5",
+    "chinese_title": "终于可以投入实际使用了！中国军队“无人航母”成功发射隐形无人机并着舰？这是下一代操作方法吗？",
+    "chinese_summary": "终于可以投入实际使用了！中国军队“无人航母”成功发射隐形无人机并着舰？这是下一代操作方法吗？雅虎！消息",
+    "detailed_japanese": "Yahoo!ニュースは「いよいよ実用化か！ 中国軍「無人機空母」でステルス無人機の発着艦に成功 これが次世代の運用法？」と報じました。元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。",
+    "detailed_chinese": "雅虎！消息称：“终于可以投入实际使用了！”中国军队的“无人航母”成功发射隐形无人机并降落在船上。这是下一代操作方法吗？ ”报道。请检查源链接以获取更多信息，因为我们无法从原始文章中检索到足够的文本。",
+    "vocabulary": [
+      {
+        "word": "ステルス-stealth",
+        "reading": "すてるす",
+        "meaning": "隐身-隐身",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ステルス-stealthの＋名词」构成修饰关系。",
+        "example": "中国軍「無人機空母」でステルス無人機の発着艦に成功 これが次世代の運用法？"
+      },
+      {
+        "word": "ニュース-news",
+        "reading": "にゅーす",
+        "meaning": "新闻新闻",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「ニュース-newsの＋名词」构成修饰关系。",
+        "example": "Yahoo!ニュースは「いよいよ実用化か！"
+      },
+      {
+        "word": "無人",
+        "reading": "むじん",
+        "meaning": "无人",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「無人の＋名词」构成修饰关系。",
+        "example": "中国軍「無人機空母」でステルス無人機の発着艦に成功 これが次世代の運用法？"
+      },
+      {
+        "word": "リンク-rink",
+        "reading": "りんく",
+        "meaning": "链接-链接",
+        "pos": "名词",
+        "usage": "本文中作为名词使用；可以用「リンク-rinkの＋名词」构成修饰关系。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      },
+      {
+        "word": "報ずる",
+        "reading": "ほうじ",
+        "meaning": "报告",
+        "pos": "动词",
+        "usage": "原形是「報ずる」，文中形式是「報じ」。活用类型：サ行変格。",
+        "example": "」と報じました。"
+      },
+      {
+        "word": "出来る",
+        "reading": "でき",
+        "meaning": "我能做到",
+        "pos": "动词",
+        "usage": "原形是「出来る」，文中形式是「でき」。活用类型：上一段-カ行。",
+        "example": "元記事から十分な本文を取得できなかったため、詳細は出典リンクで確認してください。"
+      }
+    ],
+    "grammar": [],
+    "score": 33.42785831597222
+  }
+]
